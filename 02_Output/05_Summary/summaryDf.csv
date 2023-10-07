@@ -1,0 +1,62 @@
+,Category,Subcategory,Budget Sum (M USD),Direct Beneficiaries,Indirect Beneficiaries
+0,Grouping,SIDS,215250648.91,34299940.800000004,1818827.1304718591
+1,Grouping,LDC,1069822967.15,24134838.125,8410842.33261763
+2,Grouping,LLDC,381872752.03,31617065.75,9335025.26699694
+3,Economy,Low income,168200860.14999998,18945298.0,7075180.073040926
+4,Economy,High income,24128247.0,157985.0,84464.92925563798
+5,Economy,Upper middle income,727581414.107,339255172.70000005,39385063.58614544
+6,Economy,Lower middle income,1119267901.8600001,22862960.225,29740302.193592597
+7,Economy,Vietnam,7226661.0,113145.0,1189330.579075
+8,HDI,Low,406254467.26,21768841.5,19002164.24761878
+9,HDI,Very High,130409640.0,4933919.0,8698153.72255501
+10,HDI,Medium,939690222.66,20753363.475,3793149.8345455057
+11,HDI,High,565300007.197,333776048.95,45799373.5563903
+12,Region,RBA,1075757669.26,30319663.0,8416829.34701078
+13,Region,RBLAC,112009847.667,319799905.0,1544862.1505474502
+14,Region,RBAP,377054041.0,15431767.174999999,55174713.31802162
+15,Region,RBAS,169865197.0,7699961.75,1890843.6825492005
+16,Region,RBEC,321945120.32,8083264.0,10447092.862980543
+17,Beneficiary Tier,Access to Energy,1323212427.837,341543419.825,0.0
+18,Beneficiary Tier,Productive Use of Energy,624273519.74,27491144.1,0.0
+19,Beneficiary Tier,Market Development,191254705.75,921050.0,9210500.0
+20,Beneficiary Tier,Capacity Building,328693754.65999997,11378947.0,52989900.0
+21,Beneficiary Tier,Policy and Regulator Frameworks,285936649.65999997,0.0,15273941.36110959
+22,Beneficiary Tier,Other,24460573.0,0.0,0.0
+23,Beneficiary Category,Electricity Access,727110182.21,8866180.45,0.0
+24,Beneficiary Category,Small Enterprises,64811535.0,161850.0,1618500.0
+25,Beneficiary Category,Policy - Overall,62744359.75,0.0,1927725.2368509625
+26,Beneficiary Category,Policy - Energy efficiency,120095348.75,0.0,162702.00572305731
+27,Beneficiary Category,Policy - Clean cooking,67955635.75,0.0,7043761.083079998
+28,Beneficiary Category,Policy - Electricity access,106887428.0,0.0,2215064.5458015706
+29,Beneficiary Category,Policy - Renewable energy,86551965.66,0.0,3924688.4896540004
+30,Beneficiary Category,Energy (MW added),350443015.377,332130867.775,0.0
+31,Beneficiary Category,Agricultural Services,71592662.71000001,333569.0,0.0
+32,Beneficiary Category,Other Energy Services,306112725.65999997,8695032.1,0.0
+33,Beneficiary Category,Health Services,159160694.8,17995572.0,0.0
+34,Beneficiary Category,Education Services,151011689.57,258926.0,0.0
+35,Beneficiary Category,GHG Emission Reduction,22207988.91,0.0,0.0
+36,Beneficiary Category,Entrepreneurship Training,61323603.0,1367800.0,13678000.0
+37,Beneficiary Category,Water Services,128504285.0,208045.0,0.0
+38,Beneficiary Category,Capacity Training,274603772.65999997,3931190.0,39311900.0
+39,Beneficiary Category,Transport Services,41402749.0,0.0,0.0
+40,Beneficiary Category,Energy Efficiency,9929687.0,0.0,0.0
+41,Beneficiary Category,Clean Cooking,427886912.0,546371.6,0.0
+42,Beneficiary Category,GHG Emissions Reduction,131642042.0,0.0,0.0
+43,Beneficiary Category,Policy or Regulatory Framwork,1784862.0,0.0,0.0
+44,Beneficiary Category,Capacity Training ,1784862.0,0.0,0.0
+45,Beneficiary Category,Medium Enterprises,134693071.75,759200.0,7592000.0
+46,Beneficiary Category,Other,24460573.0,0.0,0.0
+47,Beneficiary Category,"Health Services, Education Services",3954035.0,0.0,0.0
+48,Beneficiary Category,Energy Infrastructure Services,9416167.0,0.0,0.0
+49,Beneficiary Category,Energy Access,500000.0,0.0,0.0
+50,Beneficiary Category,Energy Added (MW),3187669.0,0.0,0.0
+51,Beneficiary Category,"
+
+ Policy and Regulatory Framework
+",15000000.0,0.0,0.0
+52,Beneficiary Category,Campaign Participant,104809980.75,6079957.0,0.0
+53,Beneficiary Category,Energy Infrastructure Services ,916858.0,0.0,0.0
+54,Beneficiary Category, ,10446749.0,0.0,0.0
+55,Beneficiary Category,Health Services; Education Services,8726624.0,0.0,0.0
+56,Beneficiary Category,Electricity Access ,12895159.0,0.0,0.0
+57,Beneficiary Category,Electriciy Access,1780000.0,0.0,0.0

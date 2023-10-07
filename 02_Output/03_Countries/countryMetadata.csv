@@ -1,0 +1,132 @@
+,name 2,Country Code,m49,continent-region,sub-region,sids-region,un-member,undp-sids,un-region,Country Name,Region,Economy,LDC,SIDS,LLDC,HDI,Status
+0,Afghanistan,AFG,4,Asia,Southern Asia,,yes,,Asia-Pacific Group,Afghanistan,RBAP,Upper middle income,LDC,,LLDC,Low,Clean Up
+1,Albania,ALB,8,Europe,Southern Europe,,yes,,Eastern European Group,Albania,RBEC,Upper middle income,,,,High,Clean Up
+2,Algeria,DZA,12,Africa,Northern Africa,,yes,,African Group,Algeria,RBAS,Lower middle income,,,,High,Clean Up
+3,Angola,AGO,24,Africa,Sub-Saharan Africa,,yes,,African Group,Angola,RBA,Lower middle income,LDC,,,Medium,CO Update-2
+4,Argentina,ARG,32,Americas,Latin America and the Caribbean,,yes,,GRULAC,Argentina,RBLAC,Upper middle income,,,,Very High,CO Update-2
+5,Armenia,ARM,51,Asia,Western Asia,,yes,,Eastern European Group,Armenia,RBEC,Upper middle income,,,LLDC,High,Clean Up
+6,Azerbaijan,AZE,31,Asia,Western Asia,,yes,,Eastern European Group,Azerbaijan,RBEC,Upper middle income,,,LLDC,High,Clean Up
+7,Bahrain,BHR,48,Asia,Western Asia,AIS,yes,yes,Asia-Pacific Group,Bahrain,RBAS,High income,,SIDS,,Very High,Clean Up-2
+8,Bangladesh,BGD,50,Asia,Southern Asia,,yes,,Asia-Pacific Group,Bangladesh,RBAP,Lower middle income,LDC,,,Medium,Clean Up
+9,Barbados,BRB,52,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Barbados,RBLAC,High income,,SIDS,,High,Cleaned
+10,Belarus,BLR,112,Europe,Eastern Europe,,yes,,Eastern European Group,Belarus,RBEC,Upper middle income,,,,Very High,Clean Up-2
+11,Belize,BLZ,84,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Belize,RBLAC,Upper middle income,,SIDS,,Medium,Clean Up
+12,Benin,BEN,204,Africa,Sub-Saharan Africa,,yes,,African Group,Benin,RBA,Lower middle income,LDC,,,Low,Clean Up-2
+13,Bhutan,BTN,64,Asia,Southern Asia,,yes,,Asia-Pacific Group,Bhutan,RBAP,Lower middle income,LDC,,LLDC,Medium,Clean Up
+14,Bolivia (Plurinational State of),BOL,68,Americas,Latin America and the Caribbean,,yes,,GRULAC,Bolivia,RBLAC,Lower middle income,,,LLDC,Medium,Done
+15,Bosnia and Herzegovina,BIH,70,Europe,Southern Europe,,yes,,Eastern European Group,Bosnia and Herzegovina,RBEC,Upper middle income,,,,High,Clean Up
+16,Botswana,BWA,72,Africa,Sub-Saharan Africa,,yes,,African Group,Botswana,RBA,Upper middle income,,,LLDC,Medium,Clean Up
+17,Brazil,BRA,76,Americas,Latin America and the Caribbean,,yes,,GRULAC,Brazil,RBLAC,Upper middle income,,,,High,CO Update
+18,Burkina Faso,BFA,854,Africa,Sub-Saharan Africa,,yes,,African Group,Burkina Faso,RBA,Low income,LDC,,LLDC,Low,CO Update-2
+19,Burundi,BDI,108,Africa,Sub-Saharan Africa,,yes,,African Group,Burundi,RBA,Low income,LDC,,LLDC,Low,Clean Up-2
+20,Cabo Verde,CPV,132,Africa,Sub-Saharan Africa,AIS,yes,yes,African Group,Cabo Verde,RBA,Lower middle income,,SIDS,,Medium,Assumed no projects
+21,Cambodia,KHM,116,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Cambodia,RBAP,Lower middle income,LDC,,,Medium,Clean Up
+22,Cameroon,CMR,120,Africa,Sub-Saharan Africa,,yes,,African Group,"Cameroon, Republic of",RBA,Lower middle income,,,,Medium,Clean Up
+23,Central African Republic,CAF,140,Africa,Sub-Saharan Africa,,yes,,African Group,Central African Republic,RBA,Low income,LDC,,LLDC,Low,CO Update
+24,Chad,TCD,148,Africa,Sub-Saharan Africa,,yes,,African Group,Chad,RBA,Low income,LDC,,LLDC,Low,Clean Up
+25,Chile,CHL,152,Americas,Latin America and the Caribbean,,yes,,GRULAC,Chile,RBLAC,High income,,,,Very High,Done
+26,China,CHN,156,Asia,Eastern Asia,,yes,,Asia-Pacific Group,China,RBAP,Upper middle income,,,,High,Clean Up
+27,Colombia,COL,170,Americas,Latin America and the Caribbean,,yes,,GRULAC,Colombia,RBLAC,Upper middle income,,,,High,CO Update
+28,Comoros,COM,174,Africa,Sub-Saharan Africa,AIS,yes,yes,African Group,Comoros,RBA,Lower middle income,LDC,SIDS,,Medium,Clean Up-2
+29,Congo,COG,178,Africa,Sub-Saharan Africa,,yes,,African Group,Congo,RBA,Lower middle income,,,,Medium,CO Update-2
+30,"Congo, Democratic Republic of the",COD,180,Africa,Sub-Saharan Africa,,yes,,African Group,Dem. Rep. of the Congo,RBA,Low income,LDC,,,Low,Clean Up
+31,Costa Rica,CRI,188,Americas,Latin America and the Caribbean,Caribbean,yes,,GRULAC,Costa Rica,RBLAC,Upper middle income,,,,Very High,Clean Up-2
+32,Côte d'Ivoire,CIV,384,Africa,Sub-Saharan Africa,,yes,,African Group,Cote d'Ivoire,RBA,Lower middle income,,,,Medium,CO Update-3
+33,Cuba,CUB,192,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Cuba,RBLAC,Upper middle income,,SIDS,,High,Clean Up-2
+34,Cyprus,CYP,196,Asia,Western Asia,,yes,,Asia-Pacific Group,Cyprus,RBEC,High income,,,,Very High,Done
+35,Djibouti,DJI,262,Africa,Sub-Saharan Africa,,yes,,African Group,Djibouti,RBA,Lower middle income,LDC,,,Low,Clean Up
+36,Dominican Republic,DOM,214,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Dominican Republic,RBLAC,Upper middle income,,SIDS,,High,Clean Up-2
+37,Ecuador,ECU,218,Americas,Latin America and the Caribbean,,yes,,GRULAC,Ecuador,RBLAC,Upper middle income,,,,High,Clean Up
+38,Egypt,EGY,818,Africa,Northern Africa,,yes,,African Group,Egypt,RBAS,Lower middle income,,,,High,Updated-2
+39,El Salvador,SLV,222,Americas,Latin America and the Caribbean,,yes,,GRULAC,El Salvador,RBLAC,Lower middle income,,,,Medium,Clean Up
+40,Equatorial Guinea,GNQ,226,Africa,Sub-Saharan Africa,,yes,,African Group,Equatorial Guinea,RBA,Upper middle income,,,,Medium,Clean Up-2
+41,Eritrea,ERI,232,Africa,Sub-Saharan Africa,,yes,,African Group,Eritrea,RBA,Low income,LDC,,,Low,Assumed no projects
+42,Eswatini,SWZ,748,Africa,Sub-Saharan Africa,,yes,,African Group,Eswatini,RBA,Lower middle income,,,LLDC,Medium,Clean Up-2
+43,Ethiopia,ETH,231,Africa,Sub-Saharan Africa,,yes,,African Group,Ethiopia,RBA,Low income,,,LLDC,Low,Not Updated
+44,Fiji,FJI,242,Oceania,Melanesia,Pacific,yes,yes,Asia-Pacific Group,Fiji,RBAP,Upper middle income,,SIDS,,High,Clean Up
+45,Gabon,GAB,266,Africa,Sub-Saharan Africa,,yes,,African Group,Gabon,RBA,Upper middle income,,,,High,Assumed no projects
+46,Gambia,GMB,270,Africa,Sub-Saharan Africa,,yes,,African Group,Gambia,RBA,Low income,LDC,,,Low,Clean Up-2
+47,Georgia,GEO,268,Asia,Western Asia,,yes,,Eastern European Group,Georgia,RBEC,Upper middle income,,,,Very High,Clean Up
+48,Ghana,GHA,288,Africa,Sub-Saharan Africa,,yes,,African Group,Ghana,RBA,Lower middle income,,,,Medium,Assumed no projects
+49,Guatemala,GTM,320,Americas,Latin America and the Caribbean,,yes,,GRULAC,Guatemala,RBLAC,Upper middle income,,,,Medium,Done
+50,Guinea,GIN,324,Africa,Sub-Saharan Africa,,yes,,African Group,Guinea,RBA,Low income,LDC,,,Low,Clean Up
+51,Guinea-Bissau,GNB,624,Africa,Sub-Saharan Africa,AIS,yes,yes,African Group,Guinea-Bissau,RBA,Low income,LDC,SIDS,,Low,Clean Up-2
+52,Guyana,GUY,328,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Guyana,RBLAC,Upper middle income,,SIDS,,High,Clean Up-2
+53,Haiti,HTI,332,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Haiti,RBLAC,Lower middle income,LDC,SIDS,,Low,Clean Up-2
+54,Honduras,HND,340,Americas,Latin America and the Caribbean,,yes,,GRULAC,Honduras,RBLAC,Lower middle income,,,,Medium,Done
+55,India,IND,356,Asia,Southern Asia,,yes,,Asia-Pacific Group,India,RBAP,Lower middle income,,,,Medium,Clean Up
+56,Indonesia,IDN,360,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Indonesia,RBAP,Lower middle income,,,,High,CO Update-4
+57,Iran (Islamic Republic of),IRN,364,Asia,Southern Asia,,yes,,Asia-Pacific Group,Iran,RBAP,Lower middle income,,,,High,Clean Up
+58,Iraq,IRQ,368,Asia,Western Asia,,yes,,Asia-Pacific Group,Iraq,RBAS,Upper middle income,,,,Medium,Clean Up-2
+59,Jamaica,JAM,388,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Jamaica,RBLAC,Upper middle income,,,,High,Clean Up
+60,Jordan,JOR,400,Asia,Western Asia,,yes,,Asia-Pacific Group,Jordan,RBAS,Upper middle income,,,,High,Clean Up
+61,Kazakhstan,KAZ,398,Asia,Central Asia,,yes,,Asia-Pacific Group,Kazakhstan,RBEC,Upper middle income,,,LLDC,Very High,Clean Up
+62,Kenya,KEN,404,Africa,Sub-Saharan Africa,,yes,,African Group,Kenya,RBA,Lower middle income,,,,Medium,Clean Up
+63,"Korea, Republic of",KOR,410,Asia,Eastern Asia,,yes,,Asia-Pacific Group,"Korea, DPR",RBAP,High income,,,,,Assumed no projects
+64,Kosovo,XXK,688,Europe,Eastern Europe,,,,Eastern European Group,Kosovo,RBEC,Upper middle income,,,,,Clean Up
+65,Kuwait,KWT,414,Asia,Western Asia,,yes,,Asia-Pacific Group,Kuwait,RBAS,High income,,,,Very High,Assumed no projects
+66,Kyrgyzstan,KGZ,417,Asia,Central Asia,,yes,,Asia-Pacific Group,Kyrgyzstan,RBEC,Lower middle income,,,,Medium,Assumed no projects
+67,Lao People's Democratic Republic,LAO,418,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Lao PDR,RBAP,Lower middle income,LDC,,LLDC,Medium,Clean Up-2
+68,Lebanon,LBN,422,Asia,Western Asia,,yes,,Asia-Pacific Group,Lebanon,RBAS,Lower middle income,,,,High,Clean Up
+69,Lesotho,LSO,426,Africa,Sub-Saharan Africa,,yes,,African Group,Lesotho,RBA,Lower middle income,LDC,,LLDC,Low,Clean Up-2
+70,Liberia,LBR,430,Africa,Sub-Saharan Africa,,yes,,African Group,Liberia,RBA,Low income,LDC,,,Low,Assumed no projects
+71,Libya,LBY,434,Africa,Northern Africa,,yes,,African Group,Libya,RBAS,Upper middle income,,,,High,Clean Up-2
+72,Madagascar,MDG,450,Africa,Sub-Saharan Africa,,yes,,African Group,Madagascar,RBA,Low income,LDC,,,Low,CO Update
+73,Malawi,MWI,454,Africa,Sub-Saharan Africa,,yes,,African Group,Malawi,RBA,Low income,LDC,,LLDC,Low,Clean Up
+74,Malaysia,MYS,458,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Malaysia,RBAP,Upper middle income,,,,Very High,Updated-2
+75,Maldives,MDV,462,Asia,Southern Asia,AIS,yes,yes,Asia-Pacific Group,Maldives,RBAP,Upper middle income,,SIDS,,High,Clean Up
+76,Mali,MLI,466,Africa,Sub-Saharan Africa,,yes,,African Group,Mali,RBA,Low income,LDC,,LLDC,Low,CO Update-4
+77,Mauritania,MRT,478,Africa,Sub-Saharan Africa,,yes,,African Group,Mauritania,RBA,Lower middle income,LDC,,,Medium,Updated-2
+78,Mauritius,MUS,480,Africa,Sub-Saharan Africa,AIS,yes,yes,African Group,Mauritius,RBA,Upper middle income,,SIDS,,Very High,Clean Up
+79,Mexico,MEX,484,Americas,Latin America and the Caribbean,,yes,,GRULAC,Mexico,RBLAC,Upper middle income,,,,High,Clean Up
+80,"Moldova, Republic of",MDA,498,Europe,Eastern Europe,,yes,,Eastern European Group,Moldova Republic,RBEC,Upper middle income,,,LLDC,High,Clean Up
+81,Mongolia,MNG,496,Asia,Eastern Asia,,yes,,Asia-Pacific Group,Mongolia,RBAP,Lower middle income,,,LLDC,High,Clean Up-2
+82,Montenegro,MNE,499,Europe,Southern Europe,,yes,,Eastern European Group,Montenegro,RBEC,Upper middle income,,,,Very High,Clean Up
+83,Morocco,MAR,504,Africa,Northern Africa,,yes,,African Group,Morocco,RBAS,Lower middle income,,,,Medium,Clean Up-2
+84,Mozambique,MOZ,508,Africa,Sub-Saharan Africa,,yes,,African Group,Mozambique,RBA,Low income,LDC,,,Low,Clean Up
+85,Myanmar,MMR,104,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Myanmar,RBAP,Lower middle income,LDC,,,Medium,Updated-2
+86,Namibia,NAM,516,Africa,Sub-Saharan Africa,,yes,,African Group,Namibia,RBA,Upper middle income,,,,Medium,Done
+87,Nepal,NPL,524,Asia,Southern Asia,,yes,,Asia-Pacific Group,Nepal,RBAP,Lower middle income,LDC,,LLDC,Medium,Assumed no projects
+88,Niger,NER,562,Africa,Sub-Saharan Africa,,yes,,African Group,Niger,RBA,Low income,LDC,,LLDC,Low,Clean Up
+89,Nigeria,NGA,566,Africa,Sub-Saharan Africa,,yes,,African Group,Nigeria,RBA,Lower middle income,,,,Low,Done
+90,North Macedonia,MKD,807,Europe,Southern Europe,,yes,,Eastern European Group,North Macedonia,RBEC,Upper middle income,,,LLDC,High,Clean Up
+91,Pakistan,PAK,586,Asia,Southern Asia,,yes,,Asia-Pacific Group,Pakistan,RBAP,Lower middle income,,,,Low,Clean Up
+92,"Palestine, State of",PSE,275,Asia,Western Asia,,,,WEOG,Prog for Palestinian People,RBAS,Lower middle income,,,,High,Clean Up
+93,Panama,PAN,591,Americas,Latin America and the Caribbean,,yes,,GRULAC,Panama,RBLAC,High income,,,,Very High,CO Update
+94,Papua New Guinea,PNG,598,Oceania,Melanesia,Pacific,yes,yes,Asia-Pacific Group,Papua New Guinea,RBAP,Lower middle income,,SIDS,,Medium,Clean Up
+95,Paraguay,PRY,600,Americas,Latin America and the Caribbean,,yes,,GRULAC,Paraguay,RBLAC,Upper middle income,,,LLDC,High,CO Update-3
+96,Peru,PER,604,Americas,Latin America and the Caribbean,,yes,,GRULAC,Peru,RBLAC,Upper middle income,,,,High,Clean Up-2
+97,Philippines,PHL,608,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Philippines,RBAP,Lower middle income,,,,Medium,Clean Up
+98,Rwanda,RWA,646,Africa,Sub-Saharan Africa,,yes,,African Group,Rwanda,RBA,Low income,LDC,,LLDC,Low,Clean Up-2
+99,Samoa,WSM,882,Oceania,Polynesia,Pacific,yes,yes,Asia-Pacific Group,Samoa,RBAP,Lower middle income,,SIDS,,High,Clean Up
+100,Sao Tome and Principe,STP,678,Africa,Sub-Saharan Africa,AIS,yes,yes,African Group,Sao Tome & Principe,RBA,Lower middle income,LDC,SIDS,,Medium,Clean Up
+101,Saudi Arabia,SAU,682,Asia,Western Asia,,yes,,Asia-Pacific Group,Saudi Arabia,RBAS,High income,,,,Very High,Clean Up
+102,Senegal,SEN,686,Africa,Sub-Saharan Africa,,yes,,African Group,Senegal,RBA,Lower middle income,LDC,,,Low,Clean Up-2
+103,Serbia,SRB,688,Europe,Southern Europe,,yes,,Eastern European Group,Serbia,RBEC,Upper middle income,,,,Very High,Clean Up
+104,Sierra Leone,SLE,694,Africa,Sub-Saharan Africa,,yes,,African Group,Sierra Leone,RBA,Low income,LDC,,,Low,Assumed no projects
+105,Solomon Islands,SLB,90,Oceania,Melanesia,Pacific,yes,yes,Asia-Pacific Group,Solomon Islands,RBAP,Lower middle income,LDC,SIDS,,Medium,Clean Up
+106,Somalia,SOM,706,Africa,Sub-Saharan Africa,,yes,,African Group,Somalia,RBAS,Low income,LDC,,,,Clean Up
+107,South Africa,ZAF,710,Africa,Sub-Saharan Africa,,yes,,African Group,South Africa,RBA,Upper middle income,,,,High,Clean Up
+108,South Sudan,SSD,728,Africa,Sub-Saharan Africa,,yes,,African Group,South Sudan,RBA,Low income,LDC,,LLDC,Low,Updated-2
+109,Sri Lanka,LKA,144,Asia,Southern Asia,,yes,,Asia-Pacific Group,Sri Lanka,RBAP,Lower middle income,,,,High,Clean Up
+110,Sudan,SDN,729,Africa,Northern Africa,,yes,,African Group,Sudan,RBAS,Low income,LDC,,,Low,Missing
+111,Suriname,SUR,740,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Suriname,RBLAC,Upper middle income,,SIDS,,High,Clean Up
+112,Syrian Arab Republic,SYR,760,Asia,Western Asia,,yes,,Asia-Pacific Group,Syria,RBAS,Low income,,,,Medium,updated
+113,Tajikistan,TJK,762,Asia,Central Asia,,yes,,Asia-Pacific Group,Tajikistan,RBEC,Lower middle income,,,LLDC,Medium,Clean Up
+114,"Tanzania, United Republic of",TZA,834,Africa,Sub-Saharan Africa,,yes,,African Group,United Republic of Tanzania,RBA,Lower middle income,LDC,,,Low,CO Update
+115,Thailand,THA,764,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Thailand,RBAP,Upper middle income,,,,Very High,Clean Up-2
+116,Timor-Leste,TLS,626,Asia,South-eastern Asia,Pacific,yes,yes,Asia-Pacific Group,Timor-Leste,RBAP,Lower middle income,LDC,SIDS,,Medium,Clean Up
+117,Togo,TGO,768,Africa,Sub-Saharan Africa,,yes,,African Group,Togo,RBA,Low income,LDC,,,Low,CO Update
+118,Trinidad and Tobago,TTO,780,Americas,Latin America and the Caribbean,Caribbean,yes,yes,GRULAC,Trinidad & Tobago,RBLAC,High income,,SIDS,,Very High,Clean Up
+119,Tunisia,TUN,788,Africa,Northern Africa,,yes,,African Group,Tunisia,RBAS,Lower middle income,,,,High,Clean Up
+120,Turkey,TUR,792,Asia,Western Asia,,yes,,Asia-Pacific Group,Turkey,RBEC,Upper middle income,,,,Very High,CO Update-2
+121,Turkmenistan,TKM,795,Asia,Central Asia,,yes,,Asia-Pacific Group,Turkmenistan,RBEC,Upper middle income,,,LLDC,High,Clean Up-2
+122,Uganda,UGA,800,Africa,Sub-Saharan Africa,,yes,,African Group,Uganda,RBA,Low income,LDC,,LLDC,Low,Clean Up
+123,Ukraine,UKR,804,Europe,Eastern Europe,,yes,,Eastern European Group,Ukraine,RBEC,Lower middle income,,,,High,Missing
+124,Uruguay,URY,858,Americas,Latin America and the Caribbean,,yes,,GRULAC,Uruguay,RBLAC,High income,,,,Very High,CO Update
+125,Uzbekistan,UZB,860,Asia,Central Asia,,yes,,Asia-Pacific Group,Uzbekistan,RBEC,Lower middle income,,,LLDC,High,Clean Up-2
+126,Venezuela (Bolivarian Republic of),VEN,862,Americas,Latin America and the Caribbean,,yes,,GRULAC,Venezuela,RBLAC,"Venezuela, RB",,,,Medium,Review
+127,Viet Nam,VNM,704,Asia,South-eastern Asia,,yes,,Asia-Pacific Group,Viet Nam,RBAP,Vietnam,,,,High,Clean Up
+128,Yemen,YEM,887,Asia,Western Asia,,yes,,Asia-Pacific Group,Yemen,RBAS,Low income,LDC,,,Low,Clean Up
+129,Zambia,ZMB,894,Africa,Sub-Saharan Africa,,yes,,African Group,Zambia,RBA,Low income,LDC,,LLDC,Medium,Not Updated
+130,Zimbabwe,ZWE,716,Africa,Sub-Saharan Africa,,yes,,African Group,Zimbabwe,RBA,Lower middle income,,,LLDC,Medium,CO Update-4
