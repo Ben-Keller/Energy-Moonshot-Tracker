@@ -1,0 +1,329 @@
+moonshotCms = {
+    "text": {
+        "text-1": "The <b>UNDP Energy Moonshot</b> endeavors to catalyse unprecedented actions and partnerships to support provision of access to <b>sustainable, affordable, and reliable energy</b> to <b>500 million more people by 2025</b> and <b>accelerate the transition to renewable energy</b> through systemic changes that lead to inclusive green economies.",
+        "text-2": "To enhance monitoring of collective progress towards the Energy Moonshot, this tracker aims to identify the targeted beneficiaries for all UNDP energy-related projects active during the period of the UNDP Strategic Plan 2022 – 2025. These targets are compiled from project documents and validated with UNDP Country Offices.",
+        "text-3": "Select output categories and filters to analyze the <b>UNDP energy portfolio</b> during the period of the <b>Strategic Plan 2022-2025</b>:/n Direct and indirect beneficiaries are estimated based on project outputs supporting:<ul><li> Access to clean electricity and cooking for solar, wind, biomass, hydro, and geothermal</li><li> Productive use of energy related to health, water, food systems, education, and transport </li><li> Energy governance including policies, regulatory frameworks, roadmaps, and plans </li><li> Market development by access to finance and innovative finance mechanisms</li><li> Energy efficiency interventions to reduce energy costs and emissions</li></ul>",
+    },
+    "filters": [
+        {
+            "dataKey": "genderMarker",
+            "filterId":"genderMarker",
+            "tooltip": "UNDP recognizes gender equality as one of the most important contributions to human and sustainable development, prioritizing it as one of six signature solutions in its Strategic Plan.  UNDP’s work to support and accelerate countries’ energy transition is guided by the <a href='https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.undp.org%2Fsites%2Fg%2Ffiles%2Fzskgke326%2Ffiles%2F2022-09%2FUNDP_Gender_Equality_Strategy_2022-2025_EN.pdf&data=05%7C01%7Cana.rojas%40undp.org%7C326301c506134a16288308db2ad1194a%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638150849774064698%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=cv52nfzqSobLHYv%2Fgi0%2BtkTFg%2FoX224PFzEXfQxdhgU%3D&reserved=0'>Gender Equality Strategy 2022-2025</a>, steering efforts around: (i) promoting energy programming that unleashes women’s economic empowerment, across the energy value chain; (ii) fostering energy  investments that suit women, reduce time poverty and increase development opportunities; (iii) supporting gender-responsive governance systems that include, position and elevate women as leaders, and deliver gender-inclusive policies and institutions by enhancing the capacity of public and private institutions; and, (iv)  generating new data and knowledge to guide structural and social norms change, all of which are foundational to a just, affordable, inclusive and sustainable energy transition.",
+            "categories": [
+                {
+                    "display":"All gender markers",
+                    "dataKey":"All"
+                },
+                {
+                    "display": "GEN0",
+                    "dataValue": "GEN0",
+                    "tooltip": "GEN0: The project is not expected to contribute to gender equality"
+                },
+                {
+                    "display": "GEN1",
+                    "dataValue": "GEN1",
+                    "tooltip": "GEN1: The project contributes to gender equality in a limited way"
+                },
+                {
+                    "display": "GEN2",
+                    "dataValue": "GEN2",
+                    "tooltip": "GEN2: Gender equality is a significant objective of the project"
+                },
+                {
+                    "display": "GEN3",
+                    "dataValue": "GEN4",
+                    "tooltip": "GEN3: Gender equality as a principal objective of the project"
+                }
+            ]
+        },
+        {
+            "dataKey": "outputCategories",
+            "filterId": "outputCategories",
+            "categories": [
+                {
+                    "display":"All outputs",
+                    "dataKey":"All"
+                },
+                {
+                    "display": "Access",
+                    "dataValue": "Energy Access",
+                    "tooltip": "",
+                    "subcategories": ["Solar","Wind","Hydro","Geothermal","Biomass","Clean Cooking"]
+                },
+                {
+                    "display": "Transition",
+                    "dataValue": "Energy Transition",
+                    "tooltip": "",
+                    "subcategories": ["Solar","Wind","Hydro","Geothermal","Biomass"]
+                },
+                {
+                    "display": "Productive Use",
+                    "dataValue": "Productive Use",
+                    "tooltip": "",
+                    "subcategories": ["Health","Education","Water","Agriculture","Infrastructure","Transport"]
+                },
+                {
+                    "display": "Policy",
+                    "dataValue": "Policy or Regulatory Framework",
+                    "tooltip": "",
+                    "subcategories": []
+                },
+                {
+                    "display": "Finance",
+                    "dataValue": "Market Development",
+                    "tooltip": "",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "dataKey": "beneficiaryCategory",
+            "filterId": "beneficiaryCategory",
+            "categories": [
+                {
+                    "display":"All categories",
+                    "dataKey":"All"
+                },
+                {
+                    "dataValue": "Solar",
+                     "display": "Solar",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Wind",
+                    "display": "Wind",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Hydro",
+                    "display": "Hydro",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Biomass",
+                    "display": "Biomass",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Geothermal",
+                    "display": "Geothermal",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Clean Cooking",
+                    "display": "Clean Cooking",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Education Services",
+                    "displayText": "Education",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Agriculture and Food Systems",
+                    "displayText": "Agriculture",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Health Services",
+                    "displayText": "Health",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Water Services",
+                    "displayText": "Water",
+                    "tooltip": ""
+                },
+
+                {
+                    "dataValue": "Infrastructure Services",
+                    "displayText": "Infrastructure",
+                    "tooltip": ""
+                },
+                {
+                    "dataValue": "Transport Services",
+                    "displayText": "Transport",
+                    "tooltip": ""
+                }
+            ]
+        },
+        {
+            "filterId": "countryGroupings",
+            "filters": [
+                {
+                    "display": "All Country Groupings",
+                    "dataKey":"All"
+                },
+                {
+                    "display": "Regional Bureaus",
+                    "dataKey": "region",
+                    "categories": [
+                        {
+                            "display": "LAC",
+                            "dataValue": "RBLAC",
+                            "tooltip": ""
+                        },
+                        {
+                            "display": "Africa",
+                            "dataValue": "RBA",
+                            "tooltip": ""
+                        },
+                        {
+                            "display": "Arab States",
+                            "dataValue": "RBAS",
+                            "tooltip": ""
+                        },
+                        {
+                            "display": "Asia-Pacific",
+                            "dataValue": "RBAP",
+                            "tooltip": ""
+                        },
+                        {
+                            "display": "Europe & CIS",
+                            "dataValue": "RBEC",
+                            "tooltip": ""
+                        }
+                    ]
+                },
+                {
+                    "display":"Income Groupings",
+                    "dataKey": "incomeGrouping",
+                    "categories": [
+                        {
+                            "display": "High income",
+                            "dataValue": "High income",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "Upper middle income",
+                            "dataValue": "Upper middle income",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "Lower middle income",
+                            "dataValue": "Lower middle income",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "Low income",
+                            "dataValue": "Low income",
+                            "tooltip":""
+                            }
+                    ]
+                },
+                {
+                    "display": "HDI Tiers",
+                    "dataKey": "hdiTier",
+                    "categories": [
+                        {
+                            "display": "Very High",
+                            "dataValue": "Very High",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "High",
+                            "dataValue": "High",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "Medium",
+                            "dataValue": "Medium",
+                            "tooltip":""
+                            },
+                        {
+                            "display": "Low",
+                            "dataValue": "Low",
+                            "tooltip":""
+                            }
+                    ]
+                },
+                {
+                    "display":"Special Groupings",
+                    "dataKey": "specialGroupings",
+                    "categories": [
+                        {
+                            "display": "SIDS",
+                            "dataKey": "SIDS",
+                            "tooltip": "UNDP works with 50 Small Island Developing States through the SIDS Offer, Rising Up For SIDS"
+                        },
+                        {
+                            "display": "LDCs",
+                            "dataKey": "LDC",
+                            "tooltip": "UNDP works with 50 Small Island Developing States through the SIDS Offer, Rising Up For SIDS"
+                        },
+                        {
+                            "display": "LLDCs",
+                            "dataKey": "LLDC",
+                            "tooltip": "UNDP works with 50 Small Island Developing States through the SIDS Offer, Rising Up For SIDS"
+                        }
+                    ]
+                },
+            ]
+        },
+        {
+            "dataKey": "fundingSources",
+            "filterId":"fundingSources",
+            "categories": [
+                {
+                    "category": "Funding Sources",
+                    "dataKey": "fundingSources",
+                    "subcategories": [
+                        {
+                            "display": "All Funding Sources",
+                            "dataKey":"All"
+                        },  
+                        {
+                            "display": "VF",
+                            "tooltip": "Vertical Funded projects include those with multilateral fundings sources.",
+                            "dataKey": "VF"
+                        },
+                        {
+                            "display": "Non-VF",
+                            "tooltip": "Non-Vertical Funded projects are all UNDP projects with financing not from vertical funds.",
+                            "dataKey": "Non-VF"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "indicators": [
+        {
+            "indicator": "Direct Beneficiaries",
+            "indicatorDescription": "The total number of people directly benefiting",
+            "dataKey": "outputValue",
+            "binningRangeLarge": [100, 500, 1000, 10000, 50000, 100000, 1000000],
+            "aggregationLevel": "outputs"
+        },
+        {
+            "indicator": "Project Budget Totals",
+            "indicatorDescription": "Project Budget Totals (US)",
+            "dataKey": "budget",
+            "binningRangeLarge": [100, 500, 1000, 10000, 50000, 100000, 1000000],
+            "aggregationLevel": "projects"
+
+        },
+        {
+            "indicator": "Energy Saved (MJ)",
+            "indicatorDescription": "Energy Saved (MJ)",
+            "dataKey": "energySaved",
+            "binningRangeLarge": [100, 500, 1000, 10000, 50000, 100000, 1000000],
+            "aggregationLevel": "projects"
+
+        },
+        {
+            "indicator": "GHG Emissions Reduction",
+            "indicatorDescription": "GHG Emissions Reduction (tonnes CO2)",
+            "dataKey": "ghgReduction",
+            "binningRangeLarge": [100, 500, 1000, 10000, 50000, 100000, 1000000],
+            "aggregationLevel": "projects"
+        },
+        {
+            "indicator": "Number of Projects",
+            "indicatorDescription": "Number or Projects",
+            "dataKey": "None",
+            "binningRangeLarge": [100, 500, 1000, 10000, 50000, 100000, 1000000],
+            "aggregationLevel": "projects"
+        }
+    ]
+}
