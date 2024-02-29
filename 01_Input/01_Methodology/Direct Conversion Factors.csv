@@ -2,7 +2,7 @@
 Access to Energy,Electricity Access,1,
 Access to Energy,Energy (MW added),17500,"3500 households, average 5 people https://openknowledge.worldbank.org/server/api/core/bitstreams/248a72a05-e926-5946-9025-605b8035ad95/content"
 Access to Energy,Clean Cooking,1,per HH
-Productive Use of Energy,Agricultural Services,1,
+Productive Use of Energy,Agriculture and Food System,1,
 Productive Use of Energy,Health Services,1,
 Productive Use of Energy,Water Services,1,
 Productive Use of Energy,Education Services,1,
@@ -14,3 +14,5 @@ Capacity Building,Entrepreneurship Training,100,
 Capacity Building,Campaign Participant,1,
 Policy and Regulator Frameworks,Policy or Regulatory Framework,0,
 Other,Other,0,
+Productive Use of Energy,Transportation and E-mobility Services,1,
+Productive Use of Energy,Energy Infrastructure Services,1,
