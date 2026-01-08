@@ -1,393 +1,477 @@
-,Project ID,Project Title,Budget,Country,Country Code,Link,Donors,VF or Non-VF,Output Count
-0,117913.0,Résilience des communautés et des écosystèmes,3459600.0,Togo,TGO,http://open.undp.org/projects/00117913,UNDP,Non-VF,3
-1,134793.0,Accès aux énergies renouvelables en milieu rural au Togo,1431552.0,Togo,TGO,http://open.undp.org/projects/00134793,UNDP,Non-VF,3
-2,91204.0,Apoyo a la Modernización de La Gestión Ambiental,4202031.0,Panama,PAN,https://open.undp.org/projects/00082182,"UNDP (TRAC 4000) CLIMATE PROMISE (28708) - NDC Partnership (PAF)
+,Project ID,Project Title,Budget,Country,Country Code,Link,Donors,VF or Non-VF,Output Count,Project Description
+0,117913.0,Résilience des communautés et des écosystèmes,3459600.0,Togo,TGO,http://open.undp.org/projects/00117913,UNDP,Non-VF,3,
+1,134793.0,Accès aux énergies renouvelables en milieu rural au Togo,1431552.0,Togo,TGO,http://open.undp.org/projects/00134793,UNDP,Non-VF,3,
+2,1002293.0,Projet de développement des terroirs villageois sobres en carbone et résilients aux changements climatiques,,Togo,TGO,http://open.undp.org/projects/01002293,UNDP,Non-VF,1,
+3,91204.0,Apoyo a la Modernización de La Gestión Ambiental,4202031.0,Panama,PAN,https://open.undp.org/projects/00082182,"UNDP (TRAC 4000) CLIMATE PROMISE (28708) - NDC Partnership (PAF)
 Aes Panamá S.R.L
 Federal Ministry For The Environment, Nature Conservation And Nuclear Safety
-Pan-Government",Non-VF,1
-3,133871.0,Beyond Recovery COVID19 Energy,473000.0,Panama,PAN,"https://www.undp.org/es/panama/noticias/dos-aguas-y-un-proyecto-de-energia-solar-para-alcanzar-energia-sostenible
+Pan-Government",Non-VF,1,
+4,133871.0,Beyond Recovery COVID19 Energy,473000.0,Panama,PAN,"https://www.undp.org/es/panama/noticias/dos-aguas-y-un-proyecto-de-energia-solar-para-alcanzar-energia-sostenible
 
 https://open.undp.org/projects/00133871","UNDP (TRAC 4001) Donor 00012
-",Non-VF,2
-4,6613,Africa Mini-grids Program,1363947.0,Zambia,ZMB,PIMS+,,VF,3
-5,missing-ZMB-1,Solar For health,,Zambia,ZMB,,,Non-VF,2
-6,missing-ZMB-2,Greening UNDP Office,222653.39,Zambia,ZMB,,"UNDP, UNICEF, UNFPA, UNCDF, RCO, UNDSS, UNCTAD, DCO.",Non-VF,1
-7,126170.0,Access to Clean and Renewable Energy,3379000.0,Malawi,MWI,http://open.undp.org/projects/00126170,UNDP,Non-VF,6
-8,6512.0,GEF Africa Minigrids Program,396125.0,Malawi,MWI,PIMS+,GEF,VF,3
-9,5728,LED and high efficiency transformers in SA,5000000.0,South Africa,ZAF,PIMS+,,VF,2
-10,5256,South Africa Wind Energy Project (Phase II),3554250.0,South Africa,ZAF,PIMS+,Department of Energy. South Africa,VF,4
-11,missing-ZAF-1,Just Energy Transition Platform,273333.0,South Africa,ZAF,,UNDP LVGA,Non-VF,1
-12,missing-ZAF-2,Just Inclusive Energy Transition ,1000000.0,South Africa,ZAF,,Japan,Non-VF,10
-13,5669.0,IMPRESS,6075828.0,Samoa,WSM,PIMS+,,VF,5
-14,1000418.0,CAP-IT,15175755.0,Samoa,WSM,,,Non-VF,5
-15,6037.0,AREAN,3321563.0,Samoa,WSM,PIMS+,,VF,5
-16,120029.0,Sustainable Energy Programme,15436128.0,Lebanon,LBN,http://open.undp.org/projects/00120029,EU,Non-VF,2
-17,6468.0,Lebanon Sustainable Low-emission Transport Systems,3552968.0,Lebanon,LBN,"PIMS+
-https://www.thegef.org/projects-operations/projects/10358",GEF,VF,1
-18,143571.0,BRA/22/007 Desenvolvimento Sul do Piaui,1733569.0,Brazil,BRA,https://open.undp.org/projects/00143571,,Non-VF,3
-19,6403.0,Electric Mobility Jamaica,1784862.0,Jamaica,JAM,PIMS+,GEF,VF,6
-20,6163,AIM-WELL: Algeria Integrated Management of Waste Energy at the Local Level,4416210.0,Algeria,DZA,PIMS+,GEF,VF,1
-21,145179,Support to Algeria energy transition,400000.0,Algeria,DZA,https://open.undp.org/projects/00145179,UNDP,Non-VF,1
-22,missing-DZA-1,Italy UNDP Energy Partnership-Algeria,10000.0,Algeria,DZA,https://www.undp.org/romecentre/undp-italy-energy-partnership,Government of Italy ,,1
-23,106770.0,Enhanced Rural Resilience in Yemen II,24261743.0,Yemen,YEM,http://open.undp.org/projects/00106770,EU and SIDA,Non-VF,8
-24,135714.0,"Supporting Resilient Livelihoods, Food Security and Clim",2727783.0,Yemen,YEM,http://open.undp.org/projects/00135714,EU and SIDA,Non-VF,6
-25,137393.0,Renewable Energy Improved Access to Health Services,463769.0,Yemen,YEM,http://open.undp.org/projects/00137393,KUWAIT FUND FOR ARAB ECONOMIC DEVELOPMENT,Non-VF,4
-26,137462,Piloting e-mobility within Belize’s Public Transport Sys,5244326.91,Belize,BLZ,http://open.undp.org/projects/00137462,EU,Non-VF,5
-27,118209,Engender ,120000.0,Belize,BLZ,,"FCDO, GAC",Non-VF,1
-28,missing-countryCode-1,Photovoltaics in Punta Negra- Accessing Low Carbon Energy.,50000.0,Belize,BLZ,,GF,,4
-29,4018.0,"Policy
+",Non-VF,2,
+5,6613,Africa Mini-grids Program,1363947.0,Zambia,ZMB,https://co.pims.undp.org/project/view?id=6613,GEF,VF,3,
+6,missing-ZMB-1,Solar For health,,Zambia,ZMB,,,Non-VF,2,
+7,missing-ZMB-2,Greening UNDP Office,222653.39,Zambia,ZMB,,"UNDP, UNICEF, UNFPA, UNCDF, RCO, UNDSS, UNCTAD, DCO.",Non-VF,1,
+8,126170.0,Access to Clean and Renewable Energy,3379000.0,Malawi,MWI,http://open.undp.org/projects/00126170,UNDP,Non-VF,6,
+9,6512.0,GEF Africa Minigrids Program,396125.0,Malawi,MWI,PIMS+,GEF,VF,3,
+10,5728,LED and high efficiency transformers in SA,5000000.0,South Africa,ZAF,https://co.pims.undp.org/project/view?id=5728,GEF,VF,2,
+11,5256,South Africa Wind Energy Project (Phase II),3554250.0,South Africa,ZAF,PIMS+,Department of Energy. South Africa,VF,4,
+12,missing-ZAF-1,Just Energy Transition Platform,273333.0,South Africa,ZAF,,UNDP LVGA,Non-VF,1,
+13,missing-ZAF-2,Just Inclusive Energy Transition ,1000000.0,South Africa,ZAF,,Japan,Non-VF,10,
+14,5669.0,IMPRESS,6075828.0,Samoa,WSM,https://co.pims.undp.org/project/view?id=5669,GEF,VF,5,
+15,1000418.0,CAP-IT,15175755.0,Samoa,WSM,https://www.undp.org/samoa/projects/cap-it-project,Government of Japan,Non-VF,5,
+16,6037.0,AREAN,3321563.0,Niue,NIU,"PIMS+
+https://www.thegef.org/projects-operations/projects/9752",GEF,VF,5,
+17,120029.0,Sustainable Energy Programme,15436128.0,Lebanon,LBN,http://open.undp.org/projects/00120029,EU,Non-VF,2,
+18,6468.0,Lebanon Sustainable Low-emission Transport Systems,3552968.0,Lebanon,LBN,"https://co.pims.undp.org/project-attachment/index?projectId=6468 
+https://www.thegef.org/projects-operations/projects/10358 ",GEF,VF,1,
+19,1001708.0,Improving energy security and promoting the transition to sustainable energy in Lebanon,24321900.0,Lebanon,LBN,https://undp.lightning.force.com/lightning/r/Project__c/a386N000005LkApQAK/view,KfW,Non-VF,1,
+20,1001256.0,EU Support to Lebanon's Green Agenda - Sustainable Energy,20293291.0,Lebanon,LBN,https://undp.lightning.force.com/lightning/r/Project__c/a386N000005LZYGQA4/view,EU,Non-VF,1,
+21,143571.0,BRA/22/007 Desenvolvimento Sul do Piaui,1733569.0,Brazil,BRA,https://open.undp.org/projects/00143571,,Non-VF,4,
+22,6403.0,Electric Mobility Jamaica,1784862.0,Jamaica,JAM,PIMS+,GEF,VF,6,
+23,6163,AIM-WELL: Algeria Integrated Management of Waste Energy at the Local Level,4416210.0,Algeria,DZA,PIMS+,GEF,VF,1,
+24,145179,Support to Algeria energy transition,400000.0,Algeria,DZA,https://open.undp.org/projects/00145179,UNDP,Non-VF,1,
+25,missing-DZA-1,Italy UNDP Energy Partnership-Algeria,120000.0,Algeria,DZA,https://www.undp.org/romecentre/undp-italy-energy-partnership,Government of Italy ,Non-VF,1,
+26,106770.0,Enhanced Rural Resilience in Yemen II,24261743.0,Yemen,YEM,http://open.undp.org/projects/00106770,"EU, SIDA",Non-VF,8,
+27,135714.0,"Supporting Resilient Livelihoods, Food Security and Clim",2727783.0,Yemen,YEM,http://open.undp.org/projects/00135714,"EU, SIDA",Non-VF,5,
+28,137393.0,Renewable Energy Improved Access to Health Services,463769.0,Yemen,YEM,http://open.undp.org/projects/00137393,KUWAIT FUND FOR ARAB ECONOMIC DEVELOPMENT,Non-VF,4,
+29,137462,Piloting e-mobility within Belize’s Public Transport Sys,5244326.91,Belize,BLZ,http://open.undp.org/projects/00137462,EU,Non-VF,5,
+30,118209,Engender ,120000.0,Belize,BLZ,,"FCDO, GAC",Non-VF,1,
+31,missing-countryCode-1,Photovoltaics in Punta Negra- Accessing Low Carbon Energy.,50000.0,Belize,BLZ,https://sgp.undp.org/spacial-itemid-projects-landing-page/spacial-itemid-project-search-results/spacial-itemid-project-detailpage.html?view=projectdetail&id=32597,GF,VF,4,
+32,4018.0,"Policy
 Reforms and Market Transformation of the Energy Efficient Buildings Sector
-of the I.R. Iran (EEEB)",4000000.0,Iran,IRN,https://open.undp.org/projects/00063735,GEF,VF,5
-30,132166,Tiendas Comunitarias - La Guajira,,Colombia,COL,"https://www.undp.org/es/colombia/news/en-la-guajira-mujeres-rurales-lideran-tiendas-comunitarias-para-su-empoderamiento-econ%C3%B3mico
+of the I.R. Iran (EEEB)",4000000.0,Iran,IRN,https://open.undp.org/projects/00063735,GEF,VF,5,
+33,126602.0,(Agrovoltaics)Project for Developing Wetlands Conservation System in Lake Urmia and Other Wetlands Basin Communities,508296.0,Iran,IRN,"https://open.undp.org/projects/00128285
+UNDP Transparency Portal
+ ",Government of Japan,non-VF,2,
+34,133343.0,Water Stress in Chabahar,1770000.0,Iran,IRN,https://open.undp.org/projects/00146138,Government of Japan,non-VF,5,
+35,132166.0,Tiendas Comunitarias - La Guajira,14780.0,Colombia,COL,"https://www.undp.org/es/colombia/news/en-la-guajira-mujeres-rurales-lideran-tiendas-comunitarias-para-su-empoderamiento-econ%C3%B3mico
 https://www.youtube.com/watch?v=6vtlQRzqaUw
-https://open.undp.org/projects/00132166","Donor 00012: UNDP's Rapid Response Facility (RRF2) program https://www.undp.org/press-releases/covid-19-30-million-rapid-response-facility-launched-vulnerable-countries
-
-Donor 00012: CO UNDP Funding
-https://www.undp.org/es/colombia",Non-VF,1
-31,123292,Tiendas Comunitarias - Chocó,,Colombia,COL,"https://pnudcolombia.exposure.co/juntas-y-poderosas
+https://open.undp.org/projects/00132166",,Non-VF,1,
+36,123292.0,Tiendas Comunitarias - Chocó,9217.0,Colombia,COL,"https://pnudcolombia.exposure.co/juntas-y-poderosas
 
 https://www.youtube.com/watch?v=h6buc3MubaY
 
-https://open.undp.org/projects/00123292","Donor 12641: The United Nations Multi-Partner Trust Fund for Sustaining Peace in Colombia / (Previously Known As Mptf-Colombia Post-Conflict Unmptf)
+https://open.undp.org/projects/00123292","Donor 00012: UNDP's Rapid Response Facility (RRF2) program https://www.undp.org/press-releases/covid-19-30-million-rapid-response-facility-launched-vulnerable-countries
+
+Donor 00012: CO UNDP Funding
+https://www.undp.org/es/colombia",Non-VF,1,
+37,98331.0,"
+Implement collective reparation measures in 7 ethnic communities and one non-ethnic community in photovoltaic power lines and definition of sustainability strategy",3627.0,Colombia,COL,https://open.undp.org/projects/00098331,"Donor 12641: The United Nations Multi-Partner Trust Fund for Sustaining Peace in Colombia / (Previously Known As Mptf-Colombia Post-Conflict Unmptf)
 https://mptf.undp.org/
 
 Donor 00012: CO UNDP Funding
-https://www.undp.org/es/colombia",Non-VF,1
-32,98331,"
-Implement collective reparation measures in 7 ethnic communities and one non-ethnic community in photovoltaic power lines and definition of sustainability strategy",,Colombia,COL,https://open.undp.org/projects/00098331,"Donor 12844 Victims Unit (Government of Colombia) 
-https://www.unidadvictimas.gov.co/es/
+https://www.undp.org/es/colombia",Non-VF,2,
+38,6469.0,Comoros national child project - Africa Minigrids Program (AMP),1269863.0,Comoros,COM,https://co.pims.undp.org/project/view?id=6469,GEF/PNUD,VF,4,
+39,5484.0,Comoros Geothermal,5905662.0,Comoros,COM,https://co.pims.undp.org/project/view?id=5484,GEF /PNUD,VF,3,
+40,5740.0,Assurer un approvisionnement en eau résilient aux changement climatique aux comores ER2C ,20345141.0,Comoros,COM,Pims +,GCF /PNUD,VF,1,
+41,1001412.0,Électrification et Croissance en Union des Comores,2000000.0,Comoros,COM,,USAID/ PNUD,Non-VF,2,
+42,142807.0,Energy Efficiency in Barda and Ganja,885772.0,Azerbaijan,AZE,http://open.undp.org/projects/00142807,"GOV. of Japan, 
+UNDP",Non-VF,2,
+43,6479.0,Energy Efficiency in Buildings – EMIS and Green Social Housing,4521005.0,Azerbaijan,AZE,https://co.pims.undp.org/project/view?id=6479,GEF,VF,1,
+44,5492 / 00101330,Moldova Green Cities,127500.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/moldova-sustainable-green-cities,"GEF, UNDP",Non-VF,7,
+45,130906,Addressing the impacts of the energy crisis in the Republic of Moldova: Initiating solutions toward energy security and energy poverty,649000.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/addressing-impacts-energy-crisis-republic-moldova,European Union $13.5M,Non-VF,5,
+46,1000378,"Multidimensional response to emerging human security challenges - ""Biomass revitalization""",2298111.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/multidimensional-response-emerging-human-security-challenges-moldova,"Japan $ 2,2  (2023)
+",Non-VF,1,
+47,133573,Emergency support for agri-producers /energy technologies ,4150139.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/emergency-support-agri-producers-context-socio-economic-climate-and-energy-crisis,"Austria (ADA) $ 455,455.53 (2024)
+Switzerland (SDC)$ 986,845.96 (2024)",Non-VF,1,
+48,1001727,"Greening the future, advancing rights and stability: spurring an inclusive and green transition with responsive governance in the eastern neighbourhood region (Molodva)",4268266.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/greening-future-advancing-rights-and-stability-spurring-inclusive-and-green-transition-responsive-governance-eastern-neighbourhood,"Denmark: 2024	= $1,217,005, 2025 = $1,887,018, 2026 = $910,065, 2027 = $254,178",Non-VF,1,
+49,1000952,Accelerating a Just Transition in the Republic of Moldova Programme,20675141.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/accelerating-just-transition-republic-moldova-programme,"Italy: 2024 = $7,813,710, 2025 = $3,151,201
 
-Donor 10503: Norwegian Government
-https://www.regjeringen.no/en/id4/",Non-VF,1
-33,6469.0,Comoros national child project - Africa Minigrids Program (AMP),1269863.0,Comoros,COM,PIMS+,,VF,4
-34,5484.0,Comoros Geothermal,5905662.0,Comoros,COM,PIMS+,,VF,3
-35,5740.0,Assurer un approvisionnement en eau résilient aux changement climatique aux comores ER2C ,20345141.0,Comoros,COM,Pims +,,VF,1
-36,142807.0,Energy Efficiency in Barda and Ganja,885772.0,Azerbaijan,AZE,http://open.undp.org/projects/00142807,"GOV. of Japan, 
-UNDP",Non-VF,2
-37,6479.0,Energy Efficiency in Buildings – EMIS and Green Social Housing,4521005.0,Azerbaijan,AZE,PIMS+,,VF,1
-38,5492 / 00101330,Moldova Green Cities,127500.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/moldova-sustainable-green-cities,"GEF, UNDP",Non-VF,7
-39,130906,Addressing the impacts of the energy crisis in the Republic of Moldova: Initiating solutions toward energy security and energy poverty,649000.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/addressing-impacts-energy-crisis-republic-moldova,European Union $13.5M,Non-VF,5
-40,1000378,"Multidimensional response to emerging human security challenges - ""Biomass revitalization""",2298111.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/multidimensional-response-emerging-human-security-challenges-moldova,"Japan $ 2,2  (2023)
-",Non-VF,1
-41,133573,Emergency support for agri-producers /energy technologies ,1983621.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/emergency-support-agri-producers-context-socio-economic-climate-and-energy-crisis,"Austria (ADA) $670,123 (2024)",Non-VF,1
-42,4685,Congo Micro-hydroelectricity,1944133.0,Congo,COG,PIMS+,,VF,1
-43,5543.0,A systemic approach for GHG emission,2640000.0,Jordan,JOR,PIMS+,GEF,VF,4
-44,114336.0,Mejor calidad de vida en El Seibo,650039.0,Dominican Republic,DOM,http://open.undp.org/projects/00114336,,Non-VF,4
-45,10414.0,GEF SGP 7th Operational Phase – Core (Part 2),20919834.0,Dominican Republic,DOM,https://www.thegef.org/projects-operations/projects/10414,,Non-VF,6
-46,128651,Stockholm plus 50,94000.0,Sierra Leone,SLE,https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffinance.partneragencies.org%2Fpsp%2FUNDPP1FS%2FEMPLOYEE%2FERP%2Fc%2FESTABLISH_AWARDS.GM_BUD_DETAIL.GBL%3FPage%3DPC_BUD_DETAIL2%26BUDGET_PERIOD%3D3%26BUSINESS_UNIT%3DUNDP1%26PC_BUDGET_ID%3D1%26PC_BUD_TYPE%3DC%26PROJECT_ID%3D00128651%26Action%3DU&data=05%7C01%7Ctanzila.sankoh%40undp.org%7C8b842e0b18fc40bce26a08db6cfa8896%7Cb3e5db5e2944483799f57488ace54319%7C0%7C0%7C638223595505234431%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=r2G6QQR%2Fxul%2BDT8sJoORs9dWDHelO9mkedvPC1PoM%2Fs%3D&reserved=0,Swedish Government ,Non-VF,1
-47,126004,Youth Empowerment and Employment,160000.0,Sierra Leone,SLE,https://estm.fa.em2.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=1bhjjzg4kz_5,UNDP (TRAC 2 resources),Non-VF,1
-48,122410,Technical and Advisory Support to Electricty sector,7939225.0,Saudi Arabia,SAU,http://open.undp.org/projects/00122410,Gov. of Saudi Arabia,Non-VF,1
-49,129076,Project to support the energy transition in the context of the implementation of the NDC ,250000.0,Senegal,SEN,,,Non-VF,1
-50,122455,Off-grid Renewable Energy Solutions in Rural Suriname,753663.0,Suriname,SUR,https://open.undp.org/projects/00122455,,Non-VF,1
-51,112081.0,NAMA-Investing in Solar PV,982678.0,Gambia,GMB,http://open.undp.org/projects/00112081,,Non-VF,1
-52,131568.0,Sare Demba Toro,678110.0,Gambia,GMB,https://open.undp.org/projects/00109904,,Non-VF,3
-53,143659.0,"Nature, Climate, Energy, and Resilience Programme",1980000.0,Uganda,UGA,http://open.undp.org/projects/00143659,,Non-VF,5
-54,5574.0,NAMA Integrated Wastewater Treatment,2170030.0,Uganda,UGA,PIMS+,,VF,3
-55,122398.0,Seventh Operational Phase of the GEF Small Grants Programme in Mexico,50000.0,Mexico,MEX,https://open.undp.org/projects/00128385,,Non-VF,9
-56,5299.0,Production of bio methane,2632300.0,Botswana,BWA,PIMS+,,VF,3
-57,5831,Low Carbon Technologies and Green Development,1750172.0,Guyana,GUY,https://co.pims.undp.org/project/view?id=5831,GEF,VF,1
-58,116770.0,Trilateral Cooperation on Biogas and Solar - Transitioning to Sustainable Energy Uses in public and private institutions including in the Agro-Industry ,2042396.0,Ethiopia,ETH,http://open.undp.org/projects/00120660,"(1) MOFCOM: 1,000,000
-(2) Co-financing: 1,042,396",Non-VF,3
-59,5200.0, Promoting Sustainable Rural Energy Technologies (RETs) for Household and Productive Uses,73137680.0,Ethiopia,ETH,PIMS+ https://co.pims.undp.org/project/view?id=5200,"
+Sweden: 2024 = $9,560,229.01",Non-VF,1,
+50,1002849,"Resilient Communities through Women Empowerment, phase II",8461359.0,Moldova Republic,MDA,https://www.undp.org/moldova/projects/resilient-communities-through-women-empowerment-phase-2,"Sweden: 2024 = $182,338.04, 2025 = $1,689,690.26, 2026 = $1,686,532.06, 2027 = $1,137,162.54, 2028 = $299,093.38
+
+Norway: 2024 = $592,708.17, 2025 = $1,063,419.99, 2026 = $747,128,23	 ",Non-VF,1,
+51,1001335,Enabling an Inclusive Green Transition in the Republic of Moldova,7894000.0,Moldova Republic,MDA,https://open.undp.org/projects/01001335,,Non-VF,2,
+52,4685.0,Congo Micro-hydroelectricity,1944133.0,Congo,COG,https://co.pims.undp.org/project/view?id=4685,GEF,VF,2,
+53,5543.0,A systemic approach for GHG emission,2640000.0,Jordan,JOR,PIMS+,GEF,VF,4,
+54,139584.0,Scaling Up Sustainable Cooling in the Middle East (Cool Up),785000.0,Jordan,JOR,,,Non-VF,1,
+55,114336.0,Mejor calidad de vida en El Seibo,650039.0,Dominican Republic,DOM,http://open.undp.org/projects/00114336,,Non-VF,4,
+56,10414.0,GEF SGP 7th Operational Phase – Core (Part 2),20919834.0,Dominican Republic,DOM,https://www.thegef.org/projects-operations/projects/10414,GEF,Non-VF,6,
+57,120430.0,Natural Resoure Management,2200000.0,Sierra Leone,SLE,https://estm.fa.em2.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=g7nug1kw3_1300&fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&_afrLoop=7211426784636750,Global Fund,Non-VF,2,
+58,132037.0,"Shine Salone: Illuminating lives, Igniting futures",427152.0,Sierra Leone,SLE,https://estm.fa.em2.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=g7nug1kw3_5,Trac 2 Funds,Non-VF,4,
+59,122410,Technical and Advisory Support to Electricty sector,7939225.0,Saudi Arabia,SAU,http://open.undp.org/projects/00122410,Gov. of Saudi Arabia,Non-VF,1,
+60,127688.0,"ONU/21/001 Innovative Finance for Clean Tech Solutions in Uruguay´s Renewable Energy Sector: The Renewable Energy Innovation Fund (REIF)
+",804250.0,Uruguay,URY,https://open.undp.org/projects/00137005,Joint SDG Fund,Non-VF,5,"The program seeks to decarbonize the industrial and transportation sectors, promote universal access to renewable energy sources, and increase innovation and competitiveness in the energy sector by reducing energy costs and increasing the participation of women in the clean energy economy."
+61,101784.0,URU/17/G32 MOVÉS: Towards a sustainable and efficient urban mobility system in Uruguay,1720933.0,Uruguay,URY,https://www.undp.org/es/uruguay/proyectos/moves-hacia-un-sistema-de-movilidad-urbana-sostenible-y-eficiente-en-uruguay,Global Environment Fund Truste,VF,6,"The project aimed to empower relevant stakeholders in the urban transport sector to carry out a strategic transition to low-carbon passenger and freight mobility. It tested the effectiveness of a set of innovative policies and measures and launched a reform process to establish an enabling environment for urban transport policy innovation. It also facilitated the reform of the framework of urban transport regulations and incentives, focusing on public transport quality, the promotion of non-motorized transport modes, the adoption of electric vehicles in the public transport and urban distribution services sectors, cooperation between authorities, relevant stakeholders, and GHG emission control systems."
+62,113203.0,NNWWTP PV Power Plant ,1600000.0,Cyprus,CYP,,,Non-VF,4,
+63,129076,Project to support the energy transition in the context of the implementation of the NDC ,250000.0,Senegal,SEN,,,Non-VF,1,
+64,122455,Off-grid Renewable Energy Solutions in Rural Suriname,753663.0,Suriname,SUR,https://open.undp.org/projects/00122455,,Non-VF,1,
+65,112081.0,NAMA-Investing in Solar PV,982678.0,Gambia,GMB,http://open.undp.org/projects/00112081,,Non-VF,1,
+66,109904.0,Sare Demba Toro,678110.0,Gambia,GMB,https://open.undp.org/projects/00109904,,Non-VF,4,
+67,143659.0,"Nature, Climate, Energy, and Resilience Programme",1980000.0,Uganda,UGA,http://open.undp.org/projects/00143659,,Non-VF,5,
+68,5574.0,NAMA Integrated Wastewater Treatment,2170030.0,Uganda,UGA,https://co.pims.undp.org/project/view?id=5574,,VF,3,
+69,5711.0,"Building Resilient Communities, Wetland Ecosystems and Associated Catchments in Uganda",,Uganda,UGA,,,,1,
+70,122398.0,Seventh Operational Phase of the GEF Small Grants Programme in Mexico,50000.0,Mexico,MEX,https://open.undp.org/projects/00128385,,Non-VF,9,
+71,5299.0,Production of bio methane,2632300.0,Botswana,BWA,https://co.pims.undp.org/project/view?id=5299,GEF,VF,3,
+72,1137180.0,Biogas National Roll Out Project,1535908.0,Botswana,BWA,,,Non-VF,4,
+73,5831,Low Carbon Technologies and Green Development,1750172.0,Guyana,GUY,https://co.pims.undp.org/project/view?id=5831,GEF,VF,1,
+74,116770.0,"Biogas, Biomass and Solar Trilateral Cooperation (Transitioning to Sustainable Energy Uses in the Agro-Industry)",-1.0,Ethiopia,ETH,http://open.undp.org/projects/00120660,"(1) MOFCOM: 1,000,000
+(2) Co-financing: 1,042,396",VF,8,
+75,93964.0,Promoting Sustainable Rural Energy Technologies (RETs) for Household and Productive Uses,73137680.0,Ethiopia,ETH,PIMS+ https://co.pims.undp.org/project/view?id=5200,"
 (1) GEF: 4,480,500.00
-(2) Co-financing: 69,045,899",VF,9
-60,127444.0, National Child Project under the Africa Minigrids Program - Ethiopia,16664577.0,Ethiopia,ETH,PIMS+ https://co.pims.undp.org/project/view?id=6338,"(1) GEF: 2,890,826
-(2) Co-financing: 13,773,751",VF,9
-61,"6161, 106273",Emissions Trading and MRV in Belarus,840000.0,Belarus,BLR,https://co.pims.undp.org/project/view?id=6161,GEF,"VF, Non-VF",2
-62,79213,Bahrain Unit for Sustainable Energy,7254715.0,Bahrain,BHR,http://open.undp.org/projects/00079213,"Gov. of Bahrain, 
-Office of Minister of Energy",Non-VF,1
-63,106668.0,Support to increased production of and access to renewable energy systems in East and West Sepik Provinces (STREIT),3954035.0,Papua New Guinea,PNG,https://open.undp.org/projects/00106668,EU,Non-VF,5
-64,100396.0,Enhancing Green Transformation in the Pacific towards Net-Zero Emissions and Climate-Resilient Development for Peace ,3726000.0,Papua New Guinea,PNG,,Japan,Non-VF,1
-65,UNDP-MDG-00132364,Africa mini grids projects,824590.0,Madagascar,MDG,,,Non-VF,6
-66,"UNDP-MDG-00129975
-UNDP-MDG-00129976",Résilience & Dvpt Territorial ,2286000.0,Madagascar,MDG,,,Non-VF,4
-67,UNDP-MDG-00123355,Financement Intégré Energies R,8748560.0,Madagascar,MDG,,,Non-VF,4
-68,missing-VEN-1,"Ensuring access to affordable, secure, sustainable and modern energy for all (SDG 7)",1400000000.0,Venezuela,VEN,Not yet available,Can you please provide the donors of the projects ? ,Non-VF,2
-69,91460,Sustainable Energy For ALL,720000.0,Lesotho,LSO,5367 Lesotho Sustainable Energy for All (undp.org),,Non-VF,7
-70,missing-LSO-1,UNDP Moonshot: Greening the UN House,57000.0,Lesotho,LSO,,,Non-VF,1
-71,132730,"Climate Adaptation, Water and Energy Programme",14251782.0,Zimbabwe,ZWE,,FCDO,Non-VF,1
-72,132179,TRAC  2 Energy Offer project ,1500000.0,Zimbabwe,ZWE,,TRAC 2,Non-VF,4
-73,133752,Joint SDG Fund Project ,45000000.0,Zimbabwe,ZWE,,Joint SDG Fund,Non-VF,1
-74,missing-ZWE-1,Solar for Health (S4H),21312267.61,Zimbabwe,ZWE,,Global Fund (Next phase will be funded by GCF),Non-VF,1
-75,146913.0,Fortalecimiento institucional CENACE,200000.0,Ecuador,ECU,https://open.undp.org/projects/00146913,,Non-VF,1
-76,110105.0,Fortalecimiento a la gestión ambiental,439879.0,Ecuador,ECU,https://open.undp.org/projects/00110105,,Non-VF,3
-77,6411,Sustainable Cities Impact Program - Morocco,9416167.0,Morocco,MAR,PIMS+,,VF,1
-78,5284,PV pumping systems for irrigation,2639726.0,Morocco,MAR,PIMS+,,VF,1
-79,6542.0,PASBET,3439041.0,Pakistan,PAK,PIMS+,GEF,VF,8
-80,134230.0,Climate Promise-II ,540000.0,Pakistan,PAK,,Climate Promise ,Non-VF,4
-81,124739.0,SIDA UNDP Strategic Collaboration on Env and CC,36443657.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00124739,SIDA,Non-VF,1
-82,139866.0,Programme Initiation plan energy hub,1174548.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00139866,,Non-VF,2
-83,111467.0,Linking the Kigali Amendment with EE in the RAC Sector,11205031.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00111467,,Non-VF,1
-84,90074.0,GCS intervention on environment (Biomass),869916.0,Sri Lanka,LKA,http://open.undp.org/projects/00090074,UNDP,Non-VF,1
-85,119366.0,Transitioning to sustainable energy uses for the agro-in,1007201.0,Sri Lanka,LKA,http://open.undp.org/projects/00119366,Gov. of China,Non-VF,3
-86,134410.0,MP Projects Sri Lanka,261353.0,Sri Lanka,LKA,http://open.undp.org/projects/00134410,Montreal Protocol,Non-VF,3
-87,142290.0,Climate Promise: From Pledge to Impact,324000.0,Sri Lanka,LKA,http://open.undp.org/projects/00142290,SIDA,Non-VF,3
-88,145829.0,Mainstreaming E-Mobility Through the Conversion of Tuk-T,1151772.0,Sri Lanka,LKA,http://open.undp.org/projects/00145829,UNDP,Non-VF,2
-89,100344.0,Enhancing Food and Energy Security through the promotion of Green Technologies,996991.0,Sri Lanka,LKA,https://open.undp.org/projects/00100344,Japan,Non-VF,3
-90,144399.0,Citizen and Private Sector Support for Crisis Relief,43615.0,Sri Lanka,LKA,https://open.undp.org/projects/00144399,"Japan, Thailand, Private Sector, Citi Foundation",Non-VF,1
-91,1000353.0,Strengthening Smallholder Farmers and Micro/Home-Based Agriculture industries for Enhanced Food & Livelihood Security,24533.0,Sri Lanka,LKA,https://open.undp.org/projects/00100353 ,Japan,Non-VF,1
-92,106888,Promotion des Petites Centrales Hydroélectriques/PSA,1500000.0,Central African Republic,CAF,https://open.undp.org/projects/00105867,,Non-VF,1
-93,5680,Small hydropower based mini-grids,2645000.0,Central African Republic,CAF,PIMS+,,VF,1
-94,142609.0,Assist NDC implementation in Albania,127205.0,Albania,ALB,http://open.undp.org/projects/00142609,Government of Germany; Government of Japan,Non-VF,3
-95,132984.0,Croatia Education Recovery Support (Albania),1194743.13,Albania,ALB,https://open.undp.org/projects/00132984,Government of Croatia,Non-VF,2
-96,129778.0,Community Infrastructure Support (Albania),2611239.0,Albania,ALB,https://open.undp.org/projects/00129778,Government Of Albania; MPTF-SDGs Aceeleration Fund for Albania,Non-VF,1
-97,126861.0,EU4Schools Phase I (Albania),16955148.23,Albania,ALB,https://open.undp.org/projects/00126861,European Commision,Non-VF,1
-98,129706.0,EU4Schools Phase II (Albania),67752565.21,Albania,ALB,https://open.undp.org/projects/00129706,European Commision,Non-VF,1
-99,115727,Upper Nile University,124570.12,South Sudan,SSD,,Japan,Non-VF,1
-100,"00080877, 00097821, 00080982, 00109097",UNDP Country Office ,518743.75,South Sudan,SSD,,UNDP,Non-VF,1
-101,93664,State Revenue Authority (SRA),246584.79,South Sudan,SSD,,UNDP,Non-VF,1
-102,104022,Police Office Training Facility,186391.71,South Sudan,SSD,,UNDP,Non-VF,2
-103,101178,Ministry of Local Government and Law Enforcement ,149770.73,South Sudan,SSD,,UNDP,Non-VF,1
-104,"00104634, 00104636","Disarmament, Demobilization and Reintegration (DDR)",118418.0,South Sudan,SSD,,UNDP,Non-VF,1
-105,125900, Global Fund Project - Solar for Health,6268828.8,South Sudan,SSD,,UNDP,Non-VF,1
-106,99918.0,Support to SDGs localization in Ukraine,6817448.0,Ukraine,UKR,http://open.undp.org/projects/00099918,,,1
-107,4114.0,EE in Public Buildings,5480000.0,Ukraine,UKR,PIMS+,,,1
-108,1000157.0,Promotion of Human Security ,40000000.0,Ukraine,UKR,,Japan,,4
-109,134106.0,Winterization/Energy Sector Recovery ,64600000.0,Ukraine,UKR,,Japan,,13
-110,142763.0,PDL-145 Territoires,619829499.0,Dem. Rep. of the Congo,COD,https://open.undp.org/projects/00142763,DRC Gov,Non-VF,4
-111,127148.0,Projet Green Energy post COVID 19 : “Accès à l’énergie verte pour atténuer les impacts de la COVID-19,900000.0,Dem. Rep. of the Congo,COD,,PNUD,Non-VF,1
-112,6702.0,National child project under the GEF Africa Minigrids Program,500000.0,Dem. Rep. of the Congo,COD,PIMS+,GEF,VF,1
-113,4690.0,Congo Kinshasa Microhydro,3187669.0,Dem. Rep. of the Congo,COD,PIMS+,GEF,VF,1
-114,101442.0,Programme de Consommation Durable et Substitution partielle au bois énergie (Programme Energie-Fonaredd),15000000.0,Dem. Rep. of the Congo,COD,https://open.undp.org/projects/00101442,CAFI,Non-VF,3
-115,107168.0,Programme Environnement et Gest. Durable du Capital Nat,5628899.0,Guinea,GIN,http://open.undp.org/projects/00107168,UNDP,Non-VF,6
-116,107166.0,Gestion Intégrée des Ressources Naturelles,7460274.0,Guinea,GIN,https://open.undp.org/projects/00107166,"GEF
-UNDP",Non-VF,1
-117,135006,Libyan electricity & water sector stabilization support,655444.0,Libya,LBY,http://open.undp.org/projects/00135006,EU,Non-VF,1
-118,92045.0,Hydrogen Economy Pilot Project,11659101.0,China,CHN,http://open.undp.org/projects/00092045,Gov. of China,Non-VF,3
-119,119001.0,UNDP-China Greater Bay Area Hydrogen Economy Vocational,7358188.0,China,CHN,http://open.undp.org/projects/00119001,Gov. of China,Non-VF,2
-120,119439.0,Trilateral cooperation on Renewable Energy in Ethiopia,439401.0,China,CHN,http://open.undp.org/projects/00119439,Gov. of China,Non-VF,2
-121,6618.0,PhosChemEE,9343379.0,China,CHN,PIMS+,,VF,2
-122,6431.0,EZCERTV,8932420.0,China,CHN,PIMS+,,VF,2
-123,5395.0,Public Sector Buildings EE (PSBEE),8932420.0,China,CHN,PIMS+,,VF,1
-124,144123.0,UNDP-NIO CLEAN PARK PROJECT,697979.0,China,CHN,https://open.undp.org/projects/00144123,,Non-VF,1
-125,141744.0,JSB - Net Zero Emissions,1100000.0,Maldives,MDV,https://open.undp.org/projects/00141744,Gov. of Japan,Non-VF,3
-126,94293.0,GCF-Managing Climate Change Induced Water Shortages,23636364.0,Maldives,MDV,https://open.undp.org/projects/00094293,GEF,VF,1
-127,142132.0,Project For Developing Sustainable Agricultural Economy,2500000.0,Maldives,MDV,https://open.undp.org/projects/00142132,Gov. of Japan,Non-VF,1
-128,48025.0,Mainstreaming Green Environmental Development,29752153.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00048025,,Non-VF,2
-129,105415.0,Green Economic Development Phase II,18383776.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00105415,,Non-VF,1
-130,131266.0,Green Deal,614042.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00131266,,Non-VF,2
-131,132013.0,Green Economic Development Project – III Phase,6294159.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00132013,,Non-VF,3
-132,132014.0,Decarbonzation of Residential Sector in Bosnia and Her,1771084.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00132014,,Non-VF,1
-133,141105.0,Inclusive Decarbonization Activity IDA,821580.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00141105,,Non-VF,2
-134,5882.0,De-Risking and Scaling-up Investment in EE,17346000.0,Bosnia and Herzegovina,BIH,PIMS+,,VF,3
-135,5646.0,Catalyzing Env.Fin. for Low-Carbon Urban Dev,2370000.0,Bosnia and Herzegovina,BIH,PIMS+,,VF,2
-136,125245.0,Energía y Desarrollo Humano,67499.0,Paraguay,PRY,http://open.undp.org/projects/00125245,Trac Funds,Non-VF,1
-137,5188.0,Asunción Green City,7493120.0,Paraguay,PRY,PIMS+,GEF,VF,2
-138,6510.0,National child project under the GEF African Minigrid Program,924566.0,Burkina Faso,BFA,PIMS+,GEF,VF,7
-139,134067.0,Projet tranfrontalier Burkina RCI-UNDP-BFA-00129636,407000.0,Burkina Faso,BFA,https://open.undp.org/projects/00134067,,Non-VF,1
-140,136271.0,Collaborate and Innovate-UNDP-BFA-00127230,1510000.0,Burkina Faso,BFA,https://open.undp.org/projects/00136271,,Non-VF,1
-141,5462.0,San Salvador Urban Development,2420548.0,El Salvador,SLV,PIMS+,,VF,4
-142,6657,National child project under the GEF Africa Minigrids Program,2018349.0,Sao Tome & Principe,STP,PIMS+,,VF,2
-143,4602,Promotion of environmentally sustainable and climate-resilient grid/isolated grid-based hydroelectric electricity through an integrated approach in Sao Tome and Principe.,5274544.0,Sao Tome & Principe,STP,PIMS+,,VF,2
-144,missing-STP-1,Green Infrastructure for Health and Education in Sao Tome and Principe,1072026.0,Sao Tome & Principe,STP,,,Non-VF,2
-145,130633.0,Catalysing a Sustainable Shift towards E-mobility (March 2022-March 2023) ,896583.0,Viet Nam,VNM,https://www.undp.org/vietnam/projects/catalysing-sustainable-shift-towards-e-mobility,Gov. of Japan,Non-VF,3
-146,1061012.0,Scaling up E-mobility and mechanisms for promoting investments in green projects in Viet Nam (March 2023 - March 2024,1128978.0,Viet Nam,VNM,,,Non-VF,6
-147,134019.0,"Shifting Investment Flows 
-Towards Green Transformation (SHIFT)",3000000.0,Viet Nam,VNM,N/A yet,,Non-VF,2
-148,117633.0,Accelerating Private Sector Engagement in Climate Resilient and Low Emission Investment Opportunities in Viet Nam’s NDC,2201100.0,Viet Nam,VNM,Accelerating Private Sector Engagement in Climate-Resilient and Low-Emission Investment Opportunities in Viet Nam’s NDC 2019-2023 | United Nations Development Programme (undp.org),,Non-VF,6
-149,98606,Bhutan Sustainable Low Urban Transport Systems,3000000.0,Bhutan,BTN,GEF,,Non-VF,1
-150,128990,"Leveraging Nationally Determined Contributions (NDCs) to achieve net-zero emissions and climate-resilient development, in response to the climate emergency",1145424.0,Bhutan,BTN,JSB,,Non-VF,1
-151,76640,Removal of barriers to sustainable utilization of available biomass resources in the country; and application of biomass energy technologies that can support the economic and social development in the country’s rural sector,1903000.0,Bhutan,BTN,GEF,,Non-VF,1
-152,129029,Solar photovoltaic project ,210000.0,Bhutan,BTN,JSB,,Non-VF,1
-153,6692,Energy Efficiency in Building Sector - Turkmenistan,2066333.0,Turkmenistan,TKM,https://co.pims.undp.org/project/view?id=6692,,,1
-154,5452,Sustainable Cities: Ashgabat and Awaza,6060046.0,Turkmenistan,TKM,https://co.pims.undp.org/project/view?id=5452,,,1
-155,6089.0,SPIRES (Rural Electrification),2639726.0,Solomon Islands,SLB,PIMS+,GEF,VF,6
-156,6451.0,SMARTER - Bioenergy in Barbados,1593836.0,Barbados,BRB,PIMS+,GEF,VF,4
-157,96620,Resource Efficiency in Agriculture & Agrobased Ind.GAP,1499060.0,Turkey,TUR,http://open.undp.org/projects/00096620,Turkish central government,Non-VF,1
-158,114367,Environment and social resilience,791900.0,Turkey,TUR,http://open.undp.org/projects/00114367,H&M,Non-VF,1
-159,125243,Increasing Employability in the Renewable Energy Sector,2362663.0,Turkey,TUR,http://open.undp.org/projects/00125243,Gov of South Korea,Non-VF,1
-160,133485,Green Destination Model -ENERJISA,170000.0,Turkey,TUR,http://open.undp.org/projects/00133485,Enerjisa,Non-VF,1
-161,5673,EE Low Cost Wooden Houses,3800000.0,Turkey,TUR,PIMS+,GEF,VF,1
-162,5323,SEFM for Solar PV for Forest Villages,3780000.0,Turkey,TUR,PIMS+,GEF,VF,1
-163,5285,TEEEM - EE Motors,3750000.0,Turkey,TUR,PIMS+,GEF,VF,1
-164,124212.0,Services Energétiques Ruraux,7260535.0,Burundi,BDI,http://open.undp.org/projects/00124212,,Non-VF,4
-165,115827.0,Solarisation of Head of State Residences in the Pacific,1575829.0,Fiji,FJI,http://open.undp.org/projects/00115827,,Non-VF,3
-166,5926.0,BRANTV,2639726.0,Fiji,FJI,PIMS+,,VF,2
-167,5613.0,FASNETT,2639725.0,Fiji,FJI,PIMS+,,VF,9
-168,6188.0,SMARTEN,3302968.0,Fiji,FJI,PIMS+,,VF,4
-169,6159.0,POIDIER,5379452.0,Fiji,FJI,PIMS+,,VF,12
-170,5997.0,MPSBEE,1776484.0,Fiji,FJI,PIMS+,,VF,9
-171,6417,TAILEV,3569725.0,Uzbekistan,UZB,PIMS+,GEF,VF,1
-172,5392,Sustainable Rural Housing in Uzbekistan,6000000.0,Uzbekistan,UZB,PIMS+,GEF,VF,1
-173,128213,Greening the RFM Hospital Demonstration,1870871.0,Eswatini,SWZ,http://open.undp.org/projects/00128213,Gov. of Italy,Non-VF,1
-174,6432,National project under the AMP,863242.0,Eswatini,SWZ,PIMS+,,VF,1
-175,missing-SWZ-1,UNDP Moonshot: Greening the UN House,156514.85,Eswatini,SWZ,,,Non-VF,1
-176,missing-SWZ-2,UNDP Moonshot: Electric Vehicle,47848.0,Eswatini,SWZ,,,Non-VF,1
-177,124574.0,Strengthening Local Climate Action,1220000.0,Kosovo,XXK,"https://www.undp.org/kosovo/projects/strengthening-local-climate-action-project#:~:text=The%20project%20supports%20Kosovo%20municipalities,Municipality%20of%20Suharek%C3%AB%2FSuva%20Reka.",Austrian Development Agency,Non-VF,4
-178,130766.0,"Climate Promise Project- ""Growth Through Green and Rapid Recovery from Covid-19""",704052.0,Kosovo,XXK,https://climatepromise.undp.org/what-we-do/where-we-work/kosovo,,Non-VF,5
-179,5702,Forest Landscape Restoration in the Mayaga,6213538.0,Rwanda,RWA,PIMS+,,VF,1
-180,missing-RWA-1,Strengthening Capacities of the ENR Sector for Green Economy Transformation (SCENR),116275.0,Rwanda,RWA,,,Non-VF,1
-181,126434.0,Accel. Clean Energy Access to Reduce Inequality (ACCESS),15028509.0,Indonesia,IDN,http://open.undp.org/projects/00126434,,Non-VF,4
-182,142434.0,PIP Accelerating Robust Carbon Pricing,1796132.0,Indonesia,IDN,http://open.undp.org/projects/00142434,,Non-VF,3
-183,6333.0,Electric Vehicles in Indonesia (ENTREV),1816500.0,Indonesia,IDN,PIMS+,,VF,1
-184,5721.0,ADLIGHT,2633372.0,Indonesia,IDN,PIMS+,,VF,2
-185,4673.0,RE Market Transformation (NAMA),8025000.0,Indonesia,IDN,PIMS+,,VF,1
-186,6486.0,Promoting Low-carbon Electric Public Bus Transport in Mauritius,5600607.0,Mauritius,MUS,6486 Promoting Low-carbon Electric Public Bus Transport in Mauritius (undp.org),GEF,Non-VF,4
-187,5681.0,Transformational shift to a low-carbon economy,28210000.0,Mauritius,MUS,5681 Transformational shift to a low-carbon economy (undp.org),GCF,Non-VF,6
-188,5509.0,Realising Energy Savings and Climate Benefits of Implementing Mandatory Energy Auditing in the Republic of Mauritius ,4532164.0,Mauritius,MUS,Realising Energy Savings and Climate Benefits of Implementing Mandatory Energy Auditing in the Republic of Mauritius ,GEF,Non-VF,7
-189,144953.0,Addressing food and energy crisis in North Macedonia,95000.0,North Macedonia,MKD,http://open.undp.org/projects/00144953,,Non-VF,1
-190,144270.0,Green Finance Facility to Improve Air Quality and Combat Climate Change in North Macedonia,44400000.0,North Macedonia,MKD,https://open.undp.org/projects/00144270,,Non-VF,17
-191,110061.0,Tackling Air Pollution in Skopje,2150000.0,North Macedonia,MKD,https://open.undp.org/projects/00110061,,Non-VF,1
-192,5143,SE4ALL,3502968.0,Equatorial Guinea,GNQ,PIMS+,,VF,1
-193,46258,Small Grants Programme,429168.0,Armenia,ARM,http://open.undp.org/projects/00046258,"UNDP, Arm.Gov, 
-Gov. Finland",Non-VF,1
-194,118602,Climate Smart Solutions in Communities,916858.0,Armenia,ARM,http://open.undp.org/projects/00118602,"Arm.Gov., UNDP",Non-VF,1
-195,133238,Phase II_Climate Smart Solutions,595301.0,Armenia,ARM,http://open.undp.org/projects/00133238,"Arm.Gov., UNDP",Non-VF,1
-196,98348,De-Risking Investment In Energy Efficient Retrofits,20420000.0,Armenia,ARM,https://open.undp.org/projects/00098348 ,"GEF, Arm.Gov., 
-UNDP",Non-VF,1
-197,140158,"Strengthened Community Resilience through Energy Efficiency and Low
-Emission Development",1000000.0,Armenia,ARM,,,Non-VF,1
-198,5749.0,The Climate Aggregation Platform for Developing Countries,1950000.0,New York,NA,PIMS+,,VF,2
-199,118154,Regional stabilization facility,1260000.0,"Cameroon, Republic of",CMR, Cameroun Energy Project," UK, Allemagne  ",Non-VF,7
-200,CMR/SGP/OP7/Y1/CORE/CC/2022/04 ,GEF Small Grants Programme,34255.0,"Cameroon, Republic of",CMR, Cameroun Energy Project,"1 447,00",Non-VF,1
-201,130710,UNDP CAMEROUN GOES GREEN: SUPPORT FOR THE ACHIEVEMENT OF SUSTAINABLE MOONSHOT OBJECTIVES,16839.0,"Cameroon, Republic of",CMR, Cameroun Energy Project,Greening Moonshot Fund,Non-VF,3
-202,6619.0,Solar for Health ,25000000.0,Namibia,NAM,,GCF,VF,1
-203,120120.0,"Enhancing Namibia’s capacity to establish a comprehensive Transparency Framework for Measurement, Reporting and Verification (MRV) of climate actions and reporting on NDC implementation under the Paris Agreement",1160000.0,Namibia,NAM,https://co.pims.undp.org/project/view?id=6337,,,1
-204,130635.0,"Promotion of carbon markets in Namibia for an enhanced implementation of the nationally determined contributions (NDC) towards net-zero emissions and climate-resilient development, in response to the climate emergency.",1003042.0,Namibia,NAM,https://sway.office.com/nRDTcZhPyGGgaC6k?ref=Link,,,1
-205,1000235.0,"Strengthening and building resilience of Namibia’s peri-urban communities to climate change through climate-smart agricultural production, access to solar technologies, climate information and early-warning system.",1030039.0,Namibia,NAM,https://co.pims.undp.org/project/view?id=4711,Japan ,,4
-206,135028.0,Projet d’appui au développement d’offres énergétiques (Chad),1745000.0,Chad,TCD,https://open.undp.org/projects/00135028,,Non-VF,7
-207,114485.0,Policy and Innovation,14955773.0,Cambodia,KHM,http://open.undp.org/projects/00114485,,Non-VF,6
-208,144124.0,ROK Solar Irrigation,2230822.0,Cambodia,KHM,https://open.undp.org/projects/00144124,,Non-VF,4
-209,118895.0,Cambodia Climate Change Alliance – Phase 3,9032048.0,Cambodia,KHM,http://open.undp.org/projects/00118895,,Non-VF,13
-210,125400,Accès aux services énergétiques,2545500.0,Niger,NER,http://open.undp.org/projects/00125400,UNDP,Non-VF,1
-211,"6659, 143728",National child project under the GEF Africa Minigrids Program,1601376.0,Niger,NER,PIMS+,GEF,VF,1
-212,6321,Sudan national child project - Africa Minigrids Program (AMP),2637246.0,Sudan,SDN,PIMS+,GEF,VF,1
-213,5674,Efficient Appliances UNEP Global PFD,1770000.0,Sudan,SDN,PIMS+,GEF,VF,1
-214,106169,Solar for Agriculture Development in Sudan,9129111.0,Sudan,SDN,http://open.undp.org/projects/00106169,KOICA,Non-VF,1
-215,102733,Solar for Health Project,676621.0,Sudan,SDN,http://open.undp.org/projects/00102733,GCF,VF,1
-216,1000518,Sudan-Scaling Solar Applications for Agricultural Use (SSAAU),200000.0,Sudan,SDN,,IBSA,Non-VF,1
-217,98897,FRELOCAL - FUENTES RENOVABLES DE ENERGIA - DES LOCAL,3578420.0,Cuba,CUB,http://open.undp.org/projects/00098897,,Non-VF,1
-218,110578,Resiliencia Energetica post Irma,7710027.0,Cuba,CUB,http://open.undp.org/projects/00110578,,Non-VF,1
-219,118945,MUNICIPIO MARTI ENERGIA SOSTENIBLE,433162.0,Cuba,CUB,http://open.undp.org/projects/00118945,,Non-VF,1
-220,5653,Cuba Sustainable Transport,1959132.0,Cuba,CUB,PIMS+,,VF,1
-221,4899,CleanEnerg Cuba,2737524.0,Cuba,CUB,PIMS+,,VF,1
-222,120932,"Apoyo a la revitalización del empleo en la cadena de producción ganadera de la provincia de Guantánamo, en la etapa de Recuperación post COVID-19",100000.0,Cuba,CUB,Empleo Autoabastecimiento COVID-19 | UNDP Transparency Portal,,Non-VF,1
-223,118495,ALASS,800000.0,Cuba,CUB,https://open.undp.org/projects/00118495,,Non-VF,1
-224,85124,Agrofrutales,128000.0,Cuba,CUB,https://open.undp.org/projects/00085124,,Non-VF,1
-225,6658,National child project under the GEF Africa Minigrids Program,1326147.0,Benin,BEN,PIMS+,,VF,1
-226,5115,Benin Biomass Electricity Generation,3872602.0,Benin,BEN,PIMS+,,VF,3
-227,4979,Benin NAPA LDCF 2,8000000.0,Benin,BEN,PIMS+,,VF,5
-228,4979-2,Benin NAPA LDCF 2 TRAC 2,1400000.0,Benin,BEN,TRAC 2: Access of vulnerable and neglected communities to sustainable and affordable energy through the promotion of Smart sustainable Energy Hubs,,VF,1
-229,missing-KEN-1,JSB- ACCELERATING CLEAN COOKING ACTION IN KENYA,1327000.0,Kenya,KEN,,Japan,Non-VF,5
-230,missing-KEN-2,SOLAR POWERWED COLD STORAGE FACILITIES TO REDUCE POST HARVEST LOSSESS,24710000.0,Kenya,KEN,,MITIGATION FACILITY				,Non-VF,7
-231,113007,Electricity and Energy Support,36250760.0,Syria,SYR,http://open.undp.org/projects/00113007,,Non-VF,19
-232,129587.0,Accelerator Lab – Mozambique,566623.0,Mozambique,MOZ,http://open.undp.org/projects/00129587,UNDP AccLabs,Non-VF,2
-233,6270.0,GEF 7: Sustainable Cities - Green Economy,10317970.0,Costa Rica,CRI,PIMS+,GEF,VF,7
-234,102048,Home Projects WRM and Eba in Xe Bang Hieng river basin and LPB city,5579452.0,Lao PDR,LAO,https://undp-my.sharepoint.com/:b:/r/personal/benjamin_rapp_undp_org/Documents/Public/Signed%20ProDoc%20GEF%20IWRM%20Lao%20PDR.pdf?csf=1&web=1&e=RpDFpX,GEF LDCF,Non-VF,2
-235,132455 ,Climate Promise II: from Pledge to Impact,540000.0,Lao PDR,LAO,https://undp-my.sharepoint.com/:w:/r/personal/benjamin_rapp_undp_org/Documents/Public/ProDoc%20CP%20II%20-%20Final%20Draft_updated250523%20Tx.docx?d=wb4fecac79120493cb018c6c063ab65b7&csf=1&web=1&e=cTjXPA,UNDP (Government of Germany),Non-VF,2
-236,126532.0,The ACCESS project,2700742.0,Timor-Leste,TLS,http://open.undp.org/projects/00126532,KOICA,Non-VF,3
-237,145070.0,3E4Women,129875.0,Timor-Leste,TLS,http://open.undp.org/projects/00145070,Joint SDG Fund,Non-VF,1
-238,1000417.0,Green Transformation ,700000.0,Timor-Leste,TLS,,Japan,Non-VF,3
-239,94384.0,Sustainable Energy for All,12489640.0,United Republic of Tanzania,TZA,http://open.undp.org/projects/00094384,,Non-VF,1
-240,141196.0,Implementation of the Tanzania Energy Efficiency Action,5410706.0,United Republic of Tanzania,TZA,http://open.undp.org/projects/00141196,"European Union, UNDP",Non-VF,7
-241,122808.0,Energy Efficiency Renovation,1055099.0,Serbia,SRB,http://open.undp.org/projects/00122808,Gov. of Serbia,Non-VF,1
-242,6388.0,Energy Efficiency in Buildings,1505000.0,Serbia,SRB,PIMS+,,VF,6
-243,6285.0,Circular Economy in Serbia,1777000.0,Serbia,SRB,PIMS+,,VF,1
-244,132059.0,Rural Energy Market Transform (AREMTI),21398843.0,Afghanistan,AFG,https://open.undp.org/projects/00132059,"GCF (including 17,198,843) , UNDP, Ministry of Rural Rehabilitation and
-Development (MRRD)",Non-VF,1
-245,147445.0, Sustainable Energy Services for Education and Health in Afghanistan (SESEHA),60110220.0,Afghanistan,AFG,https://open.undp.org/projects/00147445,BMZ (Federal Ministry for Economic Cooperation and Development) through KFW (German Development Bank),Non-VF,1
-246,1000372.0,ABADEI 2.0,8726624.0,Afghanistan,AFG, ,Government of Japan,Non-VF,1
-247,138844.0,ABADEI 1.0 (PIP),12895159.0,Afghanistan,AFG,https://open.undp.org/projects/00138844,"Government of Japan, UNDP",Non-VF,2
-248,143651.0,Strengthening Community Safety Well-being and Humanitarian Security in Afghanistan ,1253880.0,Afghanistan,AFG, ,Government of Japan,Non-VF,1
-249,88841.0,Afghanistan Sustainable Energy for Rural Development (ASERD),12846044.0,Afghanistan,AFG, ,"Republic of Korea, UNDP, Canada, Spain",Non-VF,1
-250,00131399 (UNDP CO TRAC),National Human Development Report (NHDR) on Energy-Induced Vulnerabilities in the Kyrgyz Republic,164532.0,Kyrgyzstan,KGZ,https://www.undp.org/kyrgyzstan/projects/national-human-development-report-2024-energy-induced-vulnerabilities,UNDP (funded by TRAC),Non-VF,3
-251,104020,Electrification Rurale et Autonomisation des Femmes,6930933.0,Haiti,HTI,http://open.undp.org/projects/00104020,Japan,Non-VF,1
-252,128342,Installation Pompes Solaires,1858988.0,Haiti,HTI,http://open.undp.org/projects/00128342,India,Non-VF,1
-253,120474.0,Transition to sustainable energy and economy,662997.0,Prog for Palestinian People,PSE,http://open.undp.org/projects/00120474,Japan,Non-VF,4
-254,121913.0,Solar Energy System for KY WWTP,2348907.0,Prog for Palestinian People,PSE,http://open.undp.org/projects/00121913,Norway,Non-VF,1
-255,122659.0,Climate Action for Human Security (Regional project component),149000.0,Iraq,IRQ,http://open.undp.org/projects/00122659,CO funding,Non-VF,1
-256,122627.0,Climate Action for Human Security ,922000.0,Iraq,IRQ,,SIDA,Non-VF,2
-257,6487.0,Promoting Carbon Reduction Through Energy Efficiency (EE) Techniques in Iraq,3092009.0,Iraq,IRQ,PIMS+,GEF,VF,4
-258,85156.0,"Iraq Crisis Recovery and Resilience Program (ICRRP), Output 3: Resilience Of Vulnerable Communities To Climate Change Enhanced Through Access To Renewable Energy",4250000.0,Iraq,IRQ,https://open.undp.org/projects/00085156,USAID,Non-VF,7
-259,125754.0,Mainstreaming Environmental Sustainability and Clean Energy Access in the 3RP: The Case for Action: Renewable Energy Training for Forcibly Displaced and Vulnerable Young Men and Women in Iraq  ,55000.0,Iraq,IRQ,,Govt. of Finland,Non-VF,1
-260,89459.0,Funding Facility for Stabilization,11182694.0,Iraq,IRQ,https://open.undp.org/projects/00089459,USAID,Non-VF,8
-261,116195.0,Supporting recovery and stability through local development in Iraq,6148000.0,Iraq,IRQ,,Multidonor,Non-VF,5
-262,5304.0,Urban Transport,2639726.0,Philippines,PHL,PIMS+,,VF,3
-263,5194.0,DREAMS,5200000.0,Philippines,PHL,PIMS+,,VF,16
-264,85377.0,Joint Programme on Charcoal,8652596.0,Somalia,SOM,http://open.undp.org/projects/00085377,"MPTF (EU, Italy, Sweden, Norway)",Non-VF,2
-265,6328.0,Somalia national child project - Africa Minigrids Program (AMP),3276147.0,Somalia,SOM,PIMS+,GEF,VF,1
-266,133229.0,COVID 2.0- Beyond Recovery COVID-19,668218.0,India,IND,http://open.undp.org/projects/00133229,This was the Green Recovery Project supported by UNDP Rapid Finance Facility in 2021-2022. Approx. 77.28 tCO2 equivalent per yr abated,Non-VF,2
-267,116294.0,Energy Efficiency and Thermal Comfort in Buildings,4484357.0,India,IND,PIMS+,"Under this GEF supported project, super EE technologies will be piloted in select public, private buildings across 3 States in India. The total estimated GHG reduction potential from this pilot is estimated to be 26.6 ktCO2 per year ",Non-VF,1
-268,1000316.0,Scaling Solar Applications for Agricultural Use,200000.0,India,IND,,This project is being implemented in partnership with International Solar Alliance (ISA) across 10 of its member countries. Estimation : Approx. 87.84 tCO2 per year will be abated,Non-VF,1
-269,127730.0,JSB-NZE 2021 project ,1782418.0,India,IND,,The project support by Govt of Japan is being implemented across several States in India. The approximate GHJG emissions abated from the interventions is 778.32 tCo2 equivalent per yr,Non-VF,6
-270,1000354.0,JSB-NZE 2022 project,695057.0,India,IND,,"The project support by Govt of Japan is being implemented across several States in India. The estimated GHG emissions abated from the interventions is 92,500 tCo2 equivalent per yr (only from interventions in Steel sector. The GHG emissions abated from other interventions will be calculated based on the sizes of actual units deployed)",Non-VF,5
-271,134123.0,Accès aux énergies propres dans les zones rurales du Liptako Gourma,8498746.0,Mali,MLI,https://open.undp.org/projects/00134123,ASDI,Non-VF,4
-272,125461.0,Femmes illuminant les chemins vers la paix,1500000.0,Mali,MLI,https://open.undp.org/projects/00125461,,Non-VF,3
-273,121587.0,"Energie solaire, télésanté et protection sociale pour transformer la santé communautaire au Mali (SanDi)/RFF",6000000.0,Mali,MLI,,,Non-VF,3
-274,129014.0,Africa Migrid Program,1780000.0,Mali,MLI,,GEF/UNDP,Non-VF,6
-275,124853.0,Ten Country: Scaling Solar Applications for Agricultural Use,200000.0,Mali,MLI,,ISA/India,Non-VF,5
-276,CIV10- CIV10-00131158,"Engagement des jeunes et des femmes pour la prévention des crises, la stabilité sociale, la consolidation de la paix et la réduction de la violence communautaire dans le nord de la Côte d'Ivoire",450174.24,Cote d'Ivoire,CIV,https://undp.sharepoint.com/:w:/r/teams/CIV/Archive/Unite%20Programme/Portfeuille%20gouvernance/Prodoc_PVE_RC_Version%20du%2008042022_finale.doc?d=w3ccf70e3a98f49ed99731f086fb1f089&csf=1&web=1&e=mlUAt4,Allemagne,Non-VF,1
-277,5989.0,Sustainable Energy Access,3540468.0,Angola,AGO,PIMS+ ,,VF,1
-278,5331.0,Angola Charcoal,4620000.0,Angola,AGO,PIMS+ 5331,,VF,3
-279,1000194,Strengthening Systems Approach for SDGs in Mongolia (SASiM),50000.0,Mongolia,MNG,,,Non-VF,1
-280,107518.0,NDC Support Project,931500.0,Thailand,THA,https://undp.sharepoint.com/:f:/r/teams/THA/IntegratedProgrammeTeam/IGSD%20Document/IGSD%20Document/Support%20document%20on%20Tracking%20the%20Energy%20Moonshot/00107518%20NDC%20Support?csf=1&web=1&e=DJOLKl,,Non-VF,1
-281,124794.0,"Achieving Sustainable Low Carbon Growth in the City through Electrified Urban Transport System in Thailand (E-Transport in LCC)"" UNDP-UK PACT Project",641793.0,Thailand,THA,https://undp.sharepoint.com/:f:/r/teams/THA/IntegratedProgrammeTeam/IGSD%20Document/IGSD%20Document/Support%20document%20on%20Tracking%20the%20Energy%20Moonshot/00124794%20E-Transport%20in%20LCC?csf=1&web=1&e=VaOW8z,,Non-VF,2
-282,6384.0,E-Mobility Strategy Peru,1784862.0,Peru,PER,PIMS+,,VF,3
-283,"5476, 97769",Green Energy SME Development Project,491740.75,Tajikistan,TJK,https://open.undp.org/projects/00097769,GEF,VF,11
-284,CKT-NGA10-2022-030,"DRILLING OF TWO (2) MIDDLE AQUIFER BOREHOLES IN BANKI POLICE BARRACK AND IMMIGRATION QUATER PREMISES BANKI, BAMA LGA BORNO STATE",29406.544502617802,Nigeria,NGA,,,Non-VF,1
-285,UNDP-NGA10-2022-015 ,"PROVISION AND INSTALLATION OF 160 SOLAR STREET LIGHTS AT
-500 HOUSING UNIT, BANKI TOWN, BAMA LGA, BORNO STATE",48597.126701570676,Nigeria,NGA,,,Non-VF,1
-286,NGA10-0000026575,"PROVISION AND INSTALLATION OF 12 SOLAR STREET LIGHTS BANKI TOWN, BAMA LGA, BORNO STATE",3644.784502617801,Nigeria,NGA,,,Non-VF,1
-287,UNDP-NGA10-2022-016,"PROVISION AND INSTALLATION OF 145 SOLAR STREET LIGHTS AT
-500 HOUSING UNIT, DAMBOA TOWN, DAMBOA LGA, BORNO STATE",44041.146073298434,Nigeria,NGA,,,Non-VF,1
-288,NGA10-0000026576,"SUPPLY AND INSTALLATION OF 5KVA INVERTER SYSTEM WITH SOLAR
-PANEL IN PRIMARY SCHOOL, BANKI",4852.29057591623,Nigeria,NGA,,,Non-VF,1
-289,CKT-NGA10-2021-63,"PROVISION AND INSTALLATION OF SOLAR POWERED STREETLIGHTS AT NGARANNAM, MAFA LGA, BORNO STATE (LOT 1)",123645.6719895288,Nigeria,NGA,,,Non-VF,1
-290,CKT-NGA10-2021-64,"PROVISION AND INSTALLATION OF SOLAR POWERED STREETLIGHTS AT NGARANNAM, MAFA LGA, BORNO STATE (LOT 2)",123645.6719895288,Nigeria,NGA,,,Non-VF,1
-291,10046575,"Provision & Installation of Solar Powered Streetlights along Trench Line, Ngarannam, Mafa L.G.A, Borno State",112989.42553664921,Nigeria,NGA,,,Non-VF,1
-292,CKT-NGA10-2021-62,"Construction of Drilling, Installation and Reticulation of Two (2) Deep Aquifer (Underground Water Wells) Solar Driven Boreholes at Ngarannam, Mafa LGA, Borno State",128501.30890052357,Nigeria,NGA,,,Non-VF,1
-293,UNDP-NGA10-2022-087,"Construction works at Primary Health Care Centre in Jajere community, Fune LGA in Yobe
-State",103632.90418848167,Nigeria,NGA,,,Non-VF,1
-294,NGA10-0000026603,"SUPPLY AND INSTALLATION OF 5KVA INVERTER SYSTEM WITH SOLAR
-PANEL IN NGARANNAM POLICE OUTPOST MAFA LGA, BORNO STATE",6832.787958115183,Nigeria,NGA,,,Non-VF,3
-295,145011.0,JP Food/Energy Resilience,99070.0,Georgia,GEO,http://open.undp.org/projects/00145011,,Non-VF,1
-296,1000347.0,Renewable Energy for Sustainable Forest Management and Community Resilience in Machakhela Protected Areas,450000.0,Georgia,GEO,https://www.undp.org/georgia/projects/machakhela-forest-management,,Non-VF,5
-297,101419.0,Improving Rural Development in Georgia (ENPARD 3),2000000.0,Georgia,GEO,https://www.undp.org/georgia/projects/enpard-3,,Non-VF,1
-298,141162.0,Support to sustainable and climate-friendly forest management practices in Georgia  ,926659.0,Georgia,GEO,https://www.undp.org/georgia/projects/sustainable-forest-management,,Non-VF,1
-299,6327.0,Djibouti national child project - Africa Minigrids Program (AMP),3071347.0,Djibouti,DJI,PIMS+,GEF,VF,2
-300,6202.0,Djibouti clean energy rural mini-grids project,863242.0,Djibouti,DJI,PIMS+,GEF,VF,1
-301,9691.0,"Enhancing the enabling environment for investment in renewable energy technologies in the Obock Region, Djibouti (under formulation)",1776484.0,Djibouti,DJI,PIMS+,GEF,VF,1
-302,"5957, 117647",Energy Efficiency through the Development of Low-carbon RAC Technologies in Trinidad and Tobago,5152392.0,Trinidad & Tobago,TTO,https://open.undp.org/projects/00117647,,Non-VF,7
-303,112038, Global Climate Change Alliance Plus Trinidad and Tobago  “Support to the  Implementation of Trinidad and Tobago’s Nationally Determined Contribution”,2665440.0,Trinidad & Tobago,TTO,https://open.undp.org/projects/00112038,,Non-VF,5
-304,TRI/SGP/OP7/YI/CORE/CC/22/09,"Improving community climate resilience in Matelot by implementing green solutions to address its electricity, water and food limitations.",26000.0,Trinidad & Tobago,TTO,,,Non-VF,1
-305,117898,Promoting Energy-Related Low Carbon Urban Development in Bangladesh (LCUD),3767810.0,Bangladesh,BGD,https://open.undp.org/projects/00117898,GEF,Non-VF,3
-306,116395,Bangladesh Enabling Electric Vehicles Adoption (BEEVA) in the Framework of Sustainable Energy-based Transportation ,1788991.0,Bangladesh,BGD,,GEF,Non-VF,3
-307,93848,Adaptation Initiative for Climate Vulnerable Offshore Small Islands and Riverine Charland in Bangladesh,9212322.0,Bangladesh,BGD,https://open.undp.org/projects/00093848,Adaptation Fund,Non-VF,3
-308,85984,Local Government Initiative on Climate Change (LoGIC),35200000.0,Bangladesh,BGD,https://open.undp.org/projects/00085984,"(EU-17.05m, SIDA-17.97m)",Non-VF,3
-309,00110796(AC Unit) & 00117012 (PMU),HCFC Phase-Out Management Plan (HPMP Stage-II) For Compliance with the 2020 and 2025 Control Targets Under the Montreal Protocol,5356014.0,Bangladesh,BGD,HPMP II (AC Unit); HPMP II (PMU),MLF,Non-VF,4
-310,134586,Climate Promise: From Pledge to Impact,475000.0,Bangladesh,BGD,,Government of Germany,Non-VF,1
-311,93849,Improved Cooking Stoves in CHT area (under A2I project),150000.0,Bangladesh,BGD,https://open.undp.org/projects/00093849,"Government of Bangladesh-50 million, Other donors (Gate Foundation, FB, Vital strategy, etc.): 9 million)",Non-VF,5
-312,105918,Bangladesh: First Biennial Update Report to the UNFCCC,489000.0,Bangladesh,BGD,https://open.undp.org/projects/00105918,GEF,Non-VF,1
-313,104187,(Suspended until Nov 2023) Rural Renewable Energy,4934228.0,Myanmar,MMR,https://open.undp.org/projects/00104187,,Non-VF,3
-314,111777,Governance for Resilience and Sustainability Project ,716641.0,Myanmar,MMR,https://open.undp.org/projects/00111777,,Non-VF,3
-315,missing-MMR-1,"UNDP-SPM Partnership for rural electrification
-(Concept developed subject to resource mobilization)",1348200.0,Myanmar,MMR,,in search of donor,Non-VF,22
-316,112026,Promoting the use of solar technologies for agricultural and rural development in Cambodia and Myanmar,2285334.0,Myanmar,MMR,,"Ministry of Agriculture, Food and Rural Affairs (MAFRA), Republic of Korea",Non-VF,1
-317,100551.0,"Apoyo a las políticas de ciencia, tecnología e innovación de la Provincia de Buenos Aires",2317196.0,Argentina,ARG,http://open.undp.org/projects/00100551,GOB,Non-VF,1
-318,129530.0,Modernización del Banco de la Nación Argentina,4235601.0,Argentina,ARG,http://open.undp.org/projects/00129530,GOB,Non-VF,1
-319,96640.0,Modelos de negocios para la producción de biogas,2779849.0,Argentina,ARG,https://open.undp.org/projects/00096640,GEF,Non-VF,3
-320,116913.0,implement & update NDC in energy&indust-process sectors,792240.0,Tunisia,TUN,http://open.undp.org/projects/00120928,"Name oF Donor: GOVERNMENT OF GERMANY  and   GOVERNMENT OF TUNISIA
+(2) Co-financing: 69,045,899",VF,10,
+76,127444.0,National Child Project under the Africa Minigrids Program - Ethiopia,-1.0,Ethiopia,ETH,PIMS+ https://co.pims.undp.org/project/view?id=6338,"(1) GEF: 2,890,826
+(2) Co-financing: 13,773,751",VF,13,
+77,1000459.0,Accelerating Gender Equality and Women Empowerment through Clean Energy Investment,136000.0,Ethiopia,ETH,," UNDP Headquaters:136,000",Non-VF,7,
+78,1001707.0,Climate Promise 2- Improving Access to Clean Cooking Energy Sources,270000.0,Ethiopia,ETH,,"UNDP: 270,000",Non-VF,4,
+79,"6161, 106273",Emissions Trading and MRV in Belarus,840000.0,Belarus,BLR,https://co.pims.undp.org/project/view?id=6161,GEF,VF,2,
+80,79213,Bahrain Unit for Sustainable Energy,7254715.0,Bahrain,BHR,http://open.undp.org/projects/00079213,"Gov. of Bahrain, 
+Office of Minister of Energy",Non-VF,1,
+81,117173.0,Renewable Energy for Rural Livelihood,2400000.0,Nepal,NPL,"https://www.aepc.gov.np/rerl/public/
+https://www.undp.org/nepal/projects/rerl
+https://www.undp.org/nepal/projects/reras","ADB, UNDP",Non-VF,6,
+82,106668.0,Support to increased production of and access to renewable energy systems in East and West Sepik Provinces (STREIT),3954035.0,Papua New Guinea,PNG,https://open.undp.org/projects/00106668,EU,Non-VF,5,
+83,100396.0,Enhancing Green Transformation in the Pacific towards Net-Zero Emissions and Climate-Resilient Development for Peace ,3726000.0,Papua New Guinea,PNG,,Japan,Non-VF,1,
+84,UNDP-MDG-00132364,Africa mini grids projects,824590.0,Madagascar,MDG,,,Non-VF,6,
+85,141254,Résilience & Dvpt Territorial 'UNDP-MDG-00129975 & UNDP-MDG-00129976,2286000.0,Madagascar,MDG,https://open.undp.org/projects/00141254,,Non-VF,4,
+86,129782,Financement Intégré Energies R  (UNDP-MDG-00123355),8748560.0,Madagascar,MDG,https://open.undp.org/projects/00129782,Mptf-Joint Sdg Fund,Non-VF,4,
+87,missing-VEN-1,"Ensuring access to affordable, secure, sustainable and modern energy for all (SDG 7)",1400000000.0,Venezuela,VEN,Not yet available,Venezuela ? ,Non-VF,1,
+88,91460,Sustainable Energy For ALL,720000.0,Lesotho,LSO,5367 Lesotho Sustainable Energy for All (undp.org),,Non-VF,7,
+89,missing-LSO-1,UNDP Moonshot: Greening the UN House,57000.0,Lesotho,LSO,,,Non-VF,1,
+90,132730,"Climate Adaptation, Water and Energy Programme",14251782.0,Zimbabwe,ZWE,,FCDO,Non-VF,1,
+91,132179,TRAC  2 Energy Offer project ,1500000.0,Zimbabwe,ZWE,,TRAC 2,Non-VF,4,
+92,133752,Joint SDG Fund Project ,45000000.0,Zimbabwe,ZWE,,Joint SDG Fund,Non-VF,1,
+93,missing-ZWE-1,Solar for Health (S4H),21312267.61,Zimbabwe,ZWE,,Global Fund (Next phase will be funded by GCF),Non-VF,1,
+94,146913.0,Fortalecimiento institucional CENACE,200000.0,Ecuador,ECU,https://open.undp.org/projects/00146913,Government,Non-VF,1,
+95,110105.0,Fortalecimiento a la gestión ambiental: Estrategia de Electromovilidad de la Empresa Eléctrica Quito (EEQ),439879.0,Ecuador,ECU,https://open.undp.org/projects/00110105,Government,Non-VF,3,
+96,127866.0,Green Recovery,15000.0,Ecuador,ECU,https://open.undp.org/projects/00137302,"Climate Promise, BMZ",Non-VF,1,
+97,1002264.0,ACCESS: Accelerating Access to Low Carbon Urban Mobility Solutions through Digitalization,164409.53,Ecuador,ECU,https://open.undp.org/projects/01002264,,,9,
+98,6411,Sustainable Cities Impact Program - Morocco,9416167.0,Morocco,MAR,https://co.pims.undp.org/project/view?id=6411,GEF,VF,1,
+99,5284,PV pumping systems for irrigation,2639726.0,Morocco,MAR,https://co.pims.undp.org/project/view?id=5284,GEF,VF,1,
+100,6542.0,PASBET,3439041.0,Pakistan,PAK,PIMS+,GEF,VF,8,
+101,134230.0,Climate Promise-II ,540000.0,Pakistan,PAK,,Climate Promise ,Non-VF,4,
+102,124739.0,SIDA UNDP Strategic Collaboration on Env and CC,36443657.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00124739,SIDA,Non-VF,1,
+103,139866.0,Programme Initiation plan energy hub,1174548.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00139866,,Non-VF,2,
+104,111467.0,Linking the Kigali Amendment with EE in the RAC Sector,11205031.0,Bureau Policy & Prog Support,NA,http://open.undp.org/projects/00111467,"Climateworks Foundation, Montreal Protocol, New Zealand, Canada, GIZ",Non-VF,1,
+105,130309,Implementación NDC Honduras,100000.0,Honduras,HND,https://open.undp.org/projects/00141844,,Non-VF,1,
+106,90074.0,GCS intervention on environment (Biomass),869916.0,Sri Lanka,LKA,http://open.undp.org/projects/00090074,UNDP,Non-VF,1,
+107,119366.0,Transitioning to sustainable energy uses for the agro-in,1007201.0,Sri Lanka,LKA,http://open.undp.org/projects/00119366,Gov. of China,Non-VF,3,
+108,134410.0,MP Projects Sri Lanka,261353.0,Sri Lanka,LKA,http://open.undp.org/projects/00134410,Montreal Protocol,Non-VF,3,
+109,142290.0,Climate Promise: From Pledge to Impact,324000.0,Sri Lanka,LKA,http://open.undp.org/projects/00142290,SIDA,Non-VF,3,
+110,145829.0,Mainstreaming E-Mobility Through the Conversion of Tuk-T,1151772.0,Sri Lanka,LKA,http://open.undp.org/projects/00145829,UNDP,Non-VF,2,
+111,100344.0,Enhancing Food and Energy Security through the promotion of Green Technologies,996991.0,Sri Lanka,LKA,https://open.undp.org/projects/00100344,Japan,Non-VF,3,
+112,144399.0,Citizen and Private Sector Support for Crisis Relief,43615.0,Sri Lanka,LKA,https://open.undp.org/projects/00144399,"Japan, Thailand, Private Sector, Citi Foundation",Non-VF,1,
+113,1000353.0,Strengthening Smallholder Farmers and Micro/Home-Based Agriculture industries for Enhanced Food & Livelihood Security,24533.0,Sri Lanka,LKA,https://open.undp.org/projects/00100353 ,Japan,Non-VF,1,
+114,106888,Promotion des Petites Centrales Hydroélectriques/Projet de « Promotion des systèmes solaires autonomes en faveur des femmes en milieu rural en République Centrafricaine »,1500000.0,Central African Republic,CAF,https://open.undp.org/projects/00105867,UNDP,Non-VF,1,
+115,5680,Small hydropower based mini-grids,2645000.0,Central African Republic,CAF,https://co.pims.undp.org/project/view?id=5680,UNDP/GEF,VF,1,
+116,142609.0,Market Transformation for solar energy PV acceleration,867505.0,Albania,ALB,https://www.undp.org/albania/projects/market-transformation-solar-energy-pv-acceleration,Government of Germany; Government of Japan,Non-VF,3,
+117,132984.0,Croatia Education Recovery Support (Albania),1194743.13,Albania,ALB,https://open.undp.org/projects/00132984,Government of Croatia,Non-VF,1,
+118,129778.0,Community Infrastructure Support (Albania),2611239.0,Albania,ALB,https://open.undp.org/projects/00129778,Government Of Albania; MPTF-SDGs Acceleration Fund for Albania with financing of the Government of Denmark and United Kingdom,Non-VF,1,
+119,126861.0,EU4Schools Phase I (Albania),16955148.23,Albania,ALB,https://open.undp.org/projects/00126861,European Commision,Non-VF,1,
+120,129706.0,EU4Schools Phase II (Albania),67752565.21,Albania,ALB,https://open.undp.org/projects/00129706,European Commision,Non-VF,2,
+121,115727,Upper Nile University,124570.12,South Sudan,SSD,,Japan,Non-VF,1,
+122,"00080877, 00097821, 00080982, 00109097",UNDP Country Office ,518743.75,South Sudan,SSD,,UNDP,Non-VF,1,
+123,93664,State Revenue Authority (SRA),246584.79,South Sudan,SSD,,UNDP,Non-VF,1,
+124,104022,Police Office Training Facility,186391.71,South Sudan,SSD,,UNDP,Non-VF,2,
+125,101178,Ministry of Local Government and Law Enforcement ,149770.73,South Sudan,SSD,,UNDP,Non-VF,1,
+126,"00104634, 00104636","Disarmament, Demobilization and Reintegration (DDR)",118418.0,South Sudan,SSD,,UNDP,Non-VF,1,
+127,125900, Global Fund Project - Solar for Health,6268828.8,South Sudan,SSD,,UNDP,Non-VF,1,
+128,95405.0,EE in Public Buildings,5480000.0,Ukraine,UKR,https://www.undp.org/ukraine/projects/removing-barriers-increase-investment-energy-efficiency-public-buildings-ukraine-through-esco-modality-small-and-medium-sized,GEF,VF,1,
+129,1000157.0,Promotion of Human Security ,40000000.0,Ukraine,UKR,https://www.undp.org/ukraine/press-releases/undp-and-japan-deliver-high-power-autotransformers-ukraine-ensure-unbroken-energy-supplies-over-half-million-people,Japan,Non-VF,3,
+130,134106.0,Winterization/Green Energy Recovery Programme,64600000.0,Ukraine,UKR,"https://www.undp.org/ukraine/projects/green-energy-recovery-programme-ukraine
+
+https://www.undp.org/ukraine/press-releases/gas-piston-cogeneration-units-delivered-odesa-undp-cover-45-citys-energy-needs-water-heating-and-sewage-services 
+",Japan,Non-VF,12,
+131,1003605.0,Crisis response for securing reliable energy access in Ukraine (FPI Energy),7013409.812000001,Ukraine,UKR,,EU,Non-VF,4,
+132,142763.0,PDL-145 Territoires,619829499.0,Dem. Rep. of the Congo,COD,https://open.undp.org/projects/00142763,DRC Gov,Non-VF,4,
+133,127148.0,Projet Green Energy post COVID 19 : “Accès à l’énergie verte pour atténuer les impacts de la COVID-19,900000.0,Dem. Rep. of the Congo,COD,https://www.dropbox.com/scl/fi/l3y63sswt3thpkl4jf7j0/Prodoc-en-francais_Pour-Signature_DK.docx?rlkey=5c6x4qy6za2w8qvn7ct62q3w1&dl=0,PNUD,VF,6,
+134,4690.0,Congo Kinshasa Microhydro,3187669.0,Dem. Rep. of the Congo,COD,PIMS+,GEF,VF,3,
+135,101442.0,Programme de Consommation Durable et Substitution partielle au bois énergie (Programme Energie-Fonaredd),15000000.0,Dem. Rep. of the Congo,COD,https://open.undp.org/projects/00101442,CAFI,Non-VF,3,
+136,107168.0,Programme Environnement et Gest. Durable du Capital Nat,5628899.0,Guinea,GIN,http://open.undp.org/projects/00107168,UNDP,Non-VF,7,
+137,107166.0,Gestion Intégrée des Ressources Naturelles,7460274.0,Guinea,GIN,https://open.undp.org/projects/00107166,"GEF
+UNDP",VF,1,
+138,135006,Libyan electricity & water sector stabilization support,655444.0,Libya,LBY,http://open.undp.org/projects/00135006,EU,Non-VF,1,
+139,92045.0,Hydrogen Economy Pilot Project,11659101.0,China,CHN,http://open.undp.org/projects/00092045,Gov. of China,Non-VF,3,
+140,119001.0,UNDP-China Greater Bay Area Hydrogen Economy Vocational,7358188.0,China,CHN,http://open.undp.org/projects/00119001,Gov. of China,Non-VF,2,
+141,119439.0,Trilateral cooperation on Renewable Energy in Ethiopia,439401.0,China,CHN,http://open.undp.org/projects/00119439,Gov. of China,Non-VF,2,
+142,6618.0,PhosChemEE,9343379.0,China,CHN,https://co.pims.undp.org/project/view?id=6618,GEF,VF,2,
+143,6431.0,EZCERTV,8932420.0,China,CHN,https://co.pims.undp.org/project/view?id=6431,GEF,VF,2,
+144,5395.0,Public Sector Buildings EE (PSBEE),8932420.0,China,CHN,https://co.pims.undp.org/project/view?id=5395,GEF,VF,1,
+145,144123.0,UNDP-NIO CLEAN PARK PROJECT,697979.0,China,CHN,https://open.undp.org/projects/00144123,,Non-VF,1,
+146,141744.0,JSB - Net Zero Emissions,1100000.0,Maldives,MDV,https://open.undp.org/projects/00141744,Gov. of Japan,Non-VF,3,
+147,94293.0,GCF-Managing Climate Change Induced Water Shortages,23636364.0,Maldives,MDV,https://open.undp.org/projects/00094293,GCF,VF,3,
+148,142132.0,Project For Developing Sustainable Agricultural Economy,2500000.0,Maldives,MDV,https://open.undp.org/projects/00142132,Gov. of Japan,Non-VF,18,
+149,119917,Promesa Climática – Del Compromiso al Impacto – Bolivia - ENERGIA,216000.0,Bolivia,BOL,,,Non-VF,2,
+150,1000736,Promover la prevención de conflictos para la justicia ambiental en Bolivia - Sistema Paisaje Litio,500000.0,Bolivia,BOL,,,Non-VF,1,
+151,48025.0,Mainstreaming Green Environmental Development,29752153.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00048025,,Non-VF,2,
+152,105415.0,Green Economic Development Phase II,18383776.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00105415,,Non-VF,1,
+153,131266.0,Green Deal,614042.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00131266,,Non-VF,2,
+154,132013.0,Green Economic Development Project – III Phase,16726410.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00132013,,Non-VF,3,
+155,132014.0,Decarbonzation of Residential Sector in Bosnia and Her,1771084.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00132014,,Non-VF,4,
+156,141105.0,Inclusive Decarbonization Activity IDA,821580.0,Bosnia and Herzegovina,BIH,http://open.undp.org/projects/00141105,,Non-VF,2,
+157,5882.0,De-Risking and Scaling-up Investment in EE,17346000.0,Bosnia and Herzegovina,BIH,https://co.pims.undp.org/project/view?id=5882,GCF,VF,3,
+158,5646.0,Catalyzing Env.Fin. for Low-Carbon Urban Dev,2370000.0,Bosnia and Herzegovina,BIH,PIMS+,"GEF
+BIH Government",VF,2,
+159,125245.0,Energía y Desarrollo Humano,67499.0,Paraguay,PRY,http://open.undp.org/projects/00125245,Trac Funds,Non-VF,1,
+160,5188.0,Asunción Green City,7493120.0,Paraguay,PRY,PIMS+,GEF,VF,2,
+161,6510.0,National child project under the GEF African Minigrid Program,924566.0,Burkina Faso,BFA,PIMS+,GEF,VF,7,
+162,134067.0,Projet tranfrontalier Burkina RCI-UNDP-BFA-00129636,407000.0,Burkina Faso,BFA,https://open.undp.org/projects/00134067,,Non-VF,1,
+163,136271.0,Collaborate and Innovate-UNDP-BFA-00127230,1510000.0,Burkina Faso,BFA,https://open.undp.org/projects/00136271,,Non-VF,1,
+164,5462.0,San Salvador Urban Development,2420548.0,El Salvador,SLV,https://co.pims.undp.org/project/view?id=5462,GEF,VF,4,
+165,6657,National child project under the GEF Africa Minigrids Program,2018349.0,Sao Tome & Principe,STP,https://co.pims.undp.org/project/view?id=6657,GEF,VF,2,
+166,4602,Promotion of environmentally sustainable and climate-resilient grid/isolated grid-based hydroelectric electricity through an integrated approach in Sao Tome and Principe.,5274544.0,Sao Tome & Principe,STP,https://co.pims.undp.org/project/view?id=4602,GEF,VF,2,
+167,missing-STP-1,Green Infrastructure for Health and Education in Sao Tome and Principe,1072026.0,Sao Tome & Principe,STP,,,Non-VF,2,
+168,130633.0,"Catalysing a Sustainable Shift towards E-mobility (March 2022-March 2023) 
+",896583.0,Viet Nam,VNM,https://www.undp.org/vietnam/projects/catalysing-sustainable-shift-towards-e-mobility,Gov. of Japan,Non-VF,3,
+169,1061012.0,Scaling up E-mobility and mechanisms for promoting investments in green projects in Viet Nam (March 2023 - March 2024),1128978.0,Viet Nam,VNM,,,Non-VF,6,
+170,134019.0,"Shifting Investment Flows 
+Towards Green Transformation (SHIFT)",3000000.0,Viet Nam,VNM,N/A yet,,Non-VF,2,
+171,117633.0,Accelerating Private Sector Engagement in Climate Resilient and Low Emission Investment Opportunities in Viet Nam’s NDC,2201100.0,Viet Nam,VNM,Accelerating Private Sector Engagement in Climate-Resilient and Low-Emission Investment Opportunities in Viet Nam’s NDC 2019-2023 | United Nations Development Programme (undp.org),,Non-VF,6,
+172,MAF2024_O0547,Accelerating Decarbonization: Closing the Energy Gap through Market-Driven Solar Power Solutions,19000000.0,Bhutan,BTN,,,Non VF,1,
+173,98606,Bhutan Sustainable Low Urban Transport Systems,3000000.0,Bhutan,BTN,GEF,,VF,1,
+174,128990,"Leveraging Nationally Determined Contributions (NDCs) to achieve net-zero emissions and climate-resilient development, in response to the climate emergency",1145424.0,Bhutan,BTN,JSB,,Non-VF,1,
+175,76640,Removal of barriers to sustainable utilization of available biomass resources in the country; and application of biomass energy technologies that can support the economic and social development in the country’s rural sector,1903000.0,Bhutan,BTN,GEF,,VF,1,
+176,129029,Solar photovoltaic project ,210000.0,Bhutan,BTN,JSB,,Non-VF,1,
+177,6692,Energy Efficiency in Building Sector - Turkmenistan,2066333.0,Turkmenistan,TKM,https://co.pims.undp.org/project/view?id=6692,GEF,VF,1,
+178,5452,Sustainable Cities: Ashgabat and Awaza,6060046.0,Turkmenistan,TKM,https://co.pims.undp.org/project/view?id=5452,GEF,VF,1,
+179,6089.0,SPIRES (Rural Electrification),2639726.0,Solomon Islands,SLB,PIMS+,GEF,VF,6,
+180,1001800.0,"Improved Access to Electricity for Peri-Urban, Urban, and Rural Areas in sub-zobas of Adi-keih, Senafe, Mai- ‘aini and Tsoronna through installation of 2x6 MVA, 66/15 KV Substation in Adi Keih town",-1.0,Eritrea,ERI,,CORE I,Non-VF,3,
+181,6451.0,SMARTER - Bioenergy in Barbados,1593836.0,Barbados,BRB,PIMS+,GEF,VF,4,
+182,96620,Resource Efficiency in Agriculture & Agrobased Ind.GAP,1499060.0,Turkey,TUR,http://open.undp.org/projects/00096620,Turkish central government,Non-VF,1,
+183,114367,Environment and social resilience,791900.0,Turkey,TUR,http://open.undp.org/projects/00114367,H&M,Non-VF,1,
+184,125243,Increasing Employability in the Renewable Energy Sector,2362663.0,Turkey,TUR,http://open.undp.org/projects/00125243,Gov of South Korea,Non-VF,1,
+185,133485,Green Destination Model -ENERJISA,170000.0,Turkey,TUR,http://open.undp.org/projects/00133485,Enerjisa,Non-VF,1,
+186,5673,EE Low Cost Wooden Houses,3800000.0,Turkey,TUR,PIMS+,GEF,VF,1,
+187,5323,SEFM for Solar PV for Forest Villages,3780000.0,Turkey,TUR,PIMS+,GEF,VF,1,
+188,5285,TEEEM - EE Motors,3750000.0,Turkey,TUR,PIMS+,GEF,VF,1,
+189,124212.0,Services Energétiques Ruraux,7260535.0,Burundi,BDI,http://open.undp.org/projects/00124212,,Non-VF,4,
+190,1001068.0,UNIPOD/ SMARTCENTER / WOMIPOD,,Burundi,BDI,,PNUD,,2,
+191,1001073.0,"Appui à l'accès à la justice, Etat de droit et à la cohésion sociale au Burundi (11 Bureaux d'Etat Civil )",285715.35,Burundi,BDI,https://open.undp.org/projects/01001073,PNUD,,1,
+192,128744.0,COVID 19 RESPONSE MECHANISM ( C19RM),-1.0,Burundi,BDI,https://open.undp.org/covid-response,GFATM C19RM UNDP,,2,
+193,115827.0,Solarisation of Head of State Residences in the Pacific,1575829.0,Fiji (+10 member countries of Pacific Island Development Forum),NA,http://open.undp.org/projects/00115827,,Non-VF,3,
+194,5926.0,BRANTV,2639726.0,Vanuatu,VUT,https://co.pims.undp.org/project/view?id=5926,,VF,2,
+195,5613.0,FASNETT,2639725.0,Tuvalu,TUV,https://co.pims.undp.org/project/view?id=5613,,VF,9,
+196,6188.0,SMARTEN,3302968.0,Nauru,NRU,https://co.pims.undp.org/project/view?id=6188,,VF,4,
+197,6159.0,POIDIER,5379452.0,Kiribati,KIR,https://co.pims.undp.org/project/view?id=6159,,VF,12,
+198,5997.0,MPSBEE,1776484.0,Federated States of Micronesia,FSM,https://co.pims.undp.org/project/view?id=5997,,VF,9,
+199,1000416.0,"VAN: Promoting Green Transformation in the Pacific Region towards Net-zero and Climate-resilient Development, Vanuatu",4622265.0,Vanuatu,VUT,,,Non-VF,4,
+200,6417.0,TAILEV,3569725.0,Uzbekistan,UZB,PIMS+,GEF,VF,1,
+201,5392.0,Sustainable Rural Housing in Uzbekistan,6000000.0,Uzbekistan,UZB,PIMS+,GEF,VF,2,
+202,128213,Greening the RFM Hospital Demonstration,1870871.0,Eswatini,SWZ,http://open.undp.org/projects/00128213,Gov. of Italy,Non-VF,1,
+203,6432,National project under the AMP,863242.0,Eswatini,SWZ,PIMS+,Global Environment Fund,VF,1,
+204,80963,UNDP Moonshot: Greening the UN House,156514.85,Eswatini,SWZ,,UNDP,Non-VF,2,
+205,1000549,Powering Gender Equality,130000.0,Eswatini,SWZ,,UNDP,Non-VF,1,
+206,117244,Italy-UNDP Energy Partnership,100000.0,Eswatini,SWZ,,UNDP,Non-VF,1,
+207,TBD,Catalysing Renewable Energy Access and Transition in Eswatini.,820000.0,Eswatini,SWZ,,European Union,Non-VF,1,
+208,125985,"Addressing the Water, Health and Poverty Nexus through WASH Initiatives for COVID-19 and Climate Change Responses",999000.0,Eswatini,SWZ,,European Union,Non-VF,1,
+209,124574.0,Strengthening Local Climate Action,1220000.0,Kosovo,XKX,https://www.undp.org/kosovo/projects/strengthening-local-climate-action-project,Austrian Development Agency,Non-VF,8,
+210,1000987.0,"Kosovo Climate Promise Project 2 - ""Climate Promise Kosovo – From Pledge to Impact (CP2 Project)""",381780.0,Kosovo,XKX,https://open.undp.org/projects/01000987,Sida (Swedish International Development Cooperation Agency),Non-VF,6,
+211,130766.0,"Climate Promise Project- ""Growth Through Green and Rapid Recovery from Covid-19""",704052.0,Kosovo,XKX,https://climatepromise.undp.org/what-we-do/where-we-work/kosovo ,,Non-VF,5,
+212,5702.0,Forest Landscape Restoration in the Mayaga,6213538.0,Rwanda,RWA,"https://co.pims.undp.org/project/view?id=5702
+
+https://erc.undp.org/evaluation/documents/detail/22638",GEF + core resources ,VF,1,
+213,6083.0,Ecosystems/Landscape approach to climate proof the Rural Settlement Program of Rwanda,101455.0,Rwanda,RWA,https://pir.pims.undp.org/pir/report?id=38&pirEntryId=4750,GEF ,VF,1,
+214,112808.0,Poverty Environment Action for SDGs,112808.0,Rwanda,RWA,https://undp-my.sharepoint.com/query?q=pea&searchScope=all&id=%2Fpersonal%2Fpierre%5Fndindiyaho%5Fundp%5Forg%2FDocuments%2FPEA%5FFinal%20Report%2Epdf&parentview=7,"Belgium, Sida",Non-VF,1,
+215,116275.0,Strengthening Capacities of the ENR Sector for Green Economy Transformation (SCENR),116275.0,Rwanda,RWA,https://erc.undp.org/evaluation/documents/download/21990,UNDP Core resources,Non-VF,2,
+216,126434.0,Accelerating Clean Energy Access to Reduce Inequality (ACCESS),15028509.0,Indonesia,IDN,http://open.undp.org/projects/00126434,,Non-VF,10,
+217,142434.0,PIP Accelerating Robust Carbon Pricing,1796132.0,Indonesia,IDN,http://open.undp.org/projects/00142434,,Non-VF,4,
+218,6333.0,Electric Vehicles in Indonesia (ENTREV),1816500.0,Indonesia,IDN,https://co.pims.undp.org/project/view?id=6333,,VF,5,
+219,5721.0,ADLIGHT,2633372.0,Indonesia,IDN,https://co.pims.undp.org/project/view?id=5721,,VF,5,
+220,4673.0,RE Market Transformation (NAMA),8025000.0,Indonesia,IDN,https://co.pims.undp.org/project/view?id=4673,,VF,7,
+221,1000330.0,PIP JSB Advancing Indonesia's NDC Targets in the Energy Sector,1976199.0,Indonesia,IDN,https://open.undp.org/projects/01000330,,Non-VF,3,
+222,1000743.0,PIP Just Energy Transition,150000.0,Indonesia,IDN,https://open.undp.org/projects/01000743,,Non-VF,2,
+223,1002479.0,PIP Gender-Responsive Just Energy Transition,150000.0,Indonesia,IDN,https://open.undp.org/projects/01002479,,Non-VF,2,
+224,106637.0,Partnership for Action on Green Economy,1116810.36,Indonesia,IDN,"https://www.un-pageindonesia.org/
+
+https://open.undp.org/projects/00105341",,Non-VF,2,
+225,131053.0,Sustainable Infrastructure Programme in Asia ,315717.74,Indonesia,IDN,https://open.undp.org/projects/00143365,,Non-VF,1,
+226,6486.0,Promoting Low-carbon Electric Public Bus Transport in Mauritius,5600607.0,Mauritius,MUS,https://co.pims.undp.org/project/view?id=6486,GEF,Non-VF,4,
+227,5681.0,Transformational shift to a low-carbon economy,28210000.0,Mauritius,MUS,https://co.pims.undp.org/project/view?id=5681,GCF,Non-VF,6,
+228,5509.0,Realising Energy Savings and Climate Benefits of Implementing Mandatory Energy Auditing in the Republic of Mauritius ,4532164.0,Mauritius,MUS,https://co.pims.undp.org/project/view?id=5509,GEF,Non-VF,7,
+229,144953.0,Addressing food and energy crisis in North Macedonia,95000.0,North Macedonia,MKD,http://open.undp.org/projects/00144953,Mptf-Joint Sdg Fund,Non-VF,1,
+230,144270.0,Green Finance Facility to Improve Air Quality and Combat Climate Change in North Macedonia,44400000.0,North Macedonia,MKD,https://open.undp.org/projects/00144270,Mptf-Joint Sdg Fund,Non-VF,20,
+231,110061.0,Tackling Air Pollution in Skopje,2150000.0,North Macedonia,MKD,https://open.undp.org/projects/00110061,Swedish Int'L Development Cooperation,Non-VF,1,
+232,129099.0,"Scaling up action to tackle air pollution,",3134309.0,North Macedonia,MKD, https://open.undp.org/projects/00129099,Swedish Int'L Development Cooperation,Non-VF,4,
+233,5143,SE4ALL,3502968.0,Equatorial Guinea,GNQ,https://co.pims.undp.org/project/view?id=5143,GEF,VF,1,
+234,46258,Small Grants Programme,429168.0,Armenia,ARM,http://open.undp.org/projects/00046258,"UNDP, Arm.Gov, 
+Gov. Finland",Non-VF,1,
+235,118602,Climate Smart Solutions in Communities,916858.0,Armenia,ARM,http://open.undp.org/projects/00118602,"Arm.Gov., UNDP",Non-VF,1,
+236,133238,Phase II_Climate Smart Solutions,595301.0,Armenia,ARM,http://open.undp.org/projects/00133238,"Arm.Gov., UNDP",Non-VF,1,
+237,98348,De-Risking Investment In Energy Efficient Retrofits,20420000.0,Armenia,ARM,https://open.undp.org/projects/00098348 ,"GEF, Arm.Gov., 
+UNDP",Non-VF,1,
+238,140158,"Strengthened Community Resilience through Energy Efficiency and Low
+Emission Development",1000000.0,Armenia,ARM,,,Non-VF,1,
+239,5749.0,The Climate Aggregation Platform for Developing Countries,1950000.0,New York,NA,https://co.pims.undp.org/project/view?id=5749,GEF,VF,2,
+240,118154,Regional stabilization facility,1260000.0,"Cameroon, Republic of",CMR, Cameroun Energy Project," UK, Allemagne  ",Non-VF,7,
+241,CMR/SGP/OP7/Y1/CORE/CC/2022/04 ,GEF Small Grants Programme,34255.0,"Cameroon, Republic of",CMR, Cameroun Energy Project,"1 447,00",Non-VF,1,
+242,130710,UNDP CAMEROUN GOES GREEN: SUPPORT FOR THE ACHIEVEMENT OF SUSTAINABLE MOONSHOT OBJECTIVES,16839.0,"Cameroon, Republic of",CMR, Cameroun Energy Project,Greening Moonshot Fund,Non-VF,3,
+243,6619.0,Solar for Health ,25000000.0,Namibia,NAM,,GCF,VF,1,
+244,6337.0,"Enhancing Namibia’s capacity to establish a comprehensive Transparency Framework for Measurement, Reporting and Verification (MRV) of climate actions and reporting on NDC implementation under the Paris Agreement",1160000.0,Namibia,NAM,https://co.pims.undp.org/project/view?id=6337,GEF / UNDP,VF,1,
+245,130635.0,"Promotion of carbon markets in Namibia for an enhanced implementation of the nationally determined contributions (NDC) towards net-zero emissions and climate-resilient development, in response to the climate emergency.",1003042.0,Namibia,NAM,"https://sway.office.com/nRDTcZhPyGGgaC6k?ref=Link
+
+https://open.undp.org/projects/00123453",,Non-VF,1,
+246,1000235.0,"Strengthening and building resilience of Namibia’s peri-urban communities to climate change through climate-smart agricultural production, access to solar technologies, climate information and early-warning system.",1030039.0,Namibia,NAM,https://co.pims.undp.org/project/view?id=4711,Japan ,Non-VF,4,
+247,135028.0,Projet d’appui au développement d’offres énergétiques (Chad),1745000.0,Chad,TCD,https://open.undp.org/projects/00135028,,Non-VF,7,
+248,114485.0,Policy and Innovation,14955773.0,Cambodia,KHM,http://open.undp.org/projects/00114485,,Non-VF,6,
+249,144124.0,ROK Solar Irrigation,2230822.0,Cambodia,KHM,https://open.undp.org/projects/00144124,,Non-VF,4,
+250,118895.0,Cambodia Climate Change Alliance – Phase 3,9032048.0,Cambodia,KHM,http://open.undp.org/projects/00118895,"European Commission, SIDA, UNDP, FCDO",Non-VF,8,
+251,125400,Accès aux services énergétiques,2545500.0,Niger,NER,http://open.undp.org/projects/00125400,UNDP,Non-VF,1,
+252,"6659, 143728",National child project under the GEF Africa Minigrids Program,1601376.0,Niger,NER,PIMS+,GEF,VF,1,
+253,6321.0,Sudan national child project - Africa Minigrids Program (AMP),2637246.0,Sudan,SDN,PIMS+,GEF,VF,1,
+254,5674.0,Efficient Appliances UNEP Global PFD,1770000.0,Sudan,SDN,PIMS+,GEF,VF,1,
+255,106169.0,Solar for Agriculture Development in Sudan,9129111.0,Sudan,SDN,http://open.undp.org/projects/00106169,KOICA,Non-VF,1,
+256,102733.0,Solar for Health Project,676621.0,Sudan,SDN,http://open.undp.org/projects/00102733,GCF,VF,1,
+257,1000518.0,Sudan-Scaling Solar Applications for Agricultural Use (SSAAU),200000.0,Sudan,SDN,,IBSA,Non-VF,4,
+258,98897,FRELOCAL - FUENTES RENOVABLES DE ENERGIA - DES LOCAL,3578420.0,Cuba,CUB,http://open.undp.org/projects/00098897,,Non-VF,1,
+259,110578,Resiliencia Energetica post Irma,7710027.0,Cuba,CUB,http://open.undp.org/projects/00110578,,Non-VF,1,
+260,118945,MUNICIPIO MARTI ENERGIA SOSTENIBLE,433162.0,Cuba,CUB,http://open.undp.org/projects/00118945,,Non-VF,1,
+261,5653,Cuba Sustainable Transport,1959132.0,Cuba,CUB,https://co.pims.undp.org/project/view?id=5653,GEF,VF,1,
+262,4899,CleanEnerg Cuba,2737524.0,Cuba,CUB,https://co.pims.undp.org/project/view?id=4899,GEF,VF,1,
+263,120932,"Apoyo a la revitalización del empleo en la cadena de producción ganadera de la provincia de Guantánamo, en la etapa de Recuperación post COVID-19",100000.0,Cuba,CUB,Empleo Autoabastecimiento COVID-19 | UNDP Transparency Portal,,Non-VF,1,
+264,118495,ALASS,800000.0,Cuba,CUB,https://open.undp.org/projects/00118495,,Non-VF,1,
+265,85124,Agrofrutales,128000.0,Cuba,CUB,https://open.undp.org/projects/00085124,,Non-VF,1,
+266,6658,National child project under the GEF Africa Minigrids Program,1326147.0,Benin,BEN,https://co.pims.undp.org/project/view?id=6658,GEF,VF,1,
+267,5115,Benin Biomass Electricity Generation,3872602.0,Benin,BEN,https://co.pims.undp.org/project/view?id=5115,GEF,VF,3,
+268,4979,Benin NAPA LDCF 2,8000000.0,Benin,BEN,https://co.pims.undp.org/project/view?id=4979,LDCF/GEF,VF,5,
+269,4979-2,Benin NAPA LDCF 2 TRAC 2,1400000.0,Benin,BEN,https://co.pims.undp.org/project/view?id=4979-2,LDCF/GEF,VF,1,
+270,missing-KEN-1,JSB- ACCELERATING CLEAN COOKING ACTION IN KENYA,1327000.0,Kenya,KEN,,Japan,Non-VF,5,
+271,136330,SOLAR POWERWED COLD STORAGE FACILITIES TO REDUCE POST HARVEST LOSSESS,24710000.0,Kenya,KEN,https://open.undp.org/projects/00136330,MITIGATION FACILITY				,Non-VF,7,
+272,120294,Solar for Health,1000000.0,Liberia,LBR,,UNDP TRAC 1,Non-VF,1,
+273,122614,Liberia Decentralization Support Project Phase II,836698.05,Liberia,LBR,,"Ireland, Sweden & UNDP",Non-VF,1,
+274,129168,"Delivering Peace Dividens in Liberia: Consolidating National, Regional and Local Reconciliation and Social Cohesion Opportunities.",194800.0,Liberia,LBR,,PBF,,1,
+275,113007,Electricity and Energy Support,36250760.0,Syria,SYR,http://open.undp.org/projects/00113007,,Non-VF,24,
+276,129587.0,Accelerator Lab – Mozambique,566623.0,Mozambique,MOZ,http://open.undp.org/projects/00129587,UNDP AccLabs,Non-VF,2,
+277,121665.0,Moz Recovery Facility,-1.0,Mozambique,MOZ,https://open.undp.org/projects/00121665,United Nations Development Programme,Non-VF,2,
+278,135528.0,Health System Strengthening_NFM3,-1.0,Mozambique,MOZ,https://open.undp.org/projects/00135528,Government of Mozambique,Non-VF,2,
+279,6270,GEF 7: Sustainable Cities - Green Economy,10317970.0,Costa Rica,CRI,https://co.pims.undp.org/project/view?id=6270,GEF,VF,1,
+280,102048,Home Projects WRM and Eba in Xe Bang Hieng river basin and LPB city,5579452.0,Lao PDR,LAO,https://undp-my.sharepoint.com/:b:/r/personal/benjamin_rapp_undp_org/Documents/Public/Signed%20ProDoc%20GEF%20IWRM%20Lao%20PDR.pdf?csf=1&web=1&e=RpDFpX,GEF LDCF,Non-VF,2,
+281,132455 ,Climate Promise II: from Pledge to Impact,540000.0,Lao PDR,LAO,https://undp-my.sharepoint.com/:w:/r/personal/benjamin_rapp_undp_org/Documents/Public/ProDoc%20CP%20II%20-%20Final%20Draft_updated250523%20Tx.docx?d=wb4fecac79120493cb018c6c063ab65b7&csf=1&web=1&e=cTjXPA,UNDP (Government of Germany),Non-VF,2,
+282,126532.0,The ACCESS project,2970297.0,Timor-Leste,TLS,http://open.undp.org/projects/00126532,KOICA,Non-VF,3,
+283,145070.0,3E4Women,280000.0,Timor-Leste,TLS,http://open.undp.org/projects/00145070,Joint SDG Fund,Non-VF,1,
+284,1000417.0,Green Transformation ,5781240.0,Timor-Leste,TLS,https://www.undp.org/timor-leste/projects/green-transformation-project,Japan,Non-VF,3,
+285,94384.0,Sustainable Energy for All,12489640.0,United Republic of Tanzania,TZA,http://open.undp.org/projects/00094384,,Non-VF,1,
+286,141196.0,Implementation of the Tanzania Energy Efficiency Action,5410706.0,United Republic of Tanzania,TZA,http://open.undp.org/projects/00141196,"European Union, UNDP",Non-VF,7,
+287,122808.0,Energy Efficiency Renovation,1055099.0,Serbia,SRB,http://open.undp.org/projects/00122808,Gov. of Serbia,Non-VF,1,
+288,6388.0,Energy Efficiency in Buildings,1505000.0,Serbia,SRB,https://co.pims.undp.org/project/view?id=6388,GEF,VF,6,
+289,6285.0,Circular Economy in Serbia,1777000.0,Serbia,SRB,https://co.pims.undp.org/project/view?id=6285,GEF,VF,2,
+290,127312.0,"EU for Green Agenda in Serbia: Get started, Take action, Scale-up",7200000.0,Serbia,SRB,https://www.undp.org/serbia/projects/eu-green-agenda-serbia,EU,Non-VF,4,
+291,129089.0,Green Agenda in Serbia,4905556.0,Serbia,SRB,https://www.undp.org/serbia/projects/eu-green-agenda-serbia,SDC,Non-VF,3,
+292,132184.0,Green Agenda in Serbia,2222222.0,Serbia,SRB,https://www.undp.org/serbia/projects/eu-green-agenda-serbia,SECO,Non-VF,4,
+293,132059.0,Rural Energy Market Transform (AREMTI),21398843.0,Afghanistan,AFG,https://open.undp.org/projects/00132059,"GCF (including 17,198,843) , UNDP, Ministry of Rural Rehabilitation and
+Development (MRRD)",VF,1,
+294,147445.0, Sustainable Energy Services for Education and Health in Afghanistan (SESEHA),60110220.0,Afghanistan,AFG,https://open.undp.org/projects/00147445,BMZ (Federal Ministry for Economic Cooperation and Development) through KFW (German Development Bank),Non-VF,1,
+295,1000372.0,ABADEI 2.0,8726624.0,Afghanistan,AFG, ,Government of Japan,Non-VF,1,
+296,138844.0,ABADEI 1.0 (PIP),12895159.0,Afghanistan,AFG,https://open.undp.org/projects/00138844,"Government of Japan, UNDP",Non-VF,2,
+297,143651.0,Strengthening Community Safety Well-being and Humanitarian Security in Afghanistan ,1253880.0,Afghanistan,AFG, ,Government of Japan,Non-VF,1,
+298,88841.0,Afghanistan Sustainable Energy for Rural Development (ASERD),12846044.0,Afghanistan,AFG, ,"Republic of Korea, UNDP, Canada, Spain",Non-VF,1,
+299,122244.0,Community-based Agriculture and Development Project,30892000.0,Afghanistan,AFG,https://open.undp.org/projects/00122244,Us Int'L Narcotics & Law Enfmnt Affairs,NON-VF,1,
+300,00131399 (UNDP CO TRAC),National Human Development Report (NHDR) on Energy-Induced Vulnerabilities in the Kyrgyz Republic,164532.0,Kyrgyzstan,KGZ,https://www.undp.org/kyrgyzstan/projects/national-human-development-report-2024-energy-induced-vulnerabilities,UNDP (funded by TRAC),Non-VF,3,
+301,104020,Electrification Rurale et Autonomisation des Femmes,6930933.0,Haiti,HTI,http://open.undp.org/projects/00104020,Japan,Non-VF,1,
+302,128342,Installation Pompes Solaires,1858988.0,Haiti,HTI,http://open.undp.org/projects/00128342,India,Non-VF,1,
+303,120474.0,Transition to sustainable energy and economy,662997.0,Prog for Palestinian People,PSE,http://open.undp.org/projects/00120474,Japan,Non-VF,5,
+304,132972.0,GO SOLAR| Renewable Energy Investments at Education and Public Facilities in East Jerusalem,2300000.0,Prog for Palestinian People,PSE,http://open.undp.org/projects/00132972,Norway,Non-VF,1,
+305,133802.0,Solar for margenalized communites in the West Bank,300000.0,Prog for Palestinian People,PSE,http://open.undp.org/projects/00133802,Funding Window ,Non-VF,2,
+306,122659.0,Climate Action for Human Security (Regional project component),149000.0,Iraq,IRQ,http://open.undp.org/projects/00122659,CO funding,Non-VF,1,
+307,122627.0,Climate Action for Human Security ,922000.0,Iraq,IRQ,,SIDA,Non-VF,2,
+308,6487.0,Promoting Carbon Reduction Through Energy Efficiency (EE) Techniques in Iraq,3092009.0,Iraq,IRQ,https://co.pims.undp.org/project/view?id=6487,GEF,VF,4,
+309,85156.0,"Iraq Crisis Recovery and Resilience Program (ICRRP), Output 3: Resilience Of Vulnerable Communities To Climate Change Enhanced Through Access To Renewable Energy",4250000.0,Iraq,IRQ,https://open.undp.org/projects/00085156,USAID,Non-VF,7,
+310,125754.0,Mainstreaming Environmental Sustainability and Clean Energy Access in the 3RP: The Case for Action: Renewable Energy Training for Forcibly Displaced and Vulnerable Young Men and Women in Iraq  ,55000.0,Iraq,IRQ,,Govt. of Finland,Non-VF,1,
+311,89459.0,Funding Facility for Stabilization,11182694.0,Iraq,IRQ,https://open.undp.org/projects/00089459,USAID,Non-VF,8,
+312,116195.0,Supporting recovery and stability through local development in Iraq,6148000.0,Iraq,IRQ,,Multidonor,Non-VF,7,
+313,5304.0,Urban Transport,2639726.0,Philippines,PHL,https://co.pims.undp.org/project/view?id=5304,GEF,VF,3,
+314,5194.0,DREAMS,5200000.0,Philippines,PHL,https://co.pims.undp.org/project/view?id=5194,GEF,VF,16,
+315,85377.0,Joint Programme on Charcoal,8652596.0,Somalia,SOM,http://open.undp.org/projects/00085377,"MPTF (EU, Italy, Sweden, Norway)",Non-VF,2,
+316,6328.0,Somalia national child project - Africa Minigrids Program (AMP),3276147.0,Somalia,SOM,PIMS+,GEF,VF,1,
+317,133229.0,COVID 2.0- Beyond Recovery COVID-19,668218.0,India,IND,http://open.undp.org/projects/00133229,This was the Green Recovery Project supported by UNDP Rapid Finance Facility in 2021-2022. Approx. 77.28 tCO2 equivalent per yr abated,Non-VF,2,
+318,116294.0,Energy Efficiency and Thermal Comfort in Buildings,4484357.0,India,IND,PIMS+,"Under this GEF supported project, super EE technologies will be piloted in select public, private buildings across 3 States in India. The total estimated GHG reduction potential from this pilot is estimated to be 26.6 ktCO2 per year ",Non-VF,1,
+319,1000316.0,Scaling Solar Applications for Agricultural Use,200000.0,India,IND,,This project is being implemented in partnership with International Solar Alliance (ISA) across 10 of its member countries. Estimation : Approx. 87.84 tCO2 per year will be abated,Non-VF,1,
+320,127730.0,JSB-NZE 2021 project ,1782418.0,India,IND,,The project support by Govt of Japan is being implemented across several States in India. The approximate GHJG emissions abated from the interventions is 778.32 tCo2 equivalent per yr,Non-VF,6,
+321,1000354.0,JSB-NZE 2022 project,695057.0,India,IND,,"The project support by Govt of Japan is being implemented across several States in India. The estimated GHG emissions abated from the interventions is 92,500 tCo2 equivalent per yr (only from interventions in Steel sector. The GHG emissions abated from other interventions will be calculated based on the sizes of actual units deployed)",Non-VF,5,
+322,134123.0,Accès aux énergies propres dans les zones rurales du Liptako Gourma,8498746.0,Mali,MLI,https://open.undp.org/projects/00134123,ASDI,Non-VF,4,
+323,125461.0,Femmes illuminant les chemins vers la paix,1500000.0,Mali,MLI,https://open.undp.org/projects/00125461,UN Peacebuilding Fund (PBF),Non-VF,3,
+324,121587.0,"Energie solaire, télésanté et protection sociale pour transformer la santé communautaire au Mali (SanDi)/RFF",6000000.0,Mali,MLI,https://open.undp.org/projects/00127675,GEF/UNDP,Non-VF,3,
+325,129014.0,Africa Migrid Program,1780000.0,Mali,MLI,,GEF/UNDP,Non-VF,6,
+326,124853.0,Ten Country: Scaling Solar Applications for Agricultural Use,200000.0,Mali,MLI,,ISA/India,Non-VF,2,
+327,CIV10- CIV10-00131158,"Engagement des jeunes et des femmes pour la prévention des crises, la stabilité sociale, la consolidation de la paix et la réduction de la violence communautaire dans le nord de la Côte d'Ivoire",-1.0,Cote d'Ivoire,CIV,https://undp.sharepoint.com/:w:/r/teams/CIV/Archive/Unite%20Programme/Portfeuille%20gouvernance/Prodoc_PVE_RC_Version%20du%2008042022_finale.doc?d=w3ccf70e3a98f49ed99731f086fb1f089&csf=1&web=1&e=mlUAt4,Allemagne,Non-VF,1,
+328,5989.0,Sustainable Energy Access,3540468.0,Angola,AGO,https://co.pims.undp.org/project/view?id=5989,GEF,VF,1,
+329,5331.0,Angola Charcoal,4620000.0,Angola,AGO,https://co.pims.undp.org/project/view?id=5331,GEF,VF,3,
+330,143527.0,Angola TRAC 2 Programming,3620000.0,Angola,AGO,https://open.undp.org/projects/00143527,TRAC2,,2,
+331,1000194,Strengthening Systems Approach for SDGs in Mongolia (SASiM),50000.0,Mongolia,MNG,https://open.undp.org/projects/01000194,,Non-VF,1,
+332,1001571,A Holistic Approach to Women's Empowerment and Renewable Energy Transition in Ulaanbaatar,241888.0,Mongolia,MNG,https://open.undp.org/projects/01001571,,,1,
+333,107518.0,NDC Support Project,931500.0,Thailand,THA,https://undp.sharepoint.com/:f:/r/teams/THA/IntegratedProgrammeTeam/IGSD%20Document/IGSD%20Document/Support%20document%20on%20Tracking%20the%20Energy%20Moonshot/00107518%20NDC%20Support?csf=1&web=1&e=DJOLKl,,Non-VF,1,
+334,124794.0,"Achieving Sustainable Low Carbon Growth in the City through Electrified Urban Transport System in Thailand (E-Transport in LCC)"" UNDP-UK PACT Project",641793.0,Thailand,THA,https://undp.sharepoint.com/:f:/r/teams/THA/IntegratedProgrammeTeam/IGSD%20Document/IGSD%20Document/Support%20document%20on%20Tracking%20the%20Energy%20Moonshot/00124794%20E-Transport%20in%20LCC?csf=1&web=1&e=VaOW8z,,Non-VF,2,
+335,6384.0,E-Mobility Strategy Peru,1784862.0,Peru,PER,https://co.pims.undp.org/project/view?id=6384,GEF,VF,3,
+336,"5476, 97769",Green Energy SME Development Project,491740.75,Tajikistan,TJK,https://open.undp.org/projects/00097769,GEF,VF,11,
+337,CKT-NGA10-2022-030,"DRILLING OF TWO (2) MIDDLE AQUIFER BOREHOLES IN BANKI POLICE BARRACK AND IMMIGRATION QUATER PREMISES BANKI, BAMA LGA BORNO STATE",29406.544502617802,Nigeria,NGA,,,Non-VF,1,
+338,UNDP-NGA10-2022-015 ,"PROVISION AND INSTALLATION OF 160 SOLAR STREET LIGHTS AT
+500 HOUSING UNIT, BANKI TOWN, BAMA LGA, BORNO STATE",48597.126701570676,Nigeria,NGA,,,Non-VF,1,
+339,NGA10-0000026575,"PROVISION AND INSTALLATION OF 12 SOLAR STREET LIGHTS BANKI TOWN, BAMA LGA, BORNO STATE",3644.784502617801,Nigeria,NGA,,,Non-VF,1,
+340,UNDP-NGA10-2022-016,"PROVISION AND INSTALLATION OF 145 SOLAR STREET LIGHTS AT
+500 HOUSING UNIT, DAMBOA TOWN, DAMBOA LGA, BORNO STATE",44041.146073298434,Nigeria,NGA,,,Non-VF,1,
+341,NGA10-0000026576,"SUPPLY AND INSTALLATION OF 5KVA INVERTER SYSTEM WITH SOLAR
+PANEL IN PRIMARY SCHOOL, BANKI",4852.29057591623,Nigeria,NGA,,,Non-VF,1,
+342,CKT-NGA10-2021-63,"PROVISION AND INSTALLATION OF SOLAR POWERED STREETLIGHTS AT NGARANNAM, MAFA LGA, BORNO STATE (LOT 1)",123645.6719895288,Nigeria,NGA,,,Non-VF,1,
+343,CKT-NGA10-2021-64,"PROVISION AND INSTALLATION OF SOLAR POWERED STREETLIGHTS AT NGARANNAM, MAFA LGA, BORNO STATE (LOT 2)",123645.6719895288,Nigeria,NGA,,,Non-VF,1,
+344,10046575,"Provision & Installation of Solar Powered Streetlights along Trench Line, Ngarannam, Mafa L.G.A, Borno State",112989.42553664921,Nigeria,NGA,,,Non-VF,1,
+345,CKT-NGA10-2021-62,"Construction of Drilling, Installation and Reticulation of Two (2) Deep Aquifer (Underground Water Wells) Solar Driven Boreholes at Ngarannam, Mafa LGA, Borno State",128501.30890052357,Nigeria,NGA,,,Non-VF,1,
+346,UNDP-NGA10-2022-087,"Construction works at Primary Health Care Centre in Jajere community, Fune LGA in Yobe
+State",103632.90418848167,Nigeria,NGA,,,Non-VF,1,
+347,NGA10-0000026603,"SUPPLY AND INSTALLATION OF 5KVA INVERTER SYSTEM WITH SOLAR
+PANEL IN NGARANNAM POLICE OUTPOST MAFA LGA, BORNO STATE",6832.787958115183,Nigeria,NGA,,,Non-VF,4,
+348,145011.0,JP Food/Energy Resilience,99070.0,Georgia,GEO,http://open.undp.org/projects/00145011,,Non-VF,1,
+349,1000347.0,Renewable Energy for Sustainable Forest Management and Community Resilience in Machakhela Protected Areas,450000.0,Georgia,GEO,https://www.undp.org/georgia/projects/machakhela-forest-management,,Non-VF,5,
+350,101419.0,Improving Rural Development in Georgia (ENPARD 3),2000000.0,Georgia,GEO,https://www.undp.org/georgia/projects/enpard-3,"European Union, Georgia",Non-VF,1,
+351,141162.0,Support to sustainable and climate-friendly forest management practices in Georgia  ,926659.0,Georgia,GEO,https://www.undp.org/georgia/projects/sustainable-forest-management,,Non-VF,1,
+352,6327.0,Djibouti national child project - Africa Minigrids Program (AMP),3071347.0,Djibouti,DJI,PIMS+,GEF,VF,2,
+353,6202.0,Djibouti clean energy rural mini-grids project,863242.0,Djibouti,DJI,PIMS+,GEF,VF,1,
+354,9691.0,"Enhancing the enabling environment for investment in renewable energy technologies in the Obock Region, Djibouti (under formulation)",1776484.0,Djibouti,DJI,PIMS+,GEF,VF,1,
+355,1003161.0,New Energy Agriculture Project in Djibouti,75000.0,Djibouti,DJI,https://open.undp.org/projects/01003161,China Merchants,Non-VF,1,
+356,"5957, 117647",Energy Efficiency through the Development of Low-carbon RAC Technologies in Trinidad and Tobago,5152392.0,Trinidad & Tobago,TTO,https://open.undp.org/projects/00117647 https://co.pims.undp.org/project/view?id=5957,GEF,VF,7,
+357,112038, Global Climate Change Alliance Plus Trinidad and Tobago  “Support to the  Implementation of Trinidad and Tobago’s Nationally Determined Contribution”,2665440.0,Trinidad & Tobago,TTO,https://open.undp.org/projects/00112038,European Commission,Non-VF,9,
+358,TRI/SGP/OP7/YI/CORE/CC/22/09,"Improving community climate resilience in Matelot by implementing green solutions to address its electricity, water and food limitations.",26000.0,Trinidad & Tobago,TTO,https://sgp.undp.org/spacial-itemid-projects-landing-page/spacial-itemid-project-search-results/spacial-itemid-project-detailpage.html?view=projectdetail&id=32045 ,GEF SGP ,VF,1,
+359,121872,Climate Promise 2 (Energy Workstream),500000.0,Ghana,GHA,https://open.undp.org/projects/00104888,BMWK,Non-VF,1,
+360,117898,Promoting Energy-Related Low Carbon Urban Development in Bangladesh (LCUD),3767810.0,Bangladesh,BGD,https://open.undp.org/projects/00117898,GEF,Non-VF,3,
+361,116395,Bangladesh Enabling Electric Vehicles Adoption (BEEVA) in the Framework of Sustainable Energy-based Transportation ,1788991.0,Bangladesh,BGD,,GEF,Non-VF,4,
+362,93848,Adaptation Initiative for Climate Vulnerable Offshore Small Islands and Riverine Charland in Bangladesh,9212322.0,Bangladesh,BGD,https://open.undp.org/projects/00093848,Adaptation Fund,Non-VF,3,
+363,85984,Local Government Initiative on Climate Change (LoGIC),35200000.0,Bangladesh,BGD,https://open.undp.org/projects/00085984,"(EU-17.05m, SIDA-17.97m)",Non-VF,3,
+364,00110796(AC Unit) & 00117012 (PMU),HCFC Phase-Out Management Plan (HPMP Stage-II) For Compliance with the 2020 and 2025 Control Targets Under the Montreal Protocol,5356014.0,Bangladesh,BGD,HPMP II (AC Unit); HPMP II (PMU),MLF,Non-VF,4,
+365,134586,Climate Promise: From Pledge to Impact,475000.0,Bangladesh,BGD,,Government of Germany,Non-VF,1,
+366,93849,Improved Cooking Stoves in CHT area (under A2I project),150000.0,Bangladesh,BGD,https://open.undp.org/projects/00093849,"Government of Bangladesh-50 million, Other donors (Gate Foundation, FB, Vital strategy, etc.): 9 million)",Non-VF,5,
+367,105918,Bangladesh: First Biennial Update Report to the UNFCCC,489000.0,Bangladesh,BGD,https://open.undp.org/projects/00105918,GEF,Non-VF,1,
+368,104187,(Suspended until Nov 2023) Rural Renewable Energy,4934228.0,Myanmar,MMR,https://open.undp.org/projects/00104187,,Non-VF,3,
+369,111777,Governance for Resilience and Sustainability Project ,716641.0,Myanmar,MMR,https://open.undp.org/projects/00111777,,Non-VF,3,
+370,missing-MMR-1,"UNDP-SPM Partnership for rural electrification
+(Concept developed subject to resource mobilization)",1348200.0,Myanmar,MMR,,in search of donor,Non-VF,22,
+371,112026,Promoting the use of solar technologies for agricultural and rural development in Cambodia and Myanmar,2285334.0,Myanmar,MMR,https://open.undp.org/projects/00112026,"Ministry of Agriculture, Food and Rural Affairs (MAFRA), Republic of Korea",Non-VF,4,
+372,100551.0,"Apoyo a las políticas de ciencia, tecnología e innovación de la Provincia de Buenos Aires",2317196.0,Argentina,ARG,http://open.undp.org/projects/00100551,GOB,Non-VF,1,
+373,129530.0,Modernización del Banco de la Nación Argentina,4235601.0,Argentina,ARG,http://open.undp.org/projects/00129530,GOB,Non-VF,1,
+374,96640.0,Modelos de negocios para la producción de biogas,2779849.0,Argentina,ARG,"https://open.undp.org/projects/00096640
+https://erc.undp.org/evaluation/documents/detail/21605",GEF,Non-VF,5,
+375,116913.0,implement & update NDC in energy&indust-process sectors,792240.0,Tunisia,TUN,http://open.undp.org/projects/00120928,"Name oF Donor: GOVERNMENT OF GERMANY  and   GOVERNMENT OF TUNISIA
 
 UNDP|04000|TRAC (Lines 1.1.1 and 1.1.2)|00012|UNITED NATIONS DEVELOPMENT PRO
                                                                                                                                                                                                                                                                                                  DOnor ID: 28310/12711
 3000/00117
-",Non-VF,8
-321,6686.0,Towards Sustainable cities in Tunisia,846906.0,Tunisia,TUN,https://co.pims.undp.org/project/view?id=6686,UNDP|04000|TRAC (Lines 1.1.1 and 1.1.2)|00012|UNITED NATIONS DEVELOPMENT PRO             UNDP|62000|GEF Voluntary Contribution |10003|Global Environment Fund Truste,VF,1
-322,136365.0,EE and Retrofits in Turkestan Secondary School,304251.0,Kazakhstan,KAZ,http://open.undp.org/projects/00136365,,Non-VF,1
-323,130007.0,Attracting investors in the field of energy efficiency,2425796.0,Kazakhstan,KAZ,http://open.undp.org/projects/00130007,,Non-VF,1
-324,112788.0,"Forest Carbon Offset Mechanisms, Bitfury initiative",1214842.0,Kazakhstan,KAZ,http://open.undp.org/projects/00112788,,Non-VF,2
-325,5703.0,UNEP Efficient Appliances Global PFD,3500000.0,Kazakhstan,KAZ,PIMS+,,VF,4
-326,5490.0,De-risking Renewable Energy Investment,4510000.0,Kazakhstan,KAZ,PIMS+,,VF,4
-327,4670.0,Urban NAMA,5930000.0,Kazakhstan,KAZ,PIMS+,,VF,1
-328,125105.0,"Just transition – green biofuel to benefit women in rural areas of 
-Kazakhstan.",300000.0,Kazakhstan,KAZ,https://open.undp.org/projects/00125105,,Non-VF,2
-329,4283.0,GTALCC,4354794.0,Malaysia,MYS,PIMS+,,VF,3
-330,5885.0,Low Carbon project,2912702.0,Guinea-Bissau,GNB,PIMS+,,VF,4
-331,136664.0,Energy efficiency for improved air quality in Pljevlja,608124.0,Montenegro,MNE,http://open.undp.org/projects/00136664,"Slovak Ministry of Finance, Municipality Pljevlja",Non-VF,1
-332,103520.0,Private Sector in Dev.Coopera (RMF Just Transition),120950.0,Montenegro,MNE,Public and Private Finance for Development | UNDP Transparency Portal,"Slovak Ministry of Finance, Municipality Pljevlja",Non-VF,2
-333,6249,Green Sharm El Sheikh,6212694.0,Egypt,EGY,PIMS+,GEF,VF,1
-334,4998,Grid-connected Small-Scale Photovoltaic Syste,3536364.0,Egypt,EGY,PIMS+,GEF,VF,1
-335,130275,Promote small-scale PV-UNDP-EGY,1103288.0,Egypt,EGY,Quantum ,Japan,Non-VF,1
-336,130610,Multilateral Support to COP27,1500000.0,Egypt,EGY,Qunatum,EU,Non-VF,1
-337,132688,Projet d’Electrification  Rurale en Zones Isolées (PERZI),329490000.0,Mauritania,MRT,,"Gouvernment, UNDP, ",Non-VF,1
-338,131201,Paix Verte,157000.0,Mauritania,MRT,,PBF,Non-VF,1
+",Non-VF,8,
+376,123693.0,Supporting the acceleration of the NDC ambition,1080000.0,Tunisia,TUN,http://open.undp.org/projects/00123693," Name of Donor: GOVERNMENT OF GERMANY
+UNDP|28310|CCDRR-CC-Global|12711|UNDP Funding Windows
+                                                                                          Donor ID: 28310/12711",Non-VF,5,
+377,6686.0,Towards Sustainable cities in Tunisia,846906.0,Tunisia,TUN,https://co.pims.undp.org/project/view?id=6686,UNDP|04000|TRAC (Lines 1.1.1 and 1.1.2)|00012|UNITED NATIONS DEVELOPMENT PRO             UNDP|62000|GEF Voluntary Contribution |10003|Global Environment Fund Truste,VF,1,
+378,1000769.0,Leapfrogging Tunisia’s lighting market to high efficiency technologies,1164816.0,Tunisia,TUN,"https://www.thegef.org/projects-operations/projects/9498
+https://open.undp.org/projects/01000769","UNEP, UNDP",Non-VF,12,
+379,136365.0,EE and Retrofits in Turkestan Secondary School,150000.0,Kazakhstan,KAZ,http://open.undp.org/projects/00136365,,Non-VF,1,
+380,130007.0,Attracting investors in the field of energy efficiency,8325000.0,Kazakhstan,KAZ,http://open.undp.org/projects/00130007,,Non-VF,1,
+381,112788.0,"Forest Carbon Offset Mechanisms, Bitfury initiative",798748.0,Kazakhstan,KAZ,http://open.undp.org/projects/00112788,,Non-VF,2,
+382,5703.0,UNEP Efficient Appliances Global PFD,3500000.0,Kazakhstan,KAZ,https://co.pims.undp.org/project/view?id=5703,GEF,VF,4,
+383,5490.0,De-risking Renewable Energy Investment,4510000.0,Kazakhstan,KAZ,https://co.pims.undp.org/project/view?id=5490,GEF,VF,4,
+384,4670.0,"Urban NAMA
+
+
+
+Overall, NAMA investments on energy efficiency have contributed to an improved quality of life, creating a healthier and more sustainable environment for 311,799 beneficiaries (of which 58% are women and children). The Project has provided strong support to the GoK to develop and implement NAMAs in the urban sector to achieve voluntary national GHG emission reduction targets. This has resulted in a strong commitment by the GoK to continue with EE technology demonstrations, especially related to building modernization that includes heating and hot water systems modernization and the insulation of the building envelope.",5930000.0,Kazakhstan,KAZ,https://co.pims.undp.org/project/view?id=4670,GEF,VF,1,
+385,125105.0,"Just transition – green biofuel to benefit women in rural areas of 
+Kazakhstan.",300000.0,Kazakhstan,KAZ,https://open.undp.org/projects/00125105,,Non-VF,2,
+386,4283.0,GTALCC,4354794.0,Malaysia,MYS,https://co.pims.undp.org/project/view?id=4283,GEF,VF,4,
+387,5885.0,Low Carbon project,2912702.0,Guinea-Bissau,GNB,https://co.pims.undp.org/project/view?id=5885,GEF,VF,4,
+388,136664.0,Energy efficiency for improved air quality in Pljevlja,608124.0,Montenegro,MNE,http://open.undp.org/projects/00136664,"Slovak Ministry of Finance, Municipality Pljevlja",Non-VF,1,
+389,103520.0,Private Sector in Dev.Coopera (RMF Just Transition),120950.0,Montenegro,MNE,Public and Private Finance for Development | UNDP Transparency Portal,"Slovak Ministry of Finance, Municipality Pljevlja",Non-VF,2,
+390,1002359.0,Strengthening capacities for increasing energy efficiency in residential sector in Montenegro,540750.0,Montenegro,MNE,https://open.undp.org/projects/01002359,European Commission,Non-VF,4,
+391,85085,Territorios resilientes cadena volcánica,-1.0,Guatemala,GTM,https://www.marn.gob.gt/proyecto-promoviendo-territorios-sostenibles-y-resilientes-en-paisajes-de-la-cadena-volcanica-central-en-guatemala/,,Non-VF,1,
+392,6249,Green Sharm El Sheikh,6212694.0,Egypt,EGY,PIMS+,GEF,VF,1,
+393,4998,Grid-connected Small-Scale Photovoltaic Syste,3536364.0,Egypt,EGY,PIMS+,GEF,VF,1,
+394,130275,Promote small-scale PV-UNDP-EGY,1103288.0,Egypt,EGY,Quantum ,Japan,Non-VF,1,
+395,130610,Multilateral Support to COP27,1500000.0,Egypt,EGY,Qunatum,EU,Non-VF,1,
+396,132255.0,Projet d’Electrification  Rurale en Zones Isolées (PERZI),329490000.0,Mauritania,MRT,,"Gouvernment, UNDP, ",Non-VF,3,
+397,131201.0,Paix Verte,157000.0,Mauritania,MRT,,PBF,Non-VF,1,

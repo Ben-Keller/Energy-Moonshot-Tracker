@@ -7,11 +7,11 @@ Productive Use of Energy,Health Services,1,
 Productive Use of Energy,Water Services,1,
 Productive Use of Energy,Education Services,1,
 Productive Use of Energy,Other Energy Services,1,
-Market Development,Medium Enterprises,100,
-Market Development,Small Enterprises,10,
-Capacity Building,Capacity Training,10,
-Capacity Building,Entrepreneurship Training,100,
-Capacity Building,Campaign Participant,1,
+Market Development,Medium Enterprises,0,100
+Market Development,Small Enterprises,0,10
+Capacity Building,Capacity Training,0,10
+Capacity Building,Entrepreneurship Training,0,100
+Capacity Building,Campaign Participant,0,1
 Policy and Regulator Frameworks,Policy or Regulatory Framework,0,
 Other,Other,0,
 Productive Use of Energy,Transportation and E-mobility Services,1,

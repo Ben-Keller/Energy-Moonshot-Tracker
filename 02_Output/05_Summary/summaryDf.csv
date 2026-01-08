@@ -1,135 +1,1243 @@
-,Category,Subcategory,VF or Non-VF,Direct Beneficiaries,Energy Access,Productive Use,Budget Sum (M USD),Project Count,Country Count
-0,All,All,Total,105126974.33523482,0.0,33945862.510000005,4032494786.882919,339,118
-1,Grouping,SIDS,Total,5614823.34,0.0,1083927.66,232531733.91,50,19
-2,Grouping,LDC,Total,55125498.644999996,0.0,32463405.91,1439459685.29,113,40
-3,Grouping,LLDC,Total,32346423.75,0.0,17731696.0,495892412.5,85,29
-4,Economy,Low income,Total,53761309.230000004,0.0,30210899.0,2290660489.29,60,24
-5,Economy,High income,Total,49965.0,0.0,0.0,29306639.0,8,5
-6,Economy,Upper middle income,Total,18753268.8,0.0,1298274.6,707039725.48,132,42
-7,Economy,Lower middle income,Total,28065273.305234812,0.0,2436688.91,954714697.1129189,135,46
-8,HDI,Low,Total,55131020.39,0.0,30715951.0,1038314370.5629188,89,30
-9,HDI,Very High,Total,2687934.0,0.0,2368.0,135354691.0,41,15
-10,HDI,Medium,Total,25208706.805234812,0.0,3106519.9099999997,2140789645.75,85,32
-11,HDI,High,Total,17120221.3,0.0,120995.6,662442096.5699999,117,38
-12,Region,RBA,Total,61590913.61,0.0,31678828.0,1438971648.6529188,112,41
-13,Region,RBLAC,Total,728143.3999999999,0.0,45441.6,1505461874.91,40,20
-14,Region,RBAP,Total,16284285.435234811,0.0,1872463.91,422720248.0,83,23
-15,Region,RBAS,Total,11866998.889999999,0.0,339625.0,196240506.0,38,15
-16,Region,RBEC,Total,10159475.0,0.0,9504.0,427359321.32,63,18
-17,Beneficiary Tier,Access to Energy,Total,1853834.14,0.0,0.0,223903727.0,35,29
-18,Beneficiary Tier,Productive Use of Energy,Total,39823924.850234814,0.0,33945862.510000005,1221132873.262919,107,59
-19,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,0.0,0,0
-20,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,0.0,0,0
-21,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,0.0,0,0
-22,Beneficiary Tier,Other,Total,14135899.0,0.0,0.0,2303885819.66,176,86
-23,Beneficiary Category,Clean Electricity,Total,35272100.004999995,0.0,0.0,1446882108.59,94,62
-24,Beneficiary Category,Other,Total,14135899.0,0.0,0.0,2303885819.66,176,86
-25,Beneficiary Category,Overall,Total,0.0,0.0,0.0,19005534.0,10,9
-26,Beneficiary Category,Solar,Total,4607078.14,0.0,0.0,212971458.39,33,25
-27,Beneficiary Category,Agriculture and Food System,Total,542820.7,0.0,0.0,142338233.71,29,20
-28,Beneficiary Category,Health Services,Total,21360637.0,0.0,21360637.0,796288354.3141885,23,20
-29,Beneficiary Category,Education Services,Total,226291.0,0.0,226291.0,773089570.648534,24,18
-30,Beneficiary Category,Renewable Energy,Total,0.0,0.0,0.0,272715250.75,56,38
-31,Beneficiary Category,Efficiency,Total,0.0,0.0,0.0,236038639.0,24,20
-32,Beneficiary Category,Wind,Total,105730.0,0.0,0.0,3554250.0,1,1
-33,Beneficiary Category,Transportation and E-mobility Services,Total,2744217.640234811,0.0,0.0,82586038.91,23,20
-34,Beneficiary Category,Clean Cooking,Total,1853834.14,0.0,0.0,198766822.0,30,26
-35,Beneficiary Category,Water Services,Total,12358934.510000002,0.0,12358934.510000002,830260936.8534031,25,18
-36,Beneficiary Category,Waste,Total,35000.0,0.0,0.0,4416210.0,1,1
-37,Beneficiary Category,Energy Efficiency,Total,0.0,0.0,0.0,75640538.66,13,12
-38,Beneficiary Category,Electricity Access,Total,0.0,0.0,0.0,48047151.0,8,8
-39,Beneficiary Category,Geothermal,Total,767782.0,0.0,0.0,5905662.0,1,1
-40,Beneficiary Category,Bioenergy,Total,170675.0,0.0,0.0,10396849.0,4,4
-41,Beneficiary Category,Energy Infrastructure Services,Total,2591024.0,0.0,0.0,75517713.6147513,18,11
-42,Beneficiary Category,Some Sources,Total,1936156.2,0.0,0.0,60621541.0,6,6
-43,Beneficiary Category,Transition Missing,Total,4133940.0000000005,0.0,0.0,166574915.0,8,7
-44,Beneficiary Category,Unknown,Total,97355.0,0.0,0.0,38697214.1,8,4
-45,Beneficiary Category,Hydro,Total,2187500.0,0.0,0.0,36250760.0,1,1
-46,All,All,VF,22209288.020234812,0.0,365261.0,469581994.75,90,56
-47,Grouping,SIDS,VF,2575290.88,0.0,140524.0,97178761.0,19,10
-48,Grouping,LDC,VF,2241671.0,0.0,67529.0,96198542.0,29,17
-49,Grouping,LLDC,VF,8332480.0,0.0,32000.0,144627971.75,19,15
-50,Economy,Low income,VF,5225505.0,0.0,32000.0,120077224.0,16,12
-51,Economy,Upper middle income,VF,4637391.88,0.0,280557.0,196975906.0,35,21
-52,Economy,Lower middle income,VF,12286966.140234811,0.0,52704.0,148985028.75,37,21
-53,Economy,High income,VF,28175.0,0.0,0.0,1593836.0,1,1
-54,HDI,Medium,VF,7343611.640234811,0.0,228266.0,106820259.75,21,15
-55,HDI,Low,VF,5711963.0,0.0,32000.0,139185993.0,22,13
-56,HDI,High,VF,8109120.380000001,0.0,104995.0,175124831.0,35,21
-57,HDI,Very High,VF,946673.0,0.0,0.0,43224764.0,10,5
-58,Region,RBA,VF,6521972.5,0.0,243091.0,217497952.0,33,21
-59,Region,RBAP,VF,7765367.520234811,0.0,104995.0,110728488.0,20,10
-60,Region,RBAS,VF,3096997.0,0.0,17175.0,44713058.0,13,9
-61,Region,RBLAC,VF,348270.0,0.0,0.0,31842026.0,9,8
-62,Region,RBEC,VF,4445431.0,0.0,0.0,62850470.75,14,7
-63,Beneficiary Tier,Access to Energy,VF,579605.0,0.0,0.0,124499628.0,11,9
-64,Beneficiary Tier,Productive Use of Energy,VF,5083612.640234811,0.0,365261.0,127086517.0,18,16
-65,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,0.0,0,0
-66,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
-67,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,0.0,0,0
-68,Beneficiary Tier,Other,VF,4325084.0,0.0,0.0,288340152.75,52,37
-69,Beneficiary Category,Agriculture and Food System,VF,10936.0,0.0,0.0,6743399.0,2,2
-70,Beneficiary Category,Other,VF,4325084.0,0.0,0.0,288340152.75,52,37
-71,Beneficiary Category,Clean Electricity,VF,5823711.18,0.0,0.0,95318070.75,33,28
-72,Beneficiary Category,Efficiency,VF,0.0,0.0,0.0,113732800.0,10,10
-73,Beneficiary Category,Wind,VF,105730.0,0.0,0.0,3554250.0,1,1
-74,Beneficiary Category,Renewable Energy,VF,0.0,0.0,0.0,129234370.75,13,11
-75,Beneficiary Category,Transportation and E-mobility Services,VF,2570625.640234811,0.0,0.0,23037775.0,8,8
-76,Beneficiary Category,Waste,VF,35000.0,0.0,0.0,4416210.0,1,1
-77,Beneficiary Category,Energy Efficiency,VF,0.0,0.0,0.0,11780781.75,5,5
-78,Beneficiary Category,Solar,VF,460464.5,0.0,0.0,28623510.0,8,6
-79,Beneficiary Category,Electricity Access,VF,0.0,0.0,0.0,24238458.0,4,4
-80,Beneficiary Category,Geothermal,VF,767782.0,0.0,0.0,5905662.0,1,1
-81,Beneficiary Category,Water Services,VF,157699.0,0.0,157699.0,46621231.0,3,3
-82,Beneficiary Category,Overall,VF,0.0,0.0,0.0,2170030.0,1,1
-83,Beneficiary Category,Bioenergy,VF,150675.0,0.0,0.0,8098738.0,3,3
-84,Beneficiary Category,Transition Missing,VF,3784000.0000000005,0.0,0.0,73137680.0,1,1
-85,Beneficiary Category,Clean Cooking,VF,579605.0,0.0,0.0,105640622.0,8,7
-86,Beneficiary Category,Energy Infrastructure Services,VF,2136790.0,0.0,0.0,24759546.0,3,3
-87,Beneficiary Category,Some Sources,VF,1077623.7,0.0,0.0,13522145.0,3,3
-88,Beneficiary Category,Health Services,VF,180062.0,0.0,180062.0,25924566.0,2,2
-89,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
-90,Beneficiary Category,Unknown,VF,16000.0,0.0,0.0,491740.75,1,1
-91,All,All,Non-VF,78369945.065,0.0,33580601.51,3433795884.132919,237,92
-92,Grouping,SIDS,Non-VF,3039251.21,0.0,943403.6599999999,135302972.91,30,14
-93,Grouping,LDC,Non-VF,52883827.644999996,0.0,32395876.91,1343261143.29,84,34
-94,Grouping,LLDC,Non-VF,23983943.75,0.0,17699696.0,343138061.75,64,25
-95,Economy,Low income,Non-VF,48535804.230000004,0.0,30178899.0,2170583265.29,44,23
-96,Economy,High income,Non-VF,21790.0,0.0,0.0,27712803.0,7,4
-97,Economy,Upper middle income,Non-VF,14068135.67,0.0,1017717.6000000001,497854359.48,90,31
-98,Economy,Lower middle income,Non-VF,11278307.165000001,0.0,2383984.91,688822220.3629189,93,33
-99,HDI,Low,Non-VF,49419057.39,0.0,30683951.0,899128377.5629189,67,27
-100,HDI,Very High,Non-VF,1741261.0,0.0,2368.0,91289927.0,30,12
-101,HDI,Medium,Non-VF,17847353.915,0.0,2878253.9099999997,2030726305.0,60,21
-102,HDI,High,Non-VF,4481100.92,0.0,16000.6,362283438.57,75,29
-103,Region,RBA,Non-VF,55051481.11,0.0,31435737.0,1218280615.6529188,76,32
-104,Region,RBLAC,Non-VF,379592.14999999997,0.0,45441.6,1473569848.91,30,14
-105,Region,RBAP,Non-VF,8518917.915000001,0.0,1767468.9100000001,311991760.0,63,19
-106,Region,RBAS,Non-VF,8770001.89,0.0,322450.0,151517448.0,24,13
-107,Region,RBEC,Non-VF,1184044.0,0.0,9504.0,238645023.57,42,13
-108,Beneficiary Tier,Access to Energy,Non-VF,1274229.14,0.0,0.0,99404099.0,24,20
-109,Beneficiary Tier,Productive Use of Energy,Non-VF,34740312.21,0.0,33580601.51,1094046356.262919,89,46
-110,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,0.0,0,0
-111,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,0.0,0,0
-112,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,0.0,0,0
-113,Beneficiary Tier,Other,Non-VF,9780315.0,0.0,0.0,1888281800.91,115,61
-114,Beneficiary Category,Clean Electricity,Non-VF,24931147.575,0.0,0.0,1245883998.8400002,57,40
-115,Beneficiary Category,Other,Non-VF,9780315.0,0.0,0.0,1888281800.91,115,61
-116,Beneficiary Category,Overall,Non-VF,0.0,0.0,0.0,15832462.0,8,7
-117,Beneficiary Category,Solar,Non-VF,4146613.6399999997,0.0,0.0,184347948.39,25,20
-118,Beneficiary Category,Health Services,Non-VF,21180575.0,0.0,21180575.0,770363788.3141885,21,18
-119,Beneficiary Category,Education Services,Non-VF,198791.0,0.0,198791.0,772165004.648534,23,17
-120,Beneficiary Category,Renewable Energy,Non-VF,0.0,0.0,0.0,142630880.0,41,30
-121,Beneficiary Category,Transportation and E-mobility Services,Non-VF,173592.0,0.0,0.0,59548263.91,15,13
-122,Beneficiary Category,Clean Cooking,Non-VF,1274229.1400000001,0.0,0.0,93126200.0,22,19
-123,Beneficiary Category,Water Services,Non-VF,12201235.510000002,0.0,12201235.510000002,783639705.8534031,22,15
-124,Beneficiary Category,Agriculture and Food System,Non-VF,531884.7,0.0,0.0,135594834.71,27,18
-125,Beneficiary Category,Energy Efficiency,Non-VF,0.0,0.0,0.0,63859756.91,8,7
-126,Beneficiary Category,Efficiency,Non-VF,0.0,0.0,0.0,121465839.0,13,10
-127,Beneficiary Category,Electricity Access,Non-VF,0.0,0.0,0.0,23808693.0,4,4
-128,Beneficiary Category,Bioenergy,Non-VF,20000.0,0.0,0.0,2298111.0,1,1
-129,Beneficiary Category,Energy Infrastructure Services,Non-VF,454234.0,0.0,0.0,50758167.61475131,15,8
-130,Beneficiary Category,Some Sources,Non-VF,858532.5,0.0,0.0,47099396.0,3,3
-131,Beneficiary Category,Transition Missing,Non-VF,349940.0,0.0,0.0,93437235.0,7,6
-132,Beneficiary Category,Unknown,Non-VF,81355.0,0.0,0.0,38205473.35,7,3
-133,Beneficiary Category,Hydro,Non-VF,2187500.0,0.0,0.0,36250760.0,1,1
+,Region,Category,Subcategory,VF or Non-VF,Direct Beneficiaries,Energy Access,Productive Use,Budget Sum (M USD),Project Count,Country Count
+0,All,All,All,Total,82473622.9012348,55131699.815,27341923.086234815,4228226005.4849195,398,132
+1,All,Economy,Low income,Total,35798980.09,22534256.090000004,13264724.0,2276764138.69,74,26
+2,All,Economy,High income,Total,1075960.0,75830.0,1000130.0,33431822.0,11,7
+3,All,Economy,Upper middle income,Total,14472200.23,10255051.57,4217148.66,807439486.01,144,44
+4,All,Economy,Lower middle income,Total,26615829.581234813,17756069.155,8859760.426234812,1053143446.7849188,162,52
+5,All,HDI,Low,Total,37340578.75,23454872.15,13885706.6,1055385019.9629188,105,32
+6,All,HDI,Very High,Total,2395126.06,906440.0,1488686.06,159677261.0,48,17
+7,All,HDI,Medium,Total,17700324.48123481,11960116.255,5740208.226234811,2196297585.51,103,41
+8,All,HDI,High,Total,20064593.02,13838158.82,6226434.199999999,745184452.0120001,130,37
+9,All,Beneficiary Tier,Access to Energy,Total,55131699.815,55131699.815,0.0,3384205523.902,193,101
+10,All,Beneficiary Tier,Productive Use of Energy,Total,27341923.086234815,0.0,27341923.086234815,1391396342.2549188,156,84
+11,All,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,300886569.75,48,35
+12,All,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,222127213.75,38,29
+13,All,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,475803825.29,108,69
+14,All,Beneficiary Tier,Other,Total,0.0,0.0,0.0,170453391.0,20,14
+15,All,Beneficiary Category,Electricity Access,Total,42893856.4,42893856.4,0.0,1638842801.1,123,76
+16,All,Beneficiary Category,nan,Total,0.0,0.0,0.0,626968836.36,67,46
+17,All,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,146758929.75,25,18
+18,All,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,475803825.29,108,69
+19,All,Beneficiary Category,Energy (MW added),Total,9510153.275,9510153.275,0.0,1979558900.552,97,66
+20,All,Beneficiary Category,Agriculture and Food System,Total,544526.8859999999,0.0,544526.8859999999,144373233.71,32,22
+21,All,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,256402126.91,46,34
+22,All,Beneficiary Category,Health Services,Total,11384211.0,0.0,11384211.0,832618645.3141885,30,25
+23,All,Beneficiary Category,Education Services,Total,231560.6,0.0,231560.6,804083358.6485339,28,22
+24,All,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,285619054.0,36,24
+25,All,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,796425896.19,91,56
+26,All,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,177406050.0,28,25
+27,All,Beneficiary Category,Transportation and E-mobility Services,Total,4387666.640234811,0.0,4387666.640234811,89851415.28999999,29,25
+28,All,Beneficiary Category,Other,Total,0.0,0.0,0.0,170453391.0,20,14
+29,All,Beneficiary Category,Other Energy Services,Total,1529279.0,0.0,1529279.0,116991343.8,33,24
+30,All,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,99933843.0,17,15
+31,All,Beneficiary Category,Clean Cooking,Total,2727690.1399999997,2727690.1399999997,0.0,127430596.0,31,27
+32,All,Beneficiary Category,Water Services,Total,5363163.959999999,0.0,5363163.959999999,835275491.8534031,30,23
+33,All,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,136948212.28,9,9
+34,All,Beneficiary Category,Energy Infrastructure Services,Total,3901515.0,0.0,3901515.0,99654904.4267513,22,14
+35,All,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,124245622.75,23,17
+36,All,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,9479697.0,6,6
+37,All,Beneficiary Category,Health services,Total,0.0,0.0,0.0,64600000.0,1,1
+38,All,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,1633915.35,2,2
+39,All,Beneficiary Category,Electricity Access / Energy (MW added),Total,0.0,0.0,0.0,4622265.0,1,1
+40,All,Beneficiary Category,Energy infrastructure services,Total,0.0,0.0,0.0,116275.0,1,1
+41,All,Beneficiary Category,Energy Storage (MW),Total,0.0,0.0,0.0,28210000.0,1,1
+42,All,Beneficiary Category,Energy access,Total,0.0,0.0,0.0,200000.0,1,1
+43,All,Beneficiary Category,water services,Total,0.0,0.0,0.0,200000.0,1,1
+44,All,Beneficiary Category,Capacity Training,Total,0.0,0.0,0.0,36250760.0,1,1
+45,All,Beneficiary Category,Energy Access - disaster affected communities -,Total,0.0,0.0,0.0,-1.0,1,1
+46,All,Beneficiary Category,Energy Access,Total,0.0,0.0,0.0,-1.0,1,1
+47,All,Beneficiary Category,Energy Transition,Total,0.0,0.0,0.0,30892000.0,1,1
+48,All,Beneficiary Category,"Households and Women, Policy and Regulatory Framework",Total,0.0,0.0,0.0,241888.0,1,1
+49,All,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Total,0.0,0.0,0.0,500000.0,1,1
+50,All,All,All,VF,16791491.99023481,10613162.35,6178329.640234811,509736691.75,105,70
+51,All,Economy,Low income,VF,4336599.5,4299150.5,37449.0,111374374.0,19,13
+52,All,Economy,Upper middle income,VF,4142945.75,1448543.75,2694402.0,218755466.0,38,26
+53,All,Economy,Lower middle income,VF,8238696.740234811,4792508.1,3446188.640234811,164065643.75,41,25
+54,All,Economy,High income,VF,28505.0,28375.0,130.0,8493161.0,4,3
+55,All,HDI,Medium,VF,4104187.9902348113,2789390.35,1314797.6402348115,126895130.75,29,21
+56,All,HDI,Low,VF,4836896.5,4804383.5,32513.0,151881986.0,26,15
+57,All,HDI,High,VF,7187026.5,2814696.5,4372330.0,169671292.0,32,22
+58,All,HDI,Very High,VF,551966.0,93437.0,458529.0,50964089.0,14,8
+59,All,Beneficiary Tier,Access to Energy,VF,10613162.35,10613162.35,0.0,279138403.75,65,52
+60,All,Beneficiary Tier,Productive Use of Energy,VF,6178329.640234811,0.0,6178329.640234811,152028035.75,30,28
+61,All,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,113731261.75,13,11
+62,All,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,10051785.75,4,4
+63,All,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,185718582.75,28,27
+64,All,Beneficiary Tier,Other,VF,0.0,0.0,0.0,27569617.0,10,7
+65,All,Beneficiary Category,Agriculture and Food System,VF,10936.0,0.0,10936.0,6743399.0,2,2
+66,All,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,170891586.0,29,25
+67,All,Beneficiary Category,Energy (MW added),VF,3159380.0,3159380.0,0.0,119133277.75,32,29
+68,All,Beneficiary Category,Electricity Access,VF,7099572.35,7099572.35,0.0,179575786.75,41,34
+69,All,Beneficiary Category,nan,VF,0.0,0.0,0.0,86974225.0,22,19
+70,All,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,136744497.0,15,14
+71,All,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,185718582.75,28,27
+72,All,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,157325183.75,25,21
+73,All,Beneficiary Category,Other Energy Services,VF,780996.0,0.0,780996.0,26245151.75,11,11
+74,All,Beneficiary Category,Transportation and E-mobility Services,VF,2643918.640234811,0.0,2643918.640234811,27758708.0,10,10
+75,All,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,92383802.75,7,7
+76,All,Beneficiary Category,Water Services,VF,157699.0,0.0,157699.0,46621231.0,3,3
+77,All,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,3537432.0,3,3
+78,All,Beneficiary Category,Other,VF,0.0,0.0,0.0,27569617.0,10,7
+79,All,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,98156149.0,8,8
+80,All,Beneficiary Category,Entrepreneurship Training,VF,0.0,0.0,0.0,-1.0,1,1
+81,All,Beneficiary Category,Energy Infrastructure Services,VF,2377195.0,0.0,2377195.0,26576046.0,4,4
+82,All,Beneficiary Category,Health Services,VF,180085.0,0.0,180085.0,26824566.0,3,3
+83,All,Beneficiary Category,Clean Cooking,VF,354210.0,354210.0,0.0,41967671.0,10,9
+84,All,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+85,All,Beneficiary Category,Campaign Participant,VF,0.0,0.0,0.0,10051786.75,3,3
+86,All,Beneficiary Category,Medium Enterprises,VF,0.0,0.0,0.0,15575112.75,5,5
+87,All,All,All,Non-VF,65047335.911,43983742.465,21063593.446,3661812205.8549185,281,107
+88,All,Economy,Low income,Non-VF,31462380.59,18235105.59,13227275.0,2164909250.3399997,50,25
+89,All,Economy,High income,Non-VF,1047455.0,47455.0,1000000.0,24938661.0,7,6
+90,All,Economy,Upper middle income,Non-VF,10329254.479999999,8806507.82,1522746.6600000001,557627610.48,104,34
+91,All,Economy,Lower middle income,Non-VF,17742337.841,12428766.055,5313571.786,863937619.0349188,116,41
+92,All,HDI,Low,Non-VF,32503682.25,18650488.65,13853193.6,872130519.6129187,73,30
+93,All,HDI,Very High,Non-VF,1843160.06,813003.0,1030157.06,108713172.0,34,14
+94,All,HDI,Medium,Non-VF,13066136.491,8640725.905,4425410.586,2046782454.7600002,72,30
+95,All,HDI,High,Non-VF,12772771.52,11018667.32,1754104.2000000002,572828566.482,94,30
+96,All,Beneficiary Tier,Access to Energy,Non-VF,43983742.465,43983742.465,0.0,3079974024.152,123,73
+97,All,Beneficiary Tier,Productive Use of Energy,Non-VF,21063593.446,0.0,21063593.446,1233813897.9749188,122,63
+98,All,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,187155308.0,35,27
+99,All,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,212075428.0,34,26
+100,All,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,289920833.01,79,49
+101,All,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,142883774.0,10,9
+102,All,Beneficiary Category,Electricity Access,Non-VF,35789284.05,35789284.05,0.0,1455452214.35,80,54
+103,All,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,538224612.36,41,27
+104,All,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,131183817.0,20,15
+105,All,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,289920833.01,79,49
+106,All,Beneficiary Category,Energy (MW added),Non-VF,5820978.275,5820978.275,0.0,1839147326.802,62,42
+107,All,Beneficiary Category,Health Services,Non-VF,11204126.0,0.0,11204126.0,805794080.3141885,26,22
+108,All,Beneficiary Category,Education Services,Non-VF,204060.6,0.0,204060.6,799538792.648534,26,20
+109,All,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,638936302.91,65,41
+110,All,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,79249901.0,20,19
+111,All,Beneficiary Category,Transportation and E-mobility Services,Non-VF,1743748.0,0.0,1743748.0,61928297.76,18,17
+112,All,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,142883774.0,10,9
+113,All,Beneficiary Category,Other Energy Services,Non-VF,748283.0,0.0,748283.0,90746192.05,22,16
+114,All,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,99933844.0,16,15
+115,All,Beneficiary Category,Clean Cooking,Non-VF,2373480.14,2373480.14,0.0,85462925.0,21,18
+116,All,Beneficiary Category,Water Services,Non-VF,5105464.959999999,0.0,5105464.959999999,786884260.8534031,26,19
+117,All,Beneficiary Category,Agriculture and Food System,Non-VF,533590.8859999999,0.0,533590.8859999999,137629834.71,30,20
+118,All,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,85002244.91,16,12
+119,All,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,148874557.0,21,13
+120,All,Beneficiary Category,Energy Infrastructure Services,Non-VF,1524320.0,0.0,1524320.0,73078858.4267513,18,11
+121,All,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,114193836.0,20,14
+122,All,Beneficiary Category,Health services,Non-VF,0.0,0.0,0.0,64600000.0,1,1
+123,All,Beneficiary Category,Electricity Access / Energy (MW added),Non-VF,0.0,0.0,0.0,4622265.0,1,1
+124,All,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,5942265.0,3,3
+125,All,Beneficiary Category,Energy infrastructure services,Non-VF,0.0,0.0,0.0,116275.0,1,1
+126,All,Beneficiary Category,Energy Storage (MW),Non-VF,0.0,0.0,0.0,28210000.0,1,1
+127,All,Beneficiary Category,Market Intervention,Non-VF,0.0,0.0,0.0,44400000.0,1,1
+128,All,Beneficiary Category,Energy access,Non-VF,0.0,0.0,0.0,200000.0,1,1
+129,All,Beneficiary Category,water services,Non-VF,0.0,0.0,0.0,200000.0,1,1
+130,All,Beneficiary Category,Capacity Training,Non-VF,0.0,0.0,0.0,36250760.0,1,1
+131,All,Beneficiary Category,Energy Access - disaster affected communities -,Non-VF,0.0,0.0,0.0,-1.0,1,1
+132,All,Beneficiary Category,Energy Access,Non-VF,0.0,0.0,0.0,-1.0,1,1
+133,All,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Non-VF,0.0,0.0,0.0,500000.0,1,1
+134,All,Beneficiary Category,Other energy services,Non-VF,0.0,0.0,0.0,1348200.0,1,1
+135,RBLAC,All,All,Total,1718949.4000000001,326228.8,1392720.6,1509010090.44,48,24
+136,RBLAC,Economy,High income,Total,1052895.0,52765.0,1000130.0,16637882.0,8,4
+137,RBLAC,Economy,Upper middle income,Total,530654.4,229463.8,301190.6,80345739.44,33,15
+138,RBLAC,Economy,Low income,Total,0.0,0.0,0.0,1400000000.0,1,1
+139,RBLAC,Economy,Lower middle income,Total,135400.0,44000.0,91400.0,12026469.0,6,4
+140,RBLAC,HDI,Very High,Total,1028745.0,28615.0,1000130.0,34694662.0,11,5
+141,RBLAC,HDI,High,Total,551823.15,252132.55,299690.6,56874633.53,26,12
+142,RBLAC,HDI,Medium,Total,54381.25,1481.25,52900.0,1408650873.91,9,6
+143,RBLAC,HDI,Low,Total,84000.0,44000.0,40000.0,8789921.0,2,1
+144,RBLAC,Beneficiary Tier,Access to Energy,Total,326228.8,326228.8,0.0,1457065044.0,21,16
+145,RBLAC,Beneficiary Tier,Productive Use of Energy,Total,1392720.6,0.0,1392720.6,52114778.44,22,14
+146,RBLAC,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,20969834.0,2,2
+147,RBLAC,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,23585274.0,2,2
+148,RBLAC,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,38377363.44,17,12
+149,RBLAC,Beneficiary Tier,Other,Total,0.0,0.0,0.0,500000.0,1,1
+150,RBLAC,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,38377363.44,17,12
+151,RBLAC,Beneficiary Category,Energy (MW added),Total,128135.0,128135.0,0.0,1432704053.0,9,9
+152,RBLAC,Beneficiary Category,Clean Cooking,Total,89515.0,89515.0,0.0,4471092.0,3,3
+153,RBLAC,Beneficiary Category,Water Services,Total,45441.6,0.0,45441.6,25162430.0,4,3
+154,RBLAC,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,45798984.44,14,10
+155,RBLAC,Beneficiary Category,Transportation and E-mobility Services,Total,1195479.0,0.0,1195479.0,13945937.44,9,7
+156,RBLAC,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,20750901.91,8,6
+157,RBLAC,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,1949271.53,2,2
+158,RBLAC,Beneficiary Category,Electricity Access,Total,108578.8,108578.8,0.0,45208742.0,12,8
+159,RBLAC,Beneficiary Category,nan,Total,0.0,0.0,0.0,9331609.0,4,4
+160,RBLAC,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,10112903.0,5,4
+161,RBLAC,Beneficiary Category,Energy Infrastructure Services,Total,56.0,0.0,56.0,9217.0,1,1
+162,RBLAC,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,20919834.0,1,1
+163,RBLAC,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,20919834.0,1,1
+164,RBLAC,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,1720933.0,1,1
+165,RBLAC,Beneficiary Category,Agriculture and Food System,Total,101714.0,0.0,101714.0,1294000.0,5,3
+166,RBLAC,Beneficiary Category,Other Energy Services,Total,50030.0,0.0,50030.0,11803194.0,5,3
+167,RBLAC,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,50000.0,1,1
+168,RBLAC,Beneficiary Category,Other,Total,0.0,0.0,0.0,500000.0,1,1
+169,RBLAC,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,2665440.0,1,1
+170,RBLAC,All,All,VF,348881.25,126931.25,221950.0,38791351.0,13,11
+171,RBLAC,Economy,Upper middle income,VF,270376.25,98556.25,171820.0,27877642.0,8,7
+172,RBLAC,Economy,High income,VF,28505.0,28375.0,130.0,8493161.0,4,3
+173,RBLAC,Economy,Lower middle income,VF,50000.0,0.0,50000.0,2420548.0,1,1
+174,RBLAC,HDI,High,VF,298270.0,126450.0,171820.0,19103508.0,7,6
+175,RBLAC,HDI,Medium,VF,50281.25,281.25,50000.0,2470548.0,2,2
+176,RBLAC,HDI,Very High,VF,330.0,200.0,130.0,17217295.0,4,3
+177,RBLAC,Beneficiary Tier,Access to Energy,VF,126931.25,126931.25,0.0,7942394.0,6,6
+178,RBLAC,Beneficiary Tier,Productive Use of Energy,VF,221950.0,0.0,221950.0,9670337.0,5,5
+179,RBLAC,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,0.0,0,0
+180,RBLAC,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+181,RBLAC,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,21205679.0,5,5
+182,RBLAC,Beneficiary Tier,Other,VF,0.0,0.0,0.0,0.0,0,0
+183,RBLAC,Beneficiary Category,Transportation and E-mobility Services,VF,171950.0,0.0,171950.0,7249789.0,4,4
+184,RBLAC,Beneficiary Category,Energy (MW added),VF,28350.0,28350.0,0.0,3378698.0,2,2
+185,RBLAC,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,12036885.0,5,5
+186,RBLAC,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,1784862.0,1,1
+187,RBLAC,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,10951638.0,4,4
+188,RBLAC,Beneficiary Category,Electricity Access,VF,10481.25,10481.25,0.0,1826172.0,3,3
+189,RBLAC,Beneficiary Category,nan,VF,0.0,0.0,0.0,9327982.0,3,3
+190,RBLAC,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,9293873.0,3,3
+191,RBLAC,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,1720933.0,1,1
+192,RBLAC,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,21205679.0,5,5
+193,RBLAC,Beneficiary Category,Other Energy Services,VF,50000.0,0.0,50000.0,2420548.0,1,1
+194,RBLAC,Beneficiary Category,Clean Cooking,VF,88100.0,88100.0,0.0,2737524.0,1,1
+195,RBLAC,All,All,Non-VF,1370068.1500000001,199297.55,1170770.6,1470054329.91,34,18
+196,RBLAC,Economy,High income,Non-VF,1024390.0,24390.0,1000000.0,8144721.0,4,3
+197,RBLAC,Economy,Upper middle income,Non-VF,260278.15,130907.55,129370.6,52303687.91,24,11
+198,RBLAC,Economy,Low income,Non-VF,0.0,0.0,0.0,1400000000.0,1,1
+199,RBLAC,Economy,Lower middle income,Non-VF,85400.0,44000.0,41400.0,9605921.0,5,3
+200,RBLAC,HDI,Very High,Non-VF,1028415.0,28415.0,1000000.0,17477367.0,7,4
+201,RBLAC,HDI,High,Non-VF,253553.15,125682.55,127870.6,37606716.0,18,8
+202,RBLAC,HDI,Medium,Non-VF,4100.0,1200.0,2900.0,1406180325.91,7,5
+203,RBLAC,HDI,Low,Non-VF,84000.0,44000.0,40000.0,8789921.0,2,1
+204,RBLAC,Beneficiary Tier,Access to Energy,Non-VF,199297.55,199297.55,0.0,1449122650.0,15,13
+205,RBLAC,Beneficiary Tier,Productive Use of Energy,Non-VF,1170770.6,0.0,1170770.6,42280031.91,16,10
+206,RBLAC,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,20969834.0,2,2
+207,RBLAC,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,23585274.0,2,2
+208,RBLAC,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,17007274.91,11,9
+209,RBLAC,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,500000.0,1,1
+210,RBLAC,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,17007274.91,11,9
+211,RBLAC,Beneficiary Category,Energy (MW added),Non-VF,99785.0,99785.0,0.0,1429325355.0,7,7
+212,RBLAC,Beneficiary Category,Clean Cooking,Non-VF,1415.0,1415.0,0.0,1733568.0,2,2
+213,RBLAC,Beneficiary Category,Water Services,Non-VF,45441.6,0.0,45441.6,25162430.0,4,3
+214,RBLAC,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,34682936.91,9,7
+215,RBLAC,Beneficiary Category,Transportation and E-mobility Services,Non-VF,1023529.0,0.0,1023529.0,6531738.91,4,4
+216,RBLAC,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,8714016.91,3,3
+217,RBLAC,Beneficiary Category,Electricity Access,Non-VF,98097.55,98097.55,0.0,43382570.0,9,7
+218,RBLAC,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,819030.0,2,2
+219,RBLAC,Beneficiary Category,Energy Infrastructure Services,Non-VF,56.0,0.0,56.0,9217.0,1,1
+220,RBLAC,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,3627.0,1,1
+221,RBLAC,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,20919834.0,1,1
+222,RBLAC,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,20919834.0,1,1
+223,RBLAC,Beneficiary Category,Agriculture and Food System,Non-VF,101714.0,0.0,101714.0,1294000.0,5,3
+224,RBLAC,Beneficiary Category,Other Energy Services,Non-VF,30.0,0.0,30.0,9382646.0,4,2
+225,RBLAC,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,50000.0,1,1
+226,RBLAC,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,500000.0,1,1
+227,RBLAC,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,2665440.0,1,1
+228,RBA,All,All,Total,37084810.47,22405668.47,14679142.0,1428571109.812919,130,43
+229,RBA,Economy,Low income,Total,32597791.25,19610554.25,12987237.0,814171657.6899999,65,22
+230,RBA,Economy,Upper middle income,Total,1134949.52,938387.52,196562.0,84034611.0,14,5
+231,RBA,Economy,Lower middle income,Total,3352069.7,1856726.7,1495343.0,530364841.12291884,51,16
+232,RBA,HDI,Low,Total,32140764.95,19812684.950000003,12328080.0,846840941.962919,82,26
+233,RBA,HDI,Medium,Total,4059118.0,1729056.0,2330062.0,533559813.85,41,15
+234,RBA,HDI,High,Total,106005.52,106005.52,0.0,9827583.0,4,1
+235,RBA,HDI,Very High,Total,778922.0,757922.0,21000.0,38342771.0,3,1
+236,RBA,Beneficiary Tier,Access to Energy,Total,22405668.47,22405668.47,0.0,1280098315.3400002,82,39
+237,RBA,Beneficiary Tier,Productive Use of Energy,Total,14679142.0,0.0,14679142.0,764896833.6829189,47,27
+238,RBA,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,94474278.0,12,11
+239,RBA,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,29384120.0,9,7
+240,RBA,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,212850194.0,29,19
+241,RBA,Beneficiary Tier,Other,Total,0.0,0.0,0.0,4008600.0,4,2
+242,RBA,Beneficiary Category,Electricity Access,Total,18361499.02,18361499.02,0.0,1166764517.35,59,35
+243,RBA,Beneficiary Category,nan,Total,0.0,0.0,0.0,398434009.0,21,17
+244,RBA,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,8249716.0,3,3
+245,RBA,Beneficiary Category,Agriculture and Food System,Total,21536.0,0.0,21536.0,30848928.71,8,7
+246,RBA,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,145684703.0,11,9
+247,RBA,Beneficiary Category,Energy (MW added),Total,1755087.25,1755087.25,0.0,131514306.99000001,31,23
+248,RBA,Beneficiary Category,Health Services,Total,9075621.0,0.0,9075621.0,697570460.3141885,19,17
+249,RBA,Beneficiary Category,Education Services,Total,158128.0,0.0,158128.0,639451674.078534,12,11
+250,RBA,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,212850194.0,29,19
+251,RBA,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,81976427.0,5,5
+252,RBA,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,468329319.0,20,13
+253,RBA,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,90756726.0,10,10
+254,RBA,Beneficiary Category,Water Services,Total,5044102.0,0.0,5044102.0,647221446.8534031,6,5
+255,RBA,Beneficiary Category,Energy Infrastructure Services,Total,173964.0,0.0,173964.0,4146506.614751309,10,4
+256,RBA,Beneficiary Category,Clean Cooking,Total,2289082.2,2289082.2,0.0,76916023.0,17,14
+257,RBA,Beneficiary Category,Other,Total,0.0,0.0,0.0,4008600.0,4,2
+258,RBA,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,73137680.0,1,1
+259,RBA,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,99999.0,2,2
+260,RBA,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,10663814.0,5,4
+261,RBA,Beneficiary Category,Other Energy Services,Total,184710.0,0.0,184710.0,11085854.05,6,5
+262,RBA,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,18720306.0,4,3
+263,RBA,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,285715.35,1,1
+264,RBA,Beneficiary Category,Transportation and E-mobility Services,Total,21081.0,0.0,21081.0,5869929.85,3,3
+265,RBA,Beneficiary Category,Energy infrastructure services,Total,0.0,0.0,0.0,116275.0,1,1
+266,RBA,Beneficiary Category,Energy Storage (MW),Total,0.0,0.0,0.0,28210000.0,1,1
+267,RBA,Beneficiary Category,Energy Access - disaster affected communities -,Total,0.0,0.0,0.0,-1.0,1,1
+268,RBA,Beneficiary Category,Energy Access,Total,0.0,0.0,0.0,-1.0,1,1
+269,RBA,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Total,0.0,0.0,0.0,500000.0,1,1
+270,RBA,All,All,VF,4987353.0,4738813.0,248540.0,204244029.0,34,21
+271,RBA,Economy,Low income,VF,4125927.5,4088478.5000000005,37449.0,103014360.0,15,11
+272,RBA,Economy,Upper middle income,VF,338792.0,163230.0,175562.0,40849518.0,6,4
+273,RBA,Economy,Lower middle income,VF,522633.5,487104.5,35529.0,60380151.0,13,6
+274,RBA,HDI,Medium,VF,625254.5,409227.5,216027.0,79440617.0,14,9
+275,RBA,HDI,Low,VF,4256368.5,4223855.5,32513.0,116249162.0,18,11
+276,RBA,HDI,High,VF,105730.0,105730.0,0.0,8554250.0,2,1
+277,RBA,Beneficiary Tier,Access to Energy,VF,4738813.0,4738813.0,0.0,147464344.0,29,20
+278,RBA,Beneficiary Tier,Productive Use of Energy,VF,248540.0,0.0,248540.0,48533654.0,5,5
+279,RBA,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,74962246.0,3,3
+280,RBA,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,-1.0,1,1
+281,RBA,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,104620697.0,11,10
+282,RBA,Beneficiary Tier,Other,VF,0.0,0.0,0.0,3872600.0,3,2
+283,RBA,Beneficiary Category,Agriculture and Food System,VF,4936.0,0.0,4936.0,1363947.0,1,1
+284,RBA,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,90984703.0,8,6
+285,RBA,Beneficiary Category,Energy (MW added),VF,474740.0,474740.0,0.0,31186909.0,13,11
+286,RBA,Beneficiary Category,Electricity Access,VF,4142048.0000000005,4142048.0000000005,0.0,107367559.0,19,15
+287,RBA,Beneficiary Category,nan,VF,0.0,0.0,0.0,5670668.0,3,3
+288,RBA,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,78137680.0,2,2
+289,RBA,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,104620697.0,11,10
+290,RBA,Beneficiary Category,Water Services,VF,35529.0,0.0,35529.0,20345141.0,1,1
+291,RBA,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,90972610.0,8,5
+292,RBA,Beneficiary Category,Other,VF,0.0,0.0,0.0,3872600.0,3,2
+293,RBA,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,74962246.0,3,3
+294,RBA,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,73137680.0,1,1
+295,RBA,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,-1.0,1,1
+296,RBA,Beneficiary Category,Entrepreneurship Training,VF,0.0,0.0,0.0,-1.0,1,1
+297,RBA,Beneficiary Category,Health Services,VF,180085.0,0.0,180085.0,26824566.0,3,3
+298,RBA,Beneficiary Category,Clean Cooking,VF,122025.0,122025.0,0.0,29307969.0,6,5
+299,RBA,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+300,RBA,Beneficiary Category,Other Energy Services,VF,490.0,0.0,490.0,924566.0,1,1
+301,RBA,All,All,Non-VF,32092457.47,17661855.47,14430602.0,1220226566.4629188,90,38
+302,RBA,Economy,Low income,Non-VF,28471863.75,15522075.75,12949788.0,710676783.3399999,45,21
+303,RBA,Economy,Upper middle income,Non-VF,796157.52,775157.52,21000.0,43185093.0,8,4
+304,RBA,Economy,Lower middle income,Non-VF,2824436.2,1364622.2,1459814.0,466364690.12291884,37,13
+305,RBA,HDI,Low,Non-VF,27884396.45,15588829.45,12295567.0,730111265.6129187,59,24
+306,RBA,HDI,Medium,Non-VF,3428863.5,1314828.5,2114035.0,450499196.85,26,12
+307,RBA,HDI,High,Non-VF,275.52,275.52,0.0,1273333.0,2,1
+308,RBA,HDI,Very High,Non-VF,778922.0,757922.0,21000.0,38342771.0,3,1
+309,RBA,Beneficiary Tier,Access to Energy,Non-VF,17661855.47,17661855.47,0.0,1128819171.3400002,51,31
+310,RBA,Beneficiary Tier,Productive Use of Energy,Non-VF,14430602.0,0.0,14430602.0,712743180.6829188,40,22
+311,RBA,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,19512032.0,9,8
+312,RBA,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,29384121.0,8,7
+313,RBA,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,108229497.0,18,12
+314,RBA,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,136000.0,1,1
+315,RBA,Beneficiary Category,Electricity Access,Non-VF,14214451.02,14214451.02,0.0,1055582158.35,38,26
+316,RBA,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,392763342.0,15,12
+317,RBA,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,8249716.0,3,3
+318,RBA,Beneficiary Category,Health Services,Non-VF,8895536.0,0.0,8895536.0,670745895.3141885,15,14
+319,RBA,Beneficiary Category,Energy (MW added),Non-VF,1280347.25,1280347.25,0.0,100327397.99,18,14
+320,RBA,Beneficiary Category,Education Services,Non-VF,130628.0,0.0,130628.0,634907108.078534,10,9
+321,RBA,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,108229497.0,18,12
+322,RBA,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,377356709.0,12,9
+323,RBA,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,15794480.0,7,7
+324,RBA,Beneficiary Category,Energy Infrastructure Services,Non-VF,173964.0,0.0,173964.0,4146506.614751309,10,4
+325,RBA,Beneficiary Category,Clean Cooking,Non-VF,2167057.2,2167057.2,0.0,47608054.0,11,9
+326,RBA,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,3838747.0,3,3
+327,RBA,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,136000.0,1,1
+328,RBA,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,10663815.0,4,4
+329,RBA,Beneficiary Category,Agriculture and Food System,Non-VF,16600.0,0.0,16600.0,29484981.71,7,6
+330,RBA,Beneficiary Category,Other Energy Services,Non-VF,184220.0,0.0,184220.0,10161288.05,5,4
+331,RBA,Beneficiary Category,Water Services,Non-VF,5008573.0,0.0,5008573.0,626876305.8534031,5,4
+332,RBA,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,18720306.0,4,3
+333,RBA,Beneficiary Category,Transportation and E-mobility Services,Non-VF,21081.0,0.0,21081.0,5869929.85,3,3
+334,RBA,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,100000.0,1,1
+335,RBA,Beneficiary Category,Energy infrastructure services,Non-VF,0.0,0.0,0.0,116275.0,1,1
+336,RBA,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,54700000.0,3,3
+337,RBA,Beneficiary Category,Energy Storage (MW),Non-VF,0.0,0.0,0.0,28210000.0,1,1
+338,RBA,Beneficiary Category,Energy Access - disaster affected communities -,Non-VF,0.0,0.0,0.0,-1.0,1,1
+339,RBA,Beneficiary Category,Energy Access,Non-VF,0.0,0.0,0.0,-1.0,1,1
+340,RBA,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Non-VF,0.0,0.0,0.0,500000.0,1,1
+341,RBAS,All,All,Total,11942282.990000002,8595603.79,3346679.2,241000631.0,47,16
+342,RBAS,Economy,Lower middle income,Total,3865829.15,968274.95,2897554.2,133335063.0,27,8
+343,RBAS,Economy,Upper middle income,Total,4875265.0,4703627.0,171638.0,29879147.0,10,3
+344,RBAS,Economy,High income,Total,0.0,0.0,0.0,15193940.0,2,2
+345,RBAS,Economy,Low income,Total,3201188.84,2923701.84,277487.0,62592481.0,8,3
+346,RBAS,HDI,High,Total,2474371.35,887468.75,1586902.6,92120246.0,21,7
+347,RBAS,HDI,Low,Total,742906.8,225280.2,517626.6,47652346.0,12,3
+348,RBAS,HDI,Very High,Total,0.0,0.0,0.0,15193940.0,2,2
+349,RBAS,HDI,Medium,Total,8263639.0,7021489.0,1242150.0,74105356.0,10,3
+350,RBAS,Beneficiary Tier,Access to Energy,Total,8595603.79,8595603.79,0.0,134221096.0,24,9
+351,RBAS,Beneficiary Tier,Productive Use of Energy,Total,3346679.2,0.0,3346679.2,151462807.0,20,9
+352,RBAS,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,28511743.0,2,2
+353,RBAS,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,61215256.0,7,5
+354,RBAS,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,50809984.0,9,6
+355,RBAS,Beneficiary Tier,Other,Total,0.0,0.0,0.0,0.0,0,0
+356,RBAS,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,54878440.0,4,3
+357,RBAS,Beneficiary Category,Transportation and E-mobility Services,Total,1417000.0,0.0,1417000.0,3552968.0,1,1
+358,RBAS,Beneficiary Category,Health Services,Total,473592.0,0.0,473592.0,62957889.0,5,3
+359,RBAS,Beneficiary Category,Education Services,Total,53482.6,0.0,53482.6,64848725.0,6,4
+360,RBAS,Beneficiary Category,Energy (MW added),Total,3023392.75,3023392.75,0.0,78754559.0,13,6
+361,RBAS,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,50809984.0,9,6
+362,RBAS,Beneficiary Category,Electricity Access,Total,5479811.04,5479811.04,0.0,111004540.0,17,7
+363,RBAS,Beneficiary Category,Agriculture and Food System,Total,18942.6,0.0,18942.6,71695197.0,3,3
+364,RBAS,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,28511743.0,2,2
+365,RBAS,Beneficiary Category,Water Services,Total,51003.0,0.0,51003.0,83934706.0,10,7
+366,RBAS,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,67854559.0,7,4
+367,RBAS,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,8803356.0,3,3
+368,RBAS,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,15441234.0,4,4
+369,RBAS,Beneficiary Category,nan,Total,0.0,0.0,0.0,48505719.0,7,5
+370,RBAS,Beneficiary Category,Other Energy Services,Total,158801.0,0.0,158801.0,17699703.0,4,2
+371,RBAS,Beneficiary Category,Energy Infrastructure Services,Total,1173858.0,0.0,1173858.0,51814927.0,3,3
+372,RBAS,Beneficiary Category,Energy access,Total,0.0,0.0,0.0,200000.0,1,1
+373,RBAS,Beneficiary Category,water services,Total,0.0,0.0,0.0,200000.0,1,1
+374,RBAS,Beneficiary Category,Capacity Training,Total,0.0,0.0,0.0,36250760.0,1,1
+375,RBAS,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,6336816.0,3,2
+376,RBAS,Beneficiary Category,Clean Cooking,Total,92400.0,92400.0,0.0,8652596.0,1,1
+377,RBAS,All,All,VF,3126143.0,607318.0,2518825.0,50424131.0,16,10
+378,RBAS,Economy,Lower middle income,VF,2759671.0,396646.0,2363025.0,36332108.0,10,6
+379,RBAS,Economy,Upper middle income,VF,155800.0,0.0,155800.0,5732009.0,2,2
+380,RBAS,Economy,Low income,VF,210672.0,210672.0,0.0,8360014.0,4,2
+381,RBAS,HDI,High,VF,1937500.0,367500.0,1570000.0,21205142.0,6,5
+382,RBAS,HDI,Medium,VF,948825.0,0.0,948825.0,15147902.0,3,2
+383,RBAS,HDI,Low,VF,173148.0,173148.0,0.0,10794940.0,6,2
+384,RBAS,Beneficiary Tier,Access to Energy,VF,607318.0,607318.0,0.0,26466355.0,9,5
+385,RBAS,Beneficiary Tier,Productive Use of Energy,VF,2518825.0,0.0,2518825.0,21340870.0,5,4
+386,RBAS,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,0.0,0,0
+387,RBAS,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+388,RBAS,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,3092009.0,1,1
+389,RBAS,Beneficiary Tier,Other,VF,0.0,0.0,0.0,0.0,0,0
+390,RBAS,Beneficiary Category,Transportation and E-mobility Services,VF,1417000.0,0.0,1417000.0,3552968.0,1,1
+391,RBAS,Beneficiary Category,Energy (MW added),VF,367500.0,367500.0,0.0,14165268.0,3,2
+392,RBAS,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,8803356.0,3,3
+393,RBAS,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,7502009.0,3,3
+394,RBAS,Beneficiary Category,nan,VF,0.0,0.0,0.0,3486906.0,2,2
+395,RBAS,Beneficiary Category,Other Energy Services,VF,155800.0,0.0,155800.0,5732009.0,2,2
+396,RBAS,Beneficiary Category,Energy Infrastructure Services,VF,928850.0,0.0,928850.0,9416167.0,1,1
+397,RBAS,Beneficiary Category,Water Services,VF,17175.0,0.0,17175.0,2639726.0,1,1
+398,RBAS,Beneficiary Category,Electricity Access,VF,239818.0,239818.0,0.0,12301087.0,6,3
+399,RBAS,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,3092009.0,1,1
+400,RBAS,All,All,Non-VF,8816139.99,7988285.79,827854.2,190576500.0,31,15
+401,RBAS,Economy,Lower middle income,Non-VF,1106158.15,571628.95,534529.2,97002955.0,17,7
+402,RBAS,Economy,Upper middle income,Non-VF,4719465.0,4703627.0,15838.0,24147138.0,8,3
+403,RBAS,Economy,High income,Non-VF,0.0,0.0,0.0,15193940.0,2,2
+404,RBAS,Economy,Low income,Non-VF,2990516.84,2713029.84,277487.0,54232467.0,4,3
+405,RBAS,HDI,High,Non-VF,536871.35,519968.75,16902.6,70915104.0,15,7
+406,RBAS,HDI,Low,Non-VF,569758.8,52132.2,517626.6,36857406.0,6,3
+407,RBAS,HDI,Very High,Non-VF,0.0,0.0,0.0,15193940.0,2,2
+408,RBAS,HDI,Medium,Non-VF,7314814.0,7021489.0,293325.0,58957454.0,7,2
+409,RBAS,Beneficiary Tier,Access to Energy,Non-VF,7988285.79,7988285.79,0.0,107754741.0,15,7
+410,RBAS,Beneficiary Tier,Productive Use of Energy,Non-VF,827854.2,0.0,827854.2,130121937.0,15,8
+411,RBAS,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,28511743.0,2,2
+412,RBAS,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,61215256.0,7,5
+413,RBAS,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,47717975.0,8,5
+414,RBAS,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,0.0,0,0
+415,RBAS,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,54878440.0,4,3
+416,RBAS,Beneficiary Category,Health Services,Non-VF,473592.0,0.0,473592.0,62957889.0,5,3
+417,RBAS,Beneficiary Category,Education Services,Non-VF,53482.6,0.0,53482.6,64848725.0,6,4
+418,RBAS,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,47717975.0,8,5
+419,RBAS,Beneficiary Category,Electricity Access,Non-VF,5239993.04,5239993.04,0.0,98703453.0,11,6
+420,RBAS,Beneficiary Category,Agriculture and Food System,Non-VF,18942.6,0.0,18942.6,71695197.0,3,3
+421,RBAS,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,28511743.0,2,2
+422,RBAS,Beneficiary Category,Water Services,Non-VF,33828.0,0.0,33828.0,81294980.0,9,6
+423,RBAS,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,67854559.0,7,4
+424,RBAS,Beneficiary Category,Energy (MW added),Non-VF,2655892.75,2655892.75,0.0,64589291.0,10,5
+425,RBAS,Beneficiary Category,Other Energy Services,Non-VF,3001.0,0.0,3001.0,11967694.0,2,2
+426,RBAS,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,7939225.0,1,1
+427,RBAS,Beneficiary Category,Energy access,Non-VF,0.0,0.0,0.0,200000.0,1,1
+428,RBAS,Beneficiary Category,water services,Non-VF,0.0,0.0,0.0,200000.0,1,1
+429,RBAS,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,45018813.0,5,4
+430,RBAS,Beneficiary Category,Energy Infrastructure Services,Non-VF,245008.0,0.0,245008.0,42398760.0,2,2
+431,RBAS,Beneficiary Category,Capacity Training,Non-VF,0.0,0.0,0.0,36250760.0,1,1
+432,RBAS,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,6336816.0,3,2
+433,RBAS,Beneficiary Category,Clean Cooking,Non-VF,92400.0,92400.0,0.0,8652596.0,1,1
+434,RBEC,All,All,Total,12778850.81,10527337.75,2251513.06,507506594.13199997,74,19
+435,RBEC,Economy,Upper middle income,Total,1562573.81,324525.75,1238048.06,378587186.57,65,14
+436,RBEC,Economy,High income,Total,23065.0,23065.0,0.0,1600000.0,1,1
+437,RBEC,Economy,Lower middle income,Total,11193212.0,10179747.0,1013465.0,127319407.562,8,4
+438,RBEC,HDI,High,Total,12143418.0,10360189.0,1783229.0,439026688.38199997,40,9
+439,RBEC,HDI,Very High,Total,587459.06,119903.0,467556.06,65517801.0,29,7
+440,RBEC,HDI,Medium,Total,46992.0,46992.0,0.0,656272.75,2,2
+441,RBEC,Beneficiary Tier,Access to Energy,Total,10527337.75,10527337.75,0.0,208978422.562,21,13
+442,RBEC,Beneficiary Tier,Productive Use of Energy,Total,2251513.06,0.0,2251513.06,162070240.132,26,14
+443,RBEC,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,81396972.75,13,7
+444,RBEC,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,61667865.75,11,8
+445,RBEC,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,43482188.75,19,12
+446,RBEC,Beneficiary Tier,Other,Total,0.0,0.0,0.0,110764532.0,4,4
+447,RBEC,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,159624198.0,18,8
+448,RBEC,Beneficiary Category,Education Services,Total,6966.0,0.0,6966.0,90103519.57,6,3
+449,RBEC,Beneficiary Category,nan,Total,0.0,0.0,0.0,68010485.0,11,7
+450,RBEC,Beneficiary Category,Electricity Access,Total,8782373.0,8782373.0,0.0,134401266.75,10,8
+451,RBEC,Beneficiary Category,Energy (MW added),Total,1744793.75,1744793.75,0.0,144247242.562,15,10
+452,RBEC,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,43482188.75,19,12
+453,RBEC,Beneficiary Category,Transportation and E-mobility Services,Total,328499.0,0.0,328499.0,13981534.0,5,5
+454,RBEC,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,59305202.75,10,7
+455,RBEC,Beneficiary Category,Other Energy Services,Total,805846.0,0.0,805846.0,47587117.75,12,8
+456,RBEC,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,78754026.75,17,11
+457,RBEC,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,68391972.75,10,7
+458,RBEC,Beneficiary Category,Other,Total,0.0,0.0,0.0,110764532.0,4,4
+459,RBEC,Beneficiary Category,Health services,Total,0.0,0.0,0.0,64600000.0,1,1
+460,RBEC,Beneficiary Category,Energy Infrastructure Services,Total,1107345.0,0.0,1107345.0,14525568.812,4,3
+461,RBEC,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,13826580.0,4,3
+462,RBEC,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,3066715.0,2,2
+463,RBEC,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,6103748.0,3,3
+464,RBEC,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,1220000.0,1,1
+465,RBEC,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,44891740.75,2,2
+466,RBEC,Beneficiary Category,Water Services,Total,2857.06,0.0,2857.06,2450000.0,2,1
+467,RBEC,Beneficiary Category,Clean Cooking,Total,171.0,171.0,0.0,926659.0,1,1
+468,RBEC,All,All,VF,1039919.0,140229.0,899690.0,77296849.75,18,10
+469,RBEC,Economy,Upper middle income,VF,979462.0,93237.0,886225.0,61755384.0,14,7
+470,RBEC,Economy,Lower middle income,VF,60457.0,46992.0,13465.0,15541465.75,4,3
+471,RBEC,HDI,High,VF,441291.0,0.0,441291.0,47413109.0,8,5
+472,RBEC,HDI,Very High,VF,551636.0,93237.0,458399.0,29392000.0,9,4
+473,RBEC,HDI,Medium,VF,46992.0,46992.0,0.0,491740.75,1,1
+474,RBEC,Beneficiary Tier,Access to Energy,VF,140229.0,140229.0,0.0,10286740.75,4,4
+475,RBEC,Beneficiary Tier,Productive Use of Energy,VF,899690.0,0.0,899690.0,20706465.75,7,6
+476,RBEC,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,12251740.75,4,3
+477,RBEC,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,10051786.75,3,3
+478,RBEC,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,1331740.75,2,2
+479,RBEC,Beneficiary Tier,Other,VF,0.0,0.0,0.0,0.0,0,0
+480,RBEC,Beneficiary Category,nan,VF,0.0,0.0,0.0,11303005.0,4,3
+481,RBEC,Beneficiary Category,Other Energy Services,VF,574546.0,0.0,574546.0,11206740.75,5,5
+482,RBEC,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,1331740.75,2,2
+483,RBEC,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,27831000.0,4,4
+484,RBEC,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,27696073.75,6,5
+485,RBEC,Beneficiary Category,Campaign Participant,VF,0.0,0.0,0.0,10051786.75,3,3
+486,RBEC,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,5305000.0,2,2
+487,RBEC,Beneficiary Category,Electricity Access,VF,65854.0,65854.0,0.0,8781740.75,3,3
+488,RBEC,Beneficiary Category,Medium Enterprises,VF,0.0,0.0,0.0,7741740.75,3,3
+489,RBEC,Beneficiary Category,Transportation and E-mobility Services,VF,317799.0,0.0,317799.0,9499725.0,2,2
+490,RBEC,Beneficiary Category,Energy Infrastructure Services,VF,7345.0,0.0,7345.0,6000000.0,1,1
+491,RBEC,Beneficiary Category,Energy (MW added),VF,74375.0,74375.0,0.0,6506740.75,3,3
+492,RBEC,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,491740.75,1,1
+493,RBEC,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,4510000.0,1,1
+494,RBEC,All,All,Non-VF,11738931.81,10387108.75,1351823.06,430209744.38199997,56,15
+495,RBEC,Economy,Upper middle income,Non-VF,583111.81,231288.75,351823.06,316831802.57,51,12
+496,RBEC,Economy,High income,Non-VF,23065.0,23065.0,0.0,1600000.0,1,1
+497,RBEC,Economy,Lower middle income,Non-VF,11132755.0,10132755.0,1000000.0,111777941.812,4,2
+498,RBEC,HDI,High,Non-VF,11702127.0,10360189.0,1341938.0,391613579.38199997,32,7
+499,RBEC,HDI,Very High,Non-VF,35823.06,26666.0,9157.06,36125801.0,20,6
+500,RBEC,HDI,Medium,Non-VF,0.0,0.0,0.0,164532.0,1,1
+501,RBEC,Beneficiary Tier,Access to Energy,Non-VF,10387108.75,10387108.75,0.0,198691681.812,17,10
+502,RBEC,Beneficiary Tier,Productive Use of Energy,Non-VF,1351823.06,0.0,1351823.06,141363774.382,19,9
+503,RBEC,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,69145232.0,9,6
+504,RBEC,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,51616079.0,8,5
+505,RBEC,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,42150448.0,17,10
+506,RBEC,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,110764532.0,4,4
+507,RBEC,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,131793198.0,14,6
+508,RBEC,Beneficiary Category,Education Services,Non-VF,6966.0,0.0,6966.0,90103519.57,6,3
+509,RBEC,Beneficiary Category,Electricity Access,Non-VF,8716519.0,8716519.0,0.0,125619526.0,7,5
+510,RBEC,Beneficiary Category,Energy (MW added),Non-VF,1670418.75,1670418.75,0.0,137740501.812,12,8
+511,RBEC,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,42150448.0,17,10
+512,RBEC,Beneficiary Category,Transportation and E-mobility Services,Non-VF,10700.0,0.0,10700.0,4481809.0,3,3
+513,RBEC,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,49253416.0,7,4
+514,RBEC,Beneficiary Category,Other Energy Services,Non-VF,231300.0,0.0,231300.0,36380377.0,7,4
+515,RBEC,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,51057953.0,11,8
+516,RBEC,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,60650232.0,7,5
+517,RBEC,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,56707480.0,7,4
+518,RBEC,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,110764532.0,4,4
+519,RBEC,Beneficiary Category,Health services,Non-VF,0.0,0.0,0.0,64600000.0,1,1
+520,RBEC,Beneficiary Category,Energy Infrastructure Services,Non-VF,1100000.0,0.0,1100000.0,8525568.812,3,2
+521,RBEC,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,9316580.0,3,3
+522,RBEC,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,3066715.0,2,2
+523,RBEC,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,1220000.0,1,1
+524,RBEC,Beneficiary Category,Market Intervention,Non-VF,0.0,0.0,0.0,44400000.0,1,1
+525,RBEC,Beneficiary Category,Water Services,Non-VF,2857.06,0.0,2857.06,2450000.0,2,1
+526,RBEC,Beneficiary Category,Clean Cooking,Non-VF,171.0,171.0,0.0,926659.0,1,1
+527,RBEC,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,798748.0,1,1
+528,RBAP,All,All,Total,14438076.231234811,8766368.004999999,5671708.226234811,484690468.1,92,27
+529,RBAP,Economy,Lower middle income,Total,8069318.731234811,4707320.505,3361998.2262348114,250097666.10000002,70,20
+530,RBAP,Economy,Upper middle income,Total,6368757.5,4059047.5,2309710.0,234592802.0,22,7
+531,RBAP,HDI,High,Total,4788975.0,2232363.0,2556612.0,147335301.10000002,39,8
+532,RBAP,HDI,Medium,Total,5276194.231234811,3161098.005,2115096.2262348114,179325269.0,41,15
+533,RBAP,HDI,Low,Total,4372907.0,3372907.0,1000000.0,152101811.0,9,2
+534,RBAP,HDI,Very High,Total,0.0,0.0,0.0,5928087.0,3,2
+535,RBAP,Beneficiary Tier,Access to Energy,Total,8766368.004999999,8766368.004999999,0.0,260350942.0,41,21
+536,RBAP,Beneficiary Tier,Productive Use of Energy,Total,5671708.226234811,0.0,5671708.226234811,257530120.0,40,19
+537,RBAP,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,75533742.0,19,13
+538,RBAP,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,46274698.0,9,7
+539,RBAP,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,111230640.10000001,29,17
+540,RBAP,Beneficiary Tier,Other,Total,0.0,0.0,0.0,55180259.0,11,7
+541,RBAP,Beneficiary Category,Energy (MW added),Total,2845409.525,2845409.525,0.0,187240692.0,27,16
+542,RBAP,Beneficiary Category,Electricity Access,Total,5664436.539999999,5664436.539999999,0.0,143070078.0,23,17
+543,RBAP,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,131162146.0,30,16
+544,RBAP,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,111230640.10000001,29,17
+545,RBAP,Beneficiary Category,Transportation and E-mobility Services,Total,1425607.6402348112,0.0,1425607.6402348112,52501046.0,11,9
+546,RBAP,Beneficiary Category,Other,Total,0.0,0.0,0.0,55180259.0,11,7
+547,RBAP,Beneficiary Category,Other Energy Services,Total,329732.0,0.0,329732.0,25493912.0,5,5
+548,RBAP,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,73282934.0,20,12
+549,RBAP,Beneficiary Category,Water Services,Total,219760.3,0.0,219760.3,76506909.0,8,7
+550,RBAP,Beneficiary Category,nan,Total,0.0,0.0,0.0,99334701.36,22,11
+551,RBAP,Beneficiary Category,Clean Cooking,Total,256521.94,256521.94,0.0,36464226.0,9,8
+552,RBAP,Beneficiary Category,Health Services,Total,1834998.0,0.0,1834998.0,72090296.0,6,5
+553,RBAP,Beneficiary Category,Education Services,Total,12984.0,0.0,12984.0,9679440.0,4,4
+554,RBAP,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,49197407.0,11,7
+555,RBAP,Beneficiary Category,Agriculture and Food System,Total,402334.286,0.0,402334.286,40535108.0,16,9
+556,RBAP,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,10405040.0,5,5
+557,RBAP,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,37217858.0,5,4
+558,RBAP,Beneficiary Category,Energy Infrastructure Services,Total,1446292.0,0.0,1446292.0,29158685.0,4,3
+559,RBAP,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,44261001.0,11,9
+560,RBAP,Beneficiary Category,Electricity Access / Energy (MW added),Total,0.0,0.0,0.0,4622265.0,1,1
+561,RBAP,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,6438765.0,2,2
+562,RBAP,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,15142729.0,3,2
+563,RBAP,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,15019520.0,3,3
+564,RBAP,Beneficiary Category,Energy Transition,Total,0.0,0.0,0.0,30892000.0,1,1
+565,RBAP,Beneficiary Category,"Households and Women, Policy and Regulatory Framework",Total,0.0,0.0,0.0,241888.0,1,1
+566,RBAP,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,1348200.0,1,1
+567,RBAP,All,All,VF,7244450.740234811,4955286.1,2289164.640234811,131932284.0,21,15
+568,RBAP,Economy,Lower middle income,VF,4845935.240234811,3861765.6,984169.6402348113,49391371.0,13,9
+569,RBAP,Economy,Upper middle income,VF,2398515.5,1093520.5,1304995.0,82540913.0,8,6
+570,RBAP,HDI,High,VF,4404235.5,2215016.5,2189219.0,73395283.0,9,5
+571,RBAP,HDI,Low,VF,407380.0,407380.0,0.0,24837884.0,2,2
+572,RBAP,HDI,Medium,VF,2432835.2402348113,2332889.6,99945.64023481136,29344323.0,9,7
+573,RBAP,HDI,Very High,VF,0.0,0.0,0.0,4354794.0,1,1
+574,RBAP,Beneficiary Tier,Access to Energy,VF,4955286.1,4955286.1,0.0,79930523.0,14,14
+575,RBAP,Beneficiary Tier,Productive Use of Energy,VF,2289164.640234811,0.0,2289164.640234811,48455146.0,7,7
+576,RBAP,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,26517275.0,6,5
+577,RBAP,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+578,RBAP,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,50370410.0,7,7
+579,RBAP,Beneficiary Tier,Other,VF,0.0,0.0,0.0,23697017.0,7,5
+580,RBAP,Beneficiary Category,Energy (MW added),VF,2201080.0,2201080.0,0.0,58797615.0,9,9
+581,RBAP,Beneficiary Category,Electricity Access,VF,2610121.1,2610121.1,0.0,47349228.0,9,9
+582,RBAP,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,25928378.0,6,6
+583,RBAP,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,50370410.0,7,7
+584,RBAP,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,51985158.0,10,8
+585,RBAP,Beneficiary Category,nan,VF,0.0,0.0,0.0,55409180.0,9,7
+586,RBAP,Beneficiary Category,Energy Infrastructure Services,VF,1441000.0,0.0,1441000.0,11159879.0,2,2
+587,RBAP,Beneficiary Category,Water Services,VF,104995.0,0.0,104995.0,23636364.0,1,1
+588,RBAP,Beneficiary Category,Transportation and E-mobility Services,VF,737169.6402348113,0.0,737169.6402348113,7456226.0,3,3
+589,RBAP,Beneficiary Category,Clean Cooking,VF,144085.0,144085.0,0.0,9922178.0,3,3
+590,RBAP,Beneficiary Category,Other,VF,0.0,0.0,0.0,23697017.0,7,5
+591,RBAP,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,18683903.0,4,4
+592,RBAP,Beneficiary Category,Other Energy Services,VF,0.0,0.0,0.0,2639725.0,1,1
+593,RBAP,Beneficiary Category,Agriculture and Food System,VF,6000.0,0.0,6000.0,5379452.0,1,1
+594,RBAP,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,1816500.0,1,1
+595,RBAP,Beneficiary Category,Medium Enterprises,VF,0.0,0.0,0.0,7833372.0,2,2
+596,RBAP,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,10658372.0,2,1
+597,RBAP,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,15019520.0,3,3
+598,RBAP,All,All,Non-VF,6563830.491,3281286.905,3282543.586,300346000.1,66,20
+599,RBAP,Economy,Lower middle income,Non-VF,2593588.491,315759.905,2277828.586,179186111.1,53,16
+600,RBAP,Economy,Upper middle income,Non-VF,3970242.0,2965527.0,1004715.0,121159889.0,13,4
+601,RBAP,HDI,High,Non-VF,279944.5,12551.5,267393.0,71419834.1,27,7
+602,RBAP,HDI,Medium,Non-VF,2318358.991,303208.40499999997,2015150.5860000001,130980946.0,31,10
+603,RBAP,HDI,Low,Non-VF,3965527.0,2965527.0,1000000.0,96371927.0,6,2
+604,RBAP,HDI,Very High,Non-VF,0.0,0.0,0.0,1573293.0,2,1
+605,RBAP,Beneficiary Tier,Access to Energy,Non-VF,3281286.905,3281286.905,0.0,159142123.0,24,11
+606,RBAP,Beneficiary Tier,Productive Use of Energy,Non-VF,3282543.586,0.0,3282543.586,207304974.0,32,14
+607,RBAP,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,49016467.0,13,9
+608,RBAP,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,46274698.0,9,7
+609,RBAP,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,60860230.099999994,22,12
+610,RBAP,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,31483242.0,4,3
+611,RBAP,Beneficiary Category,Transportation and E-mobility Services,Non-VF,688438.0,0.0,688438.0,45044820.0,8,7
+612,RBAP,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,105233768.0,24,12
+613,RBAP,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,31483242.0,4,3
+614,RBAP,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,60860230.099999994,22,12
+615,RBAP,Beneficiary Category,Other Energy Services,Non-VF,329732.0,0.0,329732.0,22854187.0,4,4
+616,RBAP,Beneficiary Category,Electricity Access,Non-VF,3054315.44,3054315.44,0.0,95720850.0,14,9
+617,RBAP,Beneficiary Category,Energy (MW added),Non-VF,114534.525,114534.525,0.0,107164781.0,15,8
+618,RBAP,Beneficiary Category,Clean Cooking,Non-VF,112436.93999999999,112436.93999999999,0.0,26542048.0,6,5
+619,RBAP,Beneficiary Category,Health Services,Non-VF,1834998.0,0.0,1834998.0,72090296.0,6,5
+620,RBAP,Beneficiary Category,Water Services,Non-VF,14765.3,0.0,14765.3,51100545.0,6,5
+621,RBAP,Beneficiary Category,Education Services,Non-VF,12984.0,0.0,12984.0,9679440.0,4,4
+622,RBAP,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,42155521.36,12,5
+623,RBAP,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,41364035.0,9,6
+624,RBAP,Beneficiary Category,Agriculture and Food System,Non-VF,396334.28599999996,0.0,396334.28599999996,35155656.0,15,8
+625,RBAP,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,10405040.0,5,5
+626,RBAP,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,37217858.0,5,4
+627,RBAP,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,20789480.0,9,5
+628,RBAP,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,25577098.0,7,6
+629,RBAP,Beneficiary Category,Electricity Access / Energy (MW added),Non-VF,0.0,0.0,0.0,4622265.0,1,1
+630,RBAP,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,4622265.0,1,1
+631,RBAP,Beneficiary Category,Energy Infrastructure Services,Non-VF,5292.0,0.0,5292.0,17998806.0,2,2
+632,RBAP,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,4484357.0,1,1
+633,RBAP,Beneficiary Category,Other energy services,Non-VF,0.0,0.0,0.0,1348200.0,1,1
+634,SIDS,All,All,Total,3507655.45,1839848.9,1667806.55,237981042.91,49,22
+635,SIDS,Economy,Lower middle income,Total,1948327.6,672553.6,1275774.0,99919830.0,20,9
+636,SIDS,Economy,Upper middle income,Total,1482132.85,1090100.3,392032.55,118456127.91,23,9
+637,SIDS,Economy,High income,Total,30265.0,30265.0,0.0,16692383.0,5,3
+638,SIDS,Economy,Low income,Total,46930.0,46930.0,0.0,2912702.0,1,1
+639,SIDS,HDI,High,Total,908464.1,338855.55,569608.55,91601756.0,18,7
+640,SIDS,HDI,Medium,Total,1687249.35,650051.35,1037198.0,81235345.91,21,10
+641,SIDS,HDI,Very High,Total,781012.0,760012.0,21000.0,53441318.0,7,3
+642,SIDS,HDI,Low,Total,130930.0,90930.0,40000.0,11702623.0,3,2
+643,SIDS,Beneficiary Tier,Access to Energy,Total,1839848.9,1839848.9,0.0,138164036.0,30,20
+644,SIDS,Beneficiary Tier,Productive Use of Energy,Total,1667806.55,0.0,1667806.55,118294088.91,20,12
+645,SIDS,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,36390901.0,6,6
+646,SIDS,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,33718045.0,4,3
+647,SIDS,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,129564708.91,17,12
+648,SIDS,Beneficiary Tier,Other,Total,0.0,0.0,0.0,23758174.0,4,4
+649,SIDS,Beneficiary Category,Energy (MW added),Total,645365.0,645365.0,0.0,94310687.0,16,13
+650,SIDS,Beneficiary Category,Electricity Access,Total,1020858.9,1020858.9,0.0,118472954.0,23,17
+651,SIDS,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,77621354.91,13,10
+652,SIDS,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,129564708.91,17,12
+653,SIDS,Beneficiary Category,Transportation and E-mobility Services,Total,181396.0,0.0,181396.0,29512982.91,6,5
+654,SIDS,Beneficiary Category,Other,Total,0.0,0.0,0.0,23758174.0,4,4
+655,SIDS,Beneficiary Category,Other Energy Services,Total,200000.0,0.0,200000.0,17815480.0,2,2
+656,SIDS,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,57000841.91,10,9
+657,SIDS,Beneficiary Category,nan,Total,0.0,0.0,0.0,47173846.0,9,7
+658,SIDS,Beneficiary Category,Water Services,Total,189773.55,0.0,189773.55,70380663.0,6,5
+659,SIDS,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,25451998.0,2,2
+660,SIDS,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,20919834.0,1,1
+661,SIDS,Beneficiary Category,Agriculture and Food System,Total,106789.0,0.0,106789.0,10007452.0,6,3
+662,SIDS,Beneficiary Category,Health Services,Total,970000.0,0.0,970000.0,6853266.0,2,2
+663,SIDS,Beneficiary Category,Education Services,Total,14578.0,0.0,14578.0,6853266.0,2,2
+664,SIDS,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,15471067.0,5,5
+665,SIDS,Beneficiary Category,Clean Cooking,Total,173625.0,173625.0,0.0,13669404.0,4,4
+666,SIDS,Beneficiary Category,Electricity Access / Energy (MW added),Total,0.0,0.0,0.0,4622265.0,1,1
+667,SIDS,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,4622265.0,1,1
+668,SIDS,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,12798211.0,3,2
+669,SIDS,Beneficiary Category,Energy Storage (MW),Total,0.0,0.0,0.0,28210000.0,1,1
+670,SIDS,Beneficiary Category,Energy Infrastructure Services,Total,5270.0,0.0,5270.0,2970297.0,1,1
+671,SIDS,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,5152392.0,1,1
+672,SIDS,All,All,VF,1130308.35,850964.35,279344.0,97309106.0,20,15
+673,SIDS,Economy,Lower middle income,VF,589286.6,547757.6,41529.0,51548291.0,9,6
+674,SIDS,Economy,Upper middle income,VF,465716.75,227901.75,237815.0,36075885.0,7,6
+675,SIDS,Economy,High income,VF,28375.0,28375.0,0.0,6772228.0,3,2
+676,SIDS,Economy,Low income,VF,46930.0,46930.0,0.0,2912702.0,1,1
+677,SIDS,HDI,High,VF,472594.0,234779.0,237815.0,37752856.0,6,5
+678,SIDS,HDI,Medium,VF,610584.35,569055.35,41529.0,51465156.0,11,8
+679,SIDS,HDI,Very High,VF,200.0,200.0,0.0,5178392.0,2,1
+680,SIDS,HDI,Low,VF,46930.0,46930.0,0.0,2912702.0,1,1
+681,SIDS,Beneficiary Tier,Access to Energy,VF,850964.35,850964.35,0.0,40941533.0,15,14
+682,SIDS,Beneficiary Tier,Productive Use of Energy,VF,279344.0,0.0,279344.0,53959814.0,5,5
+683,SIDS,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,10658903.0,3,3
+684,SIDS,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+685,SIDS,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,56927666.0,9,8
+686,SIDS,Beneficiary Tier,Other,VF,0.0,0.0,0.0,8582419.0,3,3
+687,SIDS,Beneficiary Category,Energy (MW added),VF,434875.0,434875.0,0.0,30435143.0,9,8
+688,SIDS,Beneficiary Category,Electricity Access,VF,242464.35,242464.35,0.0,31330721.0,11,10
+689,SIDS,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,20841234.0,5,5
+690,SIDS,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,56927666.0,9,8
+691,SIDS,Beneficiary Category,nan,VF,0.0,0.0,0.0,39619811.0,6,6
+692,SIDS,Beneficiary Category,Water Services,VF,140524.0,0.0,140524.0,43981505.0,2,2
+693,SIDS,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,20881075.0,7,7
+694,SIDS,Beneficiary Category,Other,VF,0.0,0.0,0.0,8582419.0,3,3
+695,SIDS,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,10658903.0,3,3
+696,SIDS,Beneficiary Category,Clean Cooking,VF,173625.0,173625.0,0.0,13669404.0,4,4
+697,SIDS,Beneficiary Category,Other Energy Services,VF,0.0,0.0,0.0,2639725.0,1,1
+698,SIDS,Beneficiary Category,Agriculture and Food System,VF,6000.0,0.0,6000.0,5379452.0,1,1
+699,SIDS,Beneficiary Category,Transportation and E-mobility Services,VF,132820.0,0.0,132820.0,1959132.0,1,1
+700,SIDS,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,5152392.0,1,1
+701,SIDS,All,All,Non-VF,2377347.1,988884.55,1388462.55,140671936.91,29,15
+702,SIDS,Economy,Lower middle income,Non-VF,1359041.0,124796.0,1234245.0,48371539.0,11,7
+703,SIDS,Economy,Upper middle income,Non-VF,1016416.1,862198.55,154217.55,82380242.91,16,6
+704,SIDS,Economy,High income,Non-VF,1890.0,1890.0,0.0,9920155.0,2,2
+705,SIDS,HDI,High,Non-VF,435870.1,104076.55,331793.55,53848900.0,12,5
+706,SIDS,HDI,Medium,Non-VF,1076665.0,80996.0,995669.0,29770189.91,10,6
+707,SIDS,HDI,Very High,Non-VF,780812.0,759812.0,21000.0,48262926.0,5,3
+708,SIDS,HDI,Low,Non-VF,84000.0,44000.0,40000.0,8789921.0,2,1
+709,SIDS,Beneficiary Tier,Access to Energy,Non-VF,988884.55,988884.55,0.0,97222503.0,15,11
+710,SIDS,Beneficiary Tier,Productive Use of Energy,Non-VF,1388462.55,0.0,1388462.55,64334274.91,15,9
+711,SIDS,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,25731998.0,3,3
+712,SIDS,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,33718045.0,4,3
+713,SIDS,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,72637042.91,8,6
+714,SIDS,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,15175755.0,1,1
+715,SIDS,Beneficiary Category,Transportation and E-mobility Services,Non-VF,48576.0,0.0,48576.0,27553850.91,5,5
+716,SIDS,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,56780120.91,8,7
+717,SIDS,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,15175755.0,1,1
+718,SIDS,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,72637042.91,8,6
+719,SIDS,Beneficiary Category,Other Energy Services,Non-VF,200000.0,0.0,200000.0,15175755.0,1,1
+720,SIDS,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,36119766.91,3,3
+721,SIDS,Beneficiary Category,Electricity Access,Non-VF,778394.55,778394.55,0.0,87142233.0,12,10
+722,SIDS,Beneficiary Category,Energy (MW added),Non-VF,210490.0,210490.0,0.0,63875544.0,7,6
+723,SIDS,Beneficiary Category,Water Services,Non-VF,49249.55,0.0,49249.55,26399158.0,4,3
+724,SIDS,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,25451998.0,2,2
+725,SIDS,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,20919834.0,1,1
+726,SIDS,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,7554035.0,3,2
+727,SIDS,Beneficiary Category,Agriculture and Food System,Non-VF,100789.0,0.0,100789.0,4628000.0,5,2
+728,SIDS,Beneficiary Category,Health Services,Non-VF,970000.0,0.0,970000.0,6853266.0,2,2
+729,SIDS,Beneficiary Category,Education Services,Non-VF,14578.0,0.0,14578.0,6853266.0,2,2
+730,SIDS,Beneficiary Category,Electricity Access / Energy (MW added),Non-VF,0.0,0.0,0.0,4622265.0,1,1
+731,SIDS,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,4622265.0,1,1
+732,SIDS,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,12798211.0,3,2
+733,SIDS,Beneficiary Category,Energy Storage (MW),Non-VF,0.0,0.0,0.0,28210000.0,1,1
+734,SIDS,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,4812164.0,2,2
+735,SIDS,Beneficiary Category,Energy Infrastructure Services,Non-VF,5270.0,0.0,5270.0,2970297.0,1,1
+736,LDC,All,All,Total,38153372.681,21460339.494999997,16693033.186,1515371406.6899998,133,45
+737,LDC,Economy,Low income,Total,29377086.09,16389849.09,12987237.0,766969700.6899999,67,23
+738,LDC,Economy,Lower middle income,Total,4636779.091,1930982.905,2705796.1859999998,597639211.0,58,20
+739,LDC,Economy,Upper middle income,Total,4139507.5,3139507.5,1000000.0,150762495.0,8,2
+740,LDC,HDI,Low,Total,32998234.75,19266447.15,13731787.6,977132511.3000001,87,29
+741,LDC,HDI,Medium,Total,4693772.091,1732526.505,2961245.586,526310152.39,44,15
+742,LDC,Beneficiary Tier,Access to Energy,Total,21460339.494999997,21460339.494999997,0.0,1337830027.49,98,42
+743,LDC,Beneficiary Tier,Productive Use of Energy,Total,16693033.186,0.0,16693033.186,890652120.56,56,34
+744,LDC,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,75119730.0,18,16
+745,LDC,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,36905347.0,8,7
+746,LDC,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,101796693.0,24,17
+747,LDC,Beneficiary Tier,Other,Total,0.0,0.0,0.0,9152053.0,3,3
+748,LDC,Beneficiary Category,Electricity Access,Total,17397559.58,17397559.58,0.0,1179907780.35,70,37
+749,LDC,Beneficiary Category,nan,Total,0.0,0.0,0.0,381602300.0,19,15
+750,LDC,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,22158027.0,5,4
+751,LDC,Beneficiary Category,Agriculture and Food System,Total,361302.886,0.0,361302.886,60268122.71,14,11
+752,LDC,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,35270615.0,12,10
+753,LDC,Beneficiary Category,Energy (MW added),Total,1534895.775,1534895.775,0.0,181059257.14,39,26
+754,LDC,Beneficiary Category,Health Services,Total,10069103.0,0.0,10069103.0,748247514.8,23,19
+755,LDC,Beneficiary Category,Education Services,Total,214579.0,0.0,214579.0,673381172.0,15,15
+756,LDC,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,101796693.0,24,17
+757,LDC,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,52961703.0,13,13
+758,LDC,Beneficiary Category,Water Services,Total,5099026.3,0.0,5099026.3,726027598.0,14,12
+759,LDC,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,428386404.0,18,12
+760,LDC,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,20612764.0,6,5
+761,LDC,Beneficiary Category,Energy Infrastructure Services,Total,11438.0,0.0,11438.0,5393407.0,3,3
+762,LDC,Beneficiary Category,Clean Cooking,Total,2527884.14,2527884.14,0.0,118066119.0,25,21
+763,LDC,Beneficiary Category,Other Energy Services,Total,264442.0,0.0,264442.0,19621593.05,9,8
+764,LDC,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,4056000.0,2,2
+765,LDC,Beneficiary Category,Transportation and E-mobility Services,Total,673142.0,0.0,673142.0,30035044.0,6,4
+766,LDC,Beneficiary Category,Other,Total,0.0,0.0,0.0,9152053.0,3,3
+767,LDC,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,17640783.0,3,3
+768,LDC,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,1633915.35,2,2
+769,LDC,Beneficiary Category,Energy infrastructure services,Total,0.0,0.0,0.0,116275.0,1,1
+770,LDC,Beneficiary Category,Energy access,Total,0.0,0.0,0.0,200000.0,1,1
+771,LDC,Beneficiary Category,water services,Total,0.0,0.0,0.0,200000.0,1,1
+772,LDC,Beneficiary Category,Energy Access - disaster affected communities -,Total,0.0,0.0,0.0,-1.0,1,1
+773,LDC,Beneficiary Category,Energy Access,Total,0.0,0.0,0.0,-1.0,1,1
+774,LDC,Beneficiary Category,Energy Transition,Total,0.0,0.0,0.0,30892000.0,1,1
+775,LDC,All,All,VF,1406804.6,1327526.6,79278.0,138481291.0,36,22
+776,LDC,Economy,Low income,VF,510054.5,472605.5,37449.0,38236696.0,16,12
+777,LDC,Economy,Lower middle income,VF,722769.6,680940.6,41829.0,76206027.0,18,8
+778,LDC,Economy,Upper middle income,VF,173980.5,173980.5,0.0,24038568.0,2,2
+779,LDC,HDI,Medium,VF,691663.1,644898.1,46765.0,59899877.0,13,8
+780,LDC,HDI,Low,VF,648471.5,615958.5,32513.0,75305267.0,22,13
+781,LDC,Beneficiary Tier,Access to Energy,VF,1327526.6,1327526.6,0.0,108091606.0,32,22
+782,LDC,Beneficiary Tier,Productive Use of Energy,VF,79278.0,0.0,79278.0,34552831.0,7,7
+783,LDC,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,12483469.0,5,5
+784,LDC,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+785,LDC,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,31371511.0,9,8
+786,LDC,Beneficiary Tier,Other,VF,0.0,0.0,0.0,9152053.0,3,3
+787,LDC,Beneficiary Category,Agriculture and Food System,VF,10936.0,0.0,10936.0,6743399.0,2,2
+788,LDC,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,17643572.0,7,7
+789,LDC,Beneficiary Category,Energy (MW added),VF,616087.5,616087.5,0.0,57058106.0,14,12
+790,LDC,Beneficiary Category,Electricity Access,VF,516449.1,516449.1,0.0,44685552.0,20,15
+791,LDC,Beneficiary Category,nan,VF,0.0,0.0,0.0,16329572.0,5,5
+792,LDC,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,31371511.0,9,8
+793,LDC,Beneficiary Category,Water Services,VF,35529.0,0.0,35529.0,20345141.0,1,1
+794,LDC,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,22061810.0,5,4
+795,LDC,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,12483469.0,5,5
+796,LDC,Beneficiary Category,Health Services,VF,4523.0,0.0,4523.0,1824566.0,2,2
+797,LDC,Beneficiary Category,Clean Cooking,VF,194990.0,194990.0,0.0,36590421.0,8,7
+798,LDC,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+799,LDC,Beneficiary Category,Other Energy Services,VF,490.0,0.0,490.0,3564291.0,2,2
+800,LDC,Beneficiary Category,Transportation and E-mobility Services,VF,300.0,0.0,300.0,3000000.0,1,1
+801,LDC,Beneficiary Category,Other,VF,0.0,0.0,0.0,9152053.0,3,3
+802,LDC,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,1770000.0,1,1
+803,LDC,All,All,Non-VF,36216568.081,19602812.894999996,16613755.186,1322897601.34,89,39
+804,LDC,Economy,Low income,Non-VF,28867031.59,15917243.59,12949788.0,728252490.34,46,22
+805,LDC,Economy,Lower middle income,Non-VF,3384009.491,720042.3049999999,2663967.186,498813184.0,38,16
+806,LDC,Economy,Upper middle income,Non-VF,3965527.0,2965527.0,1000000.0,95831927.0,5,1
+807,LDC,HDI,Low,Non-VF,32349763.25,18650488.65,13699274.6,870454729.95,59,27
+808,LDC,HDI,Medium,Non-VF,3472108.991,557628.405,2914480.586,443790275.39,29,11
+809,LDC,Beneficiary Tier,Access to Energy,Non-VF,19602812.894999996,19602812.894999996,0.0,1206923621.49,63,33
+810,LDC,Beneficiary Tier,Productive Use of Energy,Non-VF,16613755.186,0.0,16613755.186,852479290.56,47,28
+811,LDC,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,62636261.0,13,11
+812,LDC,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,36905347.0,8,7
+813,LDC,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,70425182.0,15,10
+814,LDC,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,0.0,0,0
+815,LDC,Beneficiary Category,Electricity Access,Non-VF,16876110.48,16876110.48,0.0,1131407428.3500001,48,29
+816,LDC,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,365272729.0,11,8
+817,LDC,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,22158027.0,5,4
+818,LDC,Beneficiary Category,Health Services,Non-VF,10064580.0,0.0,10064580.0,746422949.8,20,17
+819,LDC,Beneficiary Category,Energy (MW added),Non-VF,393808.275,393808.275,0.0,105001151.14,24,16
+820,LDC,Beneficiary Category,Education Services,Non-VF,187079.0,0.0,187079.0,668836606.0,13,13
+821,LDC,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,70425182.0,15,10
+822,LDC,Beneficiary Category,Agriculture and Food System,Non-VF,350366.886,0.0,350366.886,53524723.71,12,9
+823,LDC,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,40478234.0,8,8
+824,LDC,Beneficiary Category,Water Services,Non-VF,5063497.3,0.0,5063497.3,705682457.0,13,11
+825,LDC,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,406324594.0,13,9
+826,LDC,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,20612764.0,6,5
+827,LDC,Beneficiary Category,Energy Infrastructure Services,Non-VF,11438.0,0.0,11438.0,5393407.0,3,3
+828,LDC,Beneficiary Category,Clean Cooking,Non-VF,2332894.14,2332894.14,0.0,81475698.0,17,14
+829,LDC,Beneficiary Category,Other Energy Services,Non-VF,263952.0,0.0,263952.0,16057302.05,7,6
+830,LDC,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,2286000.0,1,1
+831,LDC,Beneficiary Category,Transportation and E-mobility Services,Non-VF,672842.0,0.0,672842.0,27035044.0,5,4
+832,LDC,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,17640783.0,3,3
+833,LDC,Beneficiary Category,Energy infrastructure services,Non-VF,0.0,0.0,0.0,116275.0,1,1
+834,LDC,Beneficiary Category,Energy access,Non-VF,0.0,0.0,0.0,200000.0,1,1
+835,LDC,Beneficiary Category,water services,Non-VF,0.0,0.0,0.0,200000.0,1,1
+836,LDC,Beneficiary Category,Energy Access - disaster affected communities -,Non-VF,0.0,0.0,0.0,-1.0,1,1
+837,LDC,Beneficiary Category,Energy Access,Non-VF,0.0,0.0,0.0,-1.0,1,1
+838,LDC,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,17627043.0,5,3
+839,LDC,Beneficiary Category,Other energy services,Non-VF,0.0,0.0,0.0,1348200.0,1,1
+840,LLDC,All,All,Total,18781494.75,10500576.750000002,8280918.0,586806814.85,108,31
+841,LLDC,Economy,Low income,Total,10973190.05,5405036.050000001,5568154.0,135616254.64,41,12
+842,LLDC,Economy,Upper middle income,Total,5007976.0,3361057.0,1646919.0,318562653.0,39,9
+843,LLDC,Economy,Lower middle income,Total,2800328.7,1734483.7,1065845.0,132627907.21000001,28,10
+844,LLDC,HDI,Medium,Total,3593561.0,1728105.0,1865456.0,127744102.6,27,9
+845,LLDC,HDI,Low,Total,14230019.75,8474941.75,5755078.0,282929424.25,47,13
+846,LLDC,HDI,High,Total,573865.0,225280.0,348585.0,152619540.0,27,8
+847,LLDC,HDI,Very High,Total,384049.0,72250.0,311799.0,23513748.0,7,1
+848,LLDC,Beneficiary Tier,Access to Energy,Total,10500576.750000002,10500576.750000002,0.0,326271852.09,55,24
+849,LLDC,Beneficiary Tier,Productive Use of Energy,Total,8280918.0,0.0,8280918.0,163010624.72,35,24
+850,LLDC,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,157134899.75,12,9
+851,LLDC,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,69949272.75,11,9
+852,LLDC,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,133884693.75,25,16
+853,LLDC,Beneficiary Tier,Other,Total,0.0,0.0,0.0,45035998.0,5,3
+854,LLDC,Beneficiary Category,Agriculture and Food System,Total,12786.0,0.0,12786.0,11109790.71,8,7
+855,LLDC,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,77476499.0,6,5
+856,LLDC,Beneficiary Category,Energy (MW added),Total,2298266.25,2298266.25,0.0,160187987.74,25,19
+857,LLDC,Beneficiary Category,Health Services,Total,7371036.0,0.0,7371036.0,103094881.41,11,11
+858,LLDC,Beneficiary Category,nan,Total,0.0,0.0,0.0,83668902.0,16,13
+859,LLDC,Beneficiary Category,Electricity Access,Total,7596865.5,7596865.5,0.0,173943677.10000002,37,21
+860,LLDC,Beneficiary Category,Education Services,Total,42970.0,0.0,42970.0,10289338.0,6,6
+861,LLDC,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,133884693.75,25,16
+862,LLDC,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,127242669.0,7,6
+863,LLDC,Beneficiary Category,Transportation and E-mobility Services,Total,328199.0,0.0,328199.0,17176280.85,8,7
+864,LLDC,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,62488821.75,7,6
+865,LLDC,Beneficiary Category,Other Energy Services,Total,409680.0,0.0,409680.0,37003806.75,9,8
+866,LLDC,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,140117081.75,16,10
+867,LLDC,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,62257118.75,6,5
+868,LLDC,Beneficiary Category,Clean Cooking,Total,605445.0,605445.0,0.0,44497433.0,10,8
+869,LLDC,Beneficiary Category,Other,Total,0.0,0.0,0.0,45035998.0,5,3
+870,LLDC,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,94877781.0,6,5
+871,LLDC,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,118029420.75,3,3
+872,LLDC,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,99999.0,2,2
+873,LLDC,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,7460451.0,4,3
+874,LLDC,Beneficiary Category,Water Services,Total,2734.0,0.0,2734.0,2400000.0,1,1
+875,LLDC,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,285715.35,1,1
+876,LLDC,Beneficiary Category,Energy Infrastructure Services,Total,113513.0,0.0,113513.0,9257159.0,4,3
+877,LLDC,Beneficiary Category,Energy infrastructure services,Total,0.0,0.0,0.0,116275.0,1,1
+878,LLDC,Beneficiary Category,Energy Transition,Total,0.0,0.0,0.0,30892000.0,1,1
+879,LLDC,Beneficiary Category,"Households and Women, Policy and Regulatory Framework",Total,0.0,0.0,0.0,241888.0,1,1
+880,LLDC,All,All,VF,5016157.0,4653167.0,362990.0,162493069.75,26,18
+881,LLDC,Economy,Low income,VF,4410927.0,4373501.0,37426.0,88553715.0,11,8
+882,LLDC,Economy,Upper middle income,VF,482049.0,170250.0,311799.0,58111647.0,9,6
+883,LLDC,Economy,Lower middle income,VF,123181.0,109416.0,13765.0,15827707.75,6,4
+884,LLDC,HDI,Medium,VF,175027.0,169791.0,5236.0,10254229.75,6,5
+885,LLDC,HDI,Low,VF,4443616.0,4411126.0,32490.0,108588611.0,11,8
+886,LLDC,HDI,High,VF,13465.0,0.0,13465.0,29710229.0,6,4
+887,LLDC,HDI,Very High,VF,384049.0,72250.0,311799.0,13940000.0,3,1
+888,LLDC,Beneficiary Tier,Access to Energy,VF,4653167.0,4653167.0,0.0,120352840.75,17,14
+889,LLDC,Beneficiary Tier,Productive Use of Energy,VF,362990.0,0.0,362990.0,21279978.75,7,6
+890,LLDC,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,82563986.75,5,4
+891,LLDC,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,10051785.75,4,4
+892,LLDC,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,79356316.75,5,5
+893,LLDC,Beneficiary Tier,Other,VF,0.0,0.0,0.0,-2.0,2,1
+894,LLDC,Beneficiary Category,Agriculture and Food System,VF,4936.0,0.0,4936.0,1363947.0,1,1
+895,LLDC,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,74897751.0,4,3
+896,LLDC,Beneficiary Category,Energy (MW added),VF,600670.0,600670.0,0.0,33966395.75,8,8
+897,LLDC,Beneficiary Category,Electricity Access,VF,3898512.0000000005,3898512.0000000005,0.0,84094757.75,10,8
+898,LLDC,Beneficiary Category,nan,VF,0.0,0.0,0.0,15910249.0,5,5
+899,LLDC,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,79356316.75,5,5
+900,LLDC,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,85008081.75,8,6
+901,LLDC,Beneficiary Category,Other,VF,0.0,0.0,0.0,-2.0,2,1
+902,LLDC,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,76637680.0,2,2
+903,LLDC,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,78572246.0,3,3
+904,LLDC,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,73629420.75,2,2
+905,LLDC,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,-1.0,1,1
+906,LLDC,Beneficiary Category,Entrepreneurship Training,VF,0.0,0.0,0.0,-1.0,1,1
+907,LLDC,Beneficiary Category,Health Services,VF,4500.0,0.0,4500.0,924566.0,1,1
+908,LLDC,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+909,LLDC,Beneficiary Category,Other Energy Services,VF,610.0,0.0,610.0,7416306.75,3,3
+910,LLDC,Beneficiary Category,Transportation and E-mobility Services,VF,318099.0,0.0,318099.0,12499725.0,3,3
+911,LLDC,Beneficiary Category,Clean Cooking,VF,153985.0,153985.0,0.0,8217993.0,3,2
+912,LLDC,Beneficiary Category,Campaign Participant,VF,0.0,0.0,0.0,10051786.75,3,3
+913,LLDC,Beneficiary Category,Energy Infrastructure Services,VF,7345.0,0.0,7345.0,6000000.0,1,1
+914,LLDC,Beneficiary Category,Medium Enterprises,VF,0.0,0.0,0.0,3991740.75,2,2
+915,LLDC,All,All,Non-VF,13240337.75,5322409.75,7917928.0,373894142.75,75,28
+916,LLDC,Economy,Low income,Non-VF,6562263.05,1031535.05,5530728.0,46776825.29,26,12
+917,LLDC,Economy,Upper middle income,Non-VF,4525927.0,3190807.0,1335120.0,229559006.0,29,8
+918,LLDC,Economy,Lower middle income,Non-VF,2152147.7,1100067.7,1052080.0,97558311.46000001,20,8
+919,LLDC,HDI,Medium,Non-VF,2893534.0,1033314.0,1860220.0,98489872.85000001,20,8
+920,LLDC,HDI,Low,Non-VF,9786403.75,4063815.75,5722588.0,143163098.9,31,13
+921,LLDC,HDI,High,Non-VF,560400.0,225280.0,335120.0,122667423.0,20,6
+922,LLDC,HDI,Very High,Non-VF,0.0,0.0,0.0,9573748.0,4,1
+923,LLDC,Beneficiary Tier,Access to Energy,Non-VF,5322409.75,5322409.75,0.0,186919011.34,37,21
+924,LLDC,Beneficiary Tier,Productive Use of Energy,Non-VF,7917928.0,0.0,7917928.0,141730646.97,27,19
+925,LLDC,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,74570913.0,7,6
+926,LLDC,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,59897487.0,7,6
+927,LLDC,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,54528377.0,20,12
+928,LLDC,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,45036000.0,3,3
+929,LLDC,Beneficiary Category,Health Services,Non-VF,7366536.0,0.0,7366536.0,102170316.41,9,9
+930,LLDC,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,67758654.0,8,6
+931,LLDC,Beneficiary Category,Energy (MW added),Non-VF,1172596.25,1172596.25,0.0,107221591.99,16,12
+932,LLDC,Beneficiary Category,Electricity Access,Non-VF,3698353.5,3698353.5,0.0,89848919.35,27,17
+933,LLDC,Beneficiary Category,Education Services,Non-VF,15470.0,0.0,15470.0,9364772.0,5,5
+934,LLDC,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,54528377.0,20,12
+935,LLDC,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,50604989.0,5,4
+936,LLDC,Beneficiary Category,Transportation and E-mobility Services,Non-VF,10100.0,0.0,10100.0,4676555.85,5,5
+937,LLDC,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,52437035.0,4,3
+938,LLDC,Beneficiary Category,Other Energy Services,Non-VF,409070.0,0.0,409070.0,29587500.0,6,5
+939,LLDC,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,55109000.0,8,6
+940,LLDC,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,58265378.0,4,3
+941,LLDC,Beneficiary Category,Clean Cooking,Non-VF,451460.0,451460.0,0.0,36279440.0,7,6
+942,LLDC,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,45036000.0,3,3
+943,LLDC,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,7460452.0,3,3
+944,LLDC,Beneficiary Category,Water Services,Non-VF,2734.0,0.0,2734.0,2400000.0,1,1
+945,LLDC,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,16305535.0,3,3
+946,LLDC,Beneficiary Category,Agriculture and Food System,Non-VF,7850.0,0.0,7850.0,9745843.71,7,6
+947,LLDC,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,100000.0,1,1
+948,LLDC,Beneficiary Category,Energy infrastructure services,Non-VF,0.0,0.0,0.0,116275.0,1,1
+949,LLDC,Beneficiary Category,Market Intervention,Non-VF,0.0,0.0,0.0,44400000.0,1,1
+950,LLDC,Beneficiary Category,Energy Infrastructure Services,Non-VF,106168.0,0.0,106168.0,3257159.0,3,2
+951,LLDC,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,2578748.0,2,2
+952,Africa,All,All,Total,39082321.31,23457154.31,15625167.0,1494582758.812919,155,51
+953,Africa,Economy,Low income,Total,33203631.09,20216394.09,12987237.0,840513378.69,72,24
+954,Africa,Economy,Upper middle income,Total,1134949.52,938387.52,196562.0,84690055.0,15,6
+955,Africa,Economy,Lower middle income,Total,4743740.7,2302372.7,2441368.0,569379325.1229188,68,21
+956,Africa,HDI,Low,Total,32314384.95,19986304.95,12328080.0,867039992.962919,91,28
+957,Africa,HDI,Medium,Total,5005143.0,1729056.0,3276087.0,545615706.85,43,16
+958,Africa,HDI,High,Total,522505.52,522505.52,0.0,31655545.0,16,5
+959,Africa,HDI,Very High,Total,778922.0,757922.0,21000.0,38342771.0,3,1
+960,Africa,Beneficiary Tier,Access to Energy,Total,23457154.31,23457154.31,0.0,1327149665.3400002,96,44
+961,Africa,Beneficiary Tier,Productive Use of Energy,Total,15625167.0,0.0,15625167.0,777227726.6829189,51,30
+962,Africa,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,94474278.0,12,11
+963,Africa,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,30548936.0,10,8
+964,Africa,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,217062694.0,35,22
+965,Africa,Beneficiary Tier,Other,Total,0.0,0.0,0.0,4008600.0,4,2
+966,Africa,Beneficiary Category,Electricity Access,Total,18904084.86,18904084.86,0.0,1197047311.35,68,38
+967,Africa,Beneficiary Category,nan,Total,0.0,0.0,0.0,401237971.0,24,18
+968,Africa,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,8249716.0,3,3
+969,Africa,Beneficiary Category,Agriculture and Food System,Total,21536.0,0.0,21536.0,30848928.71,8,7
+970,Africa,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,148756050.0,12,10
+971,Africa,Beneficiary Category,Energy (MW added),Total,2171587.25,2171587.25,0.0,148282862.99,36,25
+972,Africa,Beneficiary Category,Health Services,Total,9075621.0,0.0,9075621.0,697570460.3141885,19,17
+973,Africa,Beneficiary Category,Education Services,Total,158128.0,0.0,158128.0,639451674.078534,12,11
+974,Africa,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,217062694.0,35,22
+975,Africa,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,83746427.0,6,6
+976,Africa,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,471366375.0,23,14
+977,Africa,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,90756726.0,10,10
+978,Africa,Beneficiary Category,Water Services,Total,5061277.0,0.0,5061277.0,650136172.8534031,9,8
+979,Africa,Beneficiary Category,Energy Infrastructure Services,Total,1102814.0,0.0,1102814.0,13562673.61475131,11,5
+980,Africa,Beneficiary Category,Clean Cooking,Total,2381482.2,2381482.2,0.0,85568619.0,18,15
+981,Africa,Beneficiary Category,Other,Total,0.0,0.0,0.0,4008600.0,4,2
+982,Africa,Beneficiary Category,Market Intervention,Total,0.0,0.0,0.0,73137680.0,1,1
+983,Africa,Beneficiary Category,Financing support,Total,0.0,0.0,0.0,99999.0,2,2
+984,Africa,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,10663814.0,5,4
+985,Africa,Beneficiary Category,Other Energy Services,Total,184710.0,0.0,184710.0,11085854.05,6,5
+986,Africa,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,19885122.0,5,4
+987,Africa,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,285715.35,1,1
+988,Africa,Beneficiary Category,Transportation and E-mobility Services,Total,21081.0,0.0,21081.0,5869929.85,3,3
+989,Africa,Beneficiary Category,Energy infrastructure services,Total,0.0,0.0,0.0,116275.0,1,1
+990,Africa,Beneficiary Category,Energy Storage (MW),Total,0.0,0.0,0.0,28210000.0,1,1
+991,Africa,Beneficiary Category,Energy access,Total,0.0,0.0,0.0,200000.0,1,1
+992,Africa,Beneficiary Category,water services,Total,0.0,0.0,0.0,200000.0,1,1
+993,Africa,Beneficiary Category,Energy Access - disaster affected communities -,Total,0.0,0.0,0.0,-1.0,1,1
+994,Africa,Beneficiary Category,Energy Access,Total,0.0,0.0,0.0,-1.0,1,1
+995,Africa,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Total,0.0,0.0,0.0,500000.0,1,1
+996,Africa,All,All,VF,6540696.0,5346131.0,1194565.0,245383183.0,47,28
+997,Africa,Economy,Low income,VF,4336599.5,4299150.5,37449.0,111374374.0,19,13
+998,Africa,Economy,Upper middle income,VF,338792.0,163230.0,175562.0,40849518.0,6,4
+999,Africa,Economy,Lower middle income,VF,1865304.5,883750.5,981554.0,93159291.0,22,11
+1000,Africa,HDI,Medium,VF,1571279.5,409227.5,1162052.0,91496510.0,16,10
+1001,Africa,HDI,Low,VF,4429516.5,4397003.5,32513.0,127044102.0,24,13
+1002,Africa,HDI,High,VF,473230.0,473230.0,0.0,23566424.0,6,4
+1003,Africa,Beneficiary Tier,Access to Energy,VF,5346131.0,5346131.0,0.0,173930699.0,38,25
+1004,Africa,Beneficiary Tier,Productive Use of Energy,VF,1194565.0,0.0,1194565.0,60589547.0,7,6
+1005,Africa,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,74962246.0,3,3
+1006,Africa,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,-1.0,1,1
+1007,Africa,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,104620697.0,11,10
+1008,Africa,Beneficiary Tier,Other,VF,0.0,0.0,0.0,3872600.0,3,2
+1009,Africa,Beneficiary Category,Agriculture and Food System,VF,4936.0,0.0,4936.0,1363947.0,1,1
+1010,Africa,Beneficiary Category,GHG Emissions Reduction,VF,0.0,0.0,0.0,94056050.0,9,7
+1011,Africa,Beneficiary Category,Energy (MW added),VF,842240.0,842240.0,0.0,45352177.0,16,13
+1012,Africa,Beneficiary Category,Electricity Access,VF,4381866.0,4381866.0,0.0,119668646.0,25,18
+1013,Africa,Beneficiary Category,nan,VF,0.0,0.0,0.0,6517574.0,4,4
+1014,Africa,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,79907680.0,3,3
+1015,Africa,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,104620697.0,11,10
+1016,Africa,Beneficiary Category,Water Services,VF,52704.0,0.0,52704.0,22984867.0,2,2
+1017,Africa,Beneficiary Category,Capacity Building Training,VF,0.0,0.0,0.0,90972610.0,8,5
+1018,Africa,Beneficiary Category,Other,VF,0.0,0.0,0.0,3872600.0,3,2
+1019,Africa,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,74962246.0,3,3
+1020,Africa,Beneficiary Category,Market Intervention,VF,0.0,0.0,0.0,73137680.0,1,1
+1021,Africa,Beneficiary Category,Financing support,VF,0.0,0.0,0.0,-1.0,1,1
+1022,Africa,Beneficiary Category,Entrepreneurship Training,VF,0.0,0.0,0.0,-1.0,1,1
+1023,Africa,Beneficiary Category,Energy Infrastructure Services,VF,928850.0,0.0,928850.0,9416167.0,1,1
+1024,Africa,Beneficiary Category,Health Services,VF,180085.0,0.0,180085.0,26824566.0,3,3
+1025,Africa,Beneficiary Category,Clean Cooking,VF,122025.0,122025.0,0.0,29307969.0,6,5
+1026,Africa,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+1027,Africa,Beneficiary Category,Other Energy Services,VF,490.0,0.0,490.0,924566.0,1,1
+1028,Africa,All,All,Non-VF,32536625.31,18106023.31,14430602.0,1245099061.4629188,102,45
+1029,Africa,Economy,Low income,Non-VF,28867031.59,15917243.59,12949788.0,728658490.3399999,48,23
+1030,Africa,Economy,Upper middle income,Non-VF,796157.52,775157.52,21000.0,43840537.0,9,5
+1031,Africa,Economy,Lower middle income,Non-VF,2873436.2,1413622.2,1459814.0,472600034.12291884,45,17
+1032,Africa,HDI,Low,Non-VF,27884868.45,15589301.45,12295567.0,739515376.6129189,62,26
+1033,Africa,HDI,Medium,Non-VF,3428863.5,1314828.5,2114035.0,450499196.85,26,12
+1034,Africa,HDI,High,Non-VF,49275.520000000004,49275.520000000004,0.0,8089121.0,10,5
+1035,Africa,HDI,Very High,Non-VF,778922.0,757922.0,21000.0,38342771.0,3,1
+1036,Africa,Beneficiary Tier,Access to Energy,Non-VF,18106023.31,18106023.31,0.0,1149404166.3400002,56,34
+1037,Africa,Beneficiary Tier,Productive Use of Energy,Non-VF,14430602.0,0.0,14430602.0,713018180.6829189,42,24
+1038,Africa,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,19512032.0,9,8
+1039,Africa,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,30548937.0,9,8
+1040,Africa,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,112441997.0,24,15
+1041,Africa,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,136000.0,1,1
+1042,Africa,Beneficiary Category,Electricity Access,Non-VF,14517218.86,14517218.86,0.0,1073563865.35,41,28
+1043,Africa,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,394720398.0,17,13
+1044,Africa,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,8249716.0,3,3
+1045,Africa,Beneficiary Category,Health Services,Non-VF,8895536.0,0.0,8895536.0,670745895.3141885,15,14
+1046,Africa,Beneficiary Category,Energy (MW added),Non-VF,1329347.25,1329347.25,0.0,102930685.99,20,15
+1047,Africa,Beneficiary Category,Education Services,Non-VF,130628.0,0.0,130628.0,634907108.078534,10,9
+1048,Africa,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,112441997.0,24,15
+1049,Africa,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,380393765.0,15,10
+1050,Africa,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,15794480.0,7,7
+1051,Africa,Beneficiary Category,Energy Infrastructure Services,Non-VF,173964.0,0.0,173964.0,4146506.614751309,10,4
+1052,Africa,Beneficiary Category,Clean Cooking,Non-VF,2259457.2,2259457.2,0.0,56260650.0,12,10
+1053,Africa,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,3838747.0,3,3
+1054,Africa,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,136000.0,1,1
+1055,Africa,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,10663815.0,4,4
+1056,Africa,Beneficiary Category,Agriculture and Food System,Non-VF,16600.0,0.0,16600.0,29484981.71,7,6
+1057,Africa,Beneficiary Category,Other Energy Services,Non-VF,184220.0,0.0,184220.0,10161288.05,5,4
+1058,Africa,Beneficiary Category,Water Services,Non-VF,5008573.0,0.0,5008573.0,627151305.8534031,7,6
+1059,Africa,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,19885122.0,5,4
+1060,Africa,Beneficiary Category,Transportation and E-mobility Services,Non-VF,21081.0,0.0,21081.0,5869929.85,3,3
+1061,Africa,Beneficiary Category,Financing support,Non-VF,0.0,0.0,0.0,100000.0,1,1
+1062,Africa,Beneficiary Category,Energy infrastructure services,Non-VF,0.0,0.0,0.0,116275.0,1,1
+1063,Africa,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,54700000.0,3,3
+1064,Africa,Beneficiary Category,Energy Storage (MW),Non-VF,0.0,0.0,0.0,28210000.0,1,1
+1065,Africa,Beneficiary Category,Energy access,Non-VF,0.0,0.0,0.0,200000.0,1,1
+1066,Africa,Beneficiary Category,water services,Non-VF,0.0,0.0,0.0,200000.0,1,1
+1067,Africa,Beneficiary Category,Energy Access - disaster affected communities -,Non-VF,0.0,0.0,0.0,-1.0,1,1
+1068,Africa,Beneficiary Category,Energy Access,Non-VF,0.0,0.0,0.0,-1.0,1,1
+1069,Africa,Beneficiary Category,"Artisanal Palm Oil Producers
+General Public
+Electric Vehicle Businesses",Non-VF,0.0,0.0,0.0,500000.0,1,1
+1070,Sahel,All,All,Total,1567886.25,1139929.25,427957.0,373400032.6629188,32,10
+1071,Sahel,Economy,Lower middle income,Total,482928.5,304009.5,178919.0,331937883.6629188,17,4
+1072,Sahel,Economy,Low income,Total,1084957.75,835919.75,249038.0,41462149.0,15,6
+1073,Sahel,HDI,Low,Total,1238876.75,835919.75,402957.0,42441938.66291885,27,8
+1074,Sahel,HDI,Medium,Total,329009.5,304009.5,25000.0,330958094.0,5,2
+1075,Sahel,Beneficiary Tier,Access to Energy,Total,1139929.25,1139929.25,0.0,366169149.0,16,8
+1076,Sahel,Beneficiary Tier,Productive Use of Energy,Total,427957.0,0.0,427957.0,18946364.662918847,19,7
+1077,Sahel,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,924566.0,1,1
+1078,Sahel,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,1779255.0,2,2
+1079,Sahel,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,16802211.0,5,4
+1080,Sahel,Beneficiary Tier,Other,Total,0.0,0.0,0.0,0.0,0,0
+1081,Sahel,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,16802211.0,5,4
+1082,Sahel,Beneficiary Category,Electricity Access,Total,765353.5,765353.5,0.0,355791875.0,12,7
+1083,Sahel,Beneficiary Category,Energy Infrastructure Services,Total,173964.0,0.0,173964.0,4146506.614751309,10,4
+1084,Sahel,Beneficiary Category,Energy (MW added),Total,21344.75,21344.75,0.0,12016575.0,6,6
+1085,Sahel,Beneficiary Category,Water Services,Total,8573.0,0.0,8573.0,7046806.853403142,4,3
+1086,Sahel,Beneficiary Category,Health Services,Total,31960.0,0.0,31960.0,12657097.904188482,4,4
+1087,Sahel,Beneficiary Category,Education Services,Total,28450.0,0.0,28450.0,6565150.078534031,4,3
+1088,Sahel,Beneficiary Category,Clean Cooking,Total,353231.0,353231.0,0.0,19361020.0,5,4
+1089,Sahel,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,924566.0,1,1
+1090,Sahel,Beneficiary Category,Other Energy Services,Total,184360.0,0.0,184360.0,8704566.0,3,2
+1091,Sahel,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,338266839.0,5,3
+1092,Sahel,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,1779255.0,2,2
+1093,Sahel,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,16839.0,1,1
+1094,Sahel,Beneficiary Category,Agriculture and Food System,Total,650.0,0.0,650.0,1945000.0,2,2
+1095,Sahel,Beneficiary Category,nan,Total,0.0,0.0,0.0,339768746.0,3,2
+1096,Sahel,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,1780000.0,1,1
+1097,Sahel,All,All,VF,64088.0,31598.0,32490.0,9986216.0,3,3
+1098,Sahel,Economy,Low income,VF,64088.0,31598.0,32490.0,9986216.0,3,3
+1099,Sahel,HDI,Low,VF,64088.0,31598.0,32490.0,9986216.0,3,3
+1100,Sahel,Beneficiary Tier,Access to Energy,VF,31598.0,31598.0,0.0,9986216.0,3,3
+1101,Sahel,Beneficiary Tier,Productive Use of Energy,VF,32490.0,0.0,32490.0,924566.0,1,1
+1102,Sahel,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,924566.0,1,1
+1103,Sahel,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+1104,Sahel,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,924566.0,1,1
+1105,Sahel,Beneficiary Tier,Other,VF,0.0,0.0,0.0,0.0,0,0
+1106,Sahel,Beneficiary Category,Clean Cooking,VF,5500.0,5500.0,0.0,7460274.0,1,1
+1107,Sahel,Beneficiary Category,Electricity Access,VF,19098.0,19098.0,0.0,2525942.0,2,2
+1108,Sahel,Beneficiary Category,Energy (MW added),VF,7000.0,7000.0,0.0,924566.0,1,1
+1109,Sahel,Beneficiary Category,Health Services,VF,4500.0,0.0,4500.0,924566.0,1,1
+1110,Sahel,Beneficiary Category,Education Services,VF,27500.0,0.0,27500.0,924566.0,1,1
+1111,Sahel,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,924566.0,1,1
+1112,Sahel,Beneficiary Category,Other Energy Services,VF,490.0,0.0,490.0,924566.0,1,1
+1113,Sahel,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,924566.0,1,1
+1114,Sahel,All,All,Non-VF,1503798.25,1108331.25,395467.0,363413816.66291887,29,10
+1115,Sahel,Economy,Lower middle income,Non-VF,482928.5,304009.5,178919.0,331937883.6629188,17,4
+1116,Sahel,Economy,Low income,Non-VF,1020869.75,804321.75,216548.0,31475933.0,12,6
+1117,Sahel,HDI,Low,Non-VF,1174788.75,804321.75,370467.0,32455722.662918847,24,8
+1118,Sahel,HDI,Medium,Non-VF,329009.5,304009.5,25000.0,330958094.0,5,2
+1119,Sahel,Beneficiary Tier,Access to Energy,Non-VF,1108331.25,1108331.25,0.0,356182933.0,13,8
+1120,Sahel,Beneficiary Tier,Productive Use of Energy,Non-VF,395467.0,0.0,395467.0,18021798.662918847,18,6
+1121,Sahel,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,0.0,0,0
+1122,Sahel,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,1779255.0,2,2
+1123,Sahel,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,15877645.0,4,3
+1124,Sahel,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,0.0,0,0
+1125,Sahel,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,15877645.0,4,3
+1126,Sahel,Beneficiary Category,Electricity Access,Non-VF,746255.5,746255.5,0.0,353265933.0,10,7
+1127,Sahel,Beneficiary Category,Energy Infrastructure Services,Non-VF,173964.0,0.0,173964.0,4146506.614751309,10,4
+1128,Sahel,Beneficiary Category,Energy (MW added),Non-VF,14344.75,14344.75,0.0,11092009.0,5,5
+1129,Sahel,Beneficiary Category,Water Services,Non-VF,8573.0,0.0,8573.0,7046806.853403142,4,3
+1130,Sahel,Beneficiary Category,Health Services,Non-VF,27460.0,0.0,27460.0,11732531.904188482,3,3
+1131,Sahel,Beneficiary Category,Education Services,Non-VF,950.0,0.0,950.0,5640584.078534031,3,2
+1132,Sahel,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,338266839.0,5,3
+1133,Sahel,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,1779255.0,2,2
+1134,Sahel,Beneficiary Category,Energy Efficiency Services,Non-VF,0.0,0.0,0.0,16839.0,1,1
+1135,Sahel,Beneficiary Category,Clean Cooking,Non-VF,347731.0,347731.0,0.0,11900746.0,4,3
+1136,Sahel,Beneficiary Category,Agriculture and Food System,Non-VF,650.0,0.0,650.0,1945000.0,2,2
+1137,Sahel,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,339768746.0,3,2
+1138,Sahel,Beneficiary Category,Other Energy Services,Non-VF,183870.0,0.0,183870.0,7780000.0,2,1
+1139,Sahel,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,1780000.0,1,1
+1140,Crisis,All,All,Total,42868854.97,30436215.17,12432639.8,2418484831.712,43,12
+1141,Crisis,Economy,Lower middle income,Total,12485733.629999999,10662363.83,1823369.7999999998,157094104.812,14,4
+1142,Crisis,Economy,Low income,Total,26372094.34,16762824.34,9609270.0,2113267956.9,22,7
+1143,Crisis,Economy,Upper middle income,Total,4011027.0,3011027.0,1000000.0,148122770.0,7,1
+1144,Crisis,HDI,Low,Total,27895693.299999997,17046283.7,10849409.6,840664518.9,28,6
+1145,Crisis,HDI,Medium,Total,2904619.48,2324841.88,579777.6,1445535163.0,6,3
+1146,Crisis,HDI,High,Total,11607176.35,10603723.75,1003452.6,120356406.812,7,2
+1147,Crisis,Beneficiary Tier,Access to Energy,Total,30436215.17,30436215.17,0.0,2310409902.912,36,12
+1148,Crisis,Beneficiary Tier,Productive Use of Energy,Total,12432639.8,0.0,12432639.8,770759804.322,18,9
+1149,Crisis,Beneficiary Tier,Market Development,Total,0.0,0.0,0.0,27763823.0,4,4
+1150,Crisis,Beneficiary Tier,Capacity Building,Total,0.0,0.0,0.0,40790512.0,4,3
+1151,Crisis,Beneficiary Tier,Policy and Regulator Frameworks,Total,0.0,0.0,0.0,55786629.0,4,3
+1152,Crisis,Beneficiary Tier,Other,Total,0.0,0.0,0.0,64600000.0,1,1
+1153,Crisis,Beneficiary Category,Electricity Access,Total,24571019.979999997,24571019.979999997,0.0,855412009.35,27,11
+1154,Crisis,Beneficiary Category,Agriculture and Food System,Total,326168.2,0.0,326168.2,69983297.71000001,7,4
+1155,Crisis,Beneficiary Category,Education Services,Total,149229.6,0.0,149229.6,648402439.0,5,4
+1156,Crisis,Beneficiary Category,Small Enterprises,Total,0.0,0.0,0.0,26509943.0,3,3
+1157,Crisis,Beneficiary Category,Water Services,Total,5032211.0,0.0,5032211.0,684917985.0,7,6
+1158,Crisis,Beneficiary Category,Health Services,Total,5690023.0,0.0,5690023.0,715910042.8,8,5
+1159,Crisis,Beneficiary Category,Capacity Building Training,Total,0.0,0.0,0.0,61860703.0,3,3
+1160,Crisis,Beneficiary Category,Energy (MW added),Total,3938905.25,3938905.25,0.0,1546951402.562,15,10
+1161,Crisis,Beneficiary Category,Entrepreneurship Training,Total,0.0,0.0,0.0,40790512.0,4,3
+1162,Crisis,Beneficiary Category,Energy Efficiency Services,Total,0.0,0.0,0.0,7250000.0,2,2
+1163,Crisis,Beneficiary Category,Health services,Total,0.0,0.0,0.0,64600000.0,1,1
+1164,Crisis,Beneficiary Category,Other,Total,0.0,0.0,0.0,64600000.0,1,1
+1165,Crisis,Beneficiary Category,Energy Infrastructure Services,Total,1235008.0,0.0,1235008.0,43264169.812,2,2
+1166,Crisis,Beneficiary Category,Policy or Regulatory Framework,Total,0.0,0.0,0.0,55786629.0,4,3
+1167,Crisis,Beneficiary Category,Clean Cooking,Total,1926289.94,1926289.94,0.0,38612596.0,5,4
+1168,Crisis,Beneficiary Category,Energy access,Total,0.0,0.0,0.0,200000.0,1,1
+1169,Crisis,Beneficiary Category,water services,Total,0.0,0.0,0.0,200000.0,1,1
+1170,Crisis,Beneficiary Category,nan,Total,0.0,0.0,0.0,39199091.0,3,3
+1171,Crisis,Beneficiary Category,Capacity Training,Total,0.0,0.0,0.0,36250760.0,1,1
+1172,Crisis,Beneficiary Category,Medium Enterprises,Total,0.0,0.0,0.0,1253880.0,1,1
+1173,Crisis,Beneficiary Category,Energy Transition,Total,0.0,0.0,0.0,30892000.0,1,1
+1174,Crisis,Beneficiary Category,GHG Emissions Reduction,Total,0.0,0.0,0.0,4934228.0,1,1
+1175,Crisis,Beneficiary Category,Other energy services,Total,0.0,0.0,0.0,1348200.0,1,1
+1176,Crisis,Beneficiary Category,Campaign Participant,Total,0.0,0.0,0.0,1348200.0,1,1
+1177,Crisis,All,All,VF,338742.5,338719.5,23.0,41971526.0,9,6
+1178,Crisis,Economy,Low income,VF,293242.5,293219.5,23.0,15092683.0,7,4
+1179,Crisis,Economy,Lower middle income,VF,0.0,0.0,0.0,5480000.0,1,1
+1180,Crisis,Economy,Upper middle income,VF,45500.0,45500.0,0.0,21398843.0,1,1
+1181,Crisis,HDI,Low,VF,272072.5,272049.5,23.0,33215379.0,7,4
+1182,Crisis,HDI,High,VF,0.0,0.0,0.0,5480000.0,1,1
+1183,Crisis,Beneficiary Tier,Access to Energy,VF,338719.5,338719.5,0.0,34721526.0,7,5
+1184,Crisis,Beneficiary Tier,Productive Use of Energy,VF,23.0,0.0,23.0,900000.0,1,1
+1185,Crisis,Beneficiary Tier,Market Development,VF,0.0,0.0,0.0,900000.0,1,1
+1186,Crisis,Beneficiary Tier,Capacity Building,VF,0.0,0.0,0.0,0.0,0,0
+1187,Crisis,Beneficiary Tier,Policy and Regulator Frameworks,VF,0.0,0.0,0.0,3187669.0,1,1
+1188,Crisis,Beneficiary Tier,Other,VF,0.0,0.0,0.0,0.0,0,0
+1189,Crisis,Beneficiary Category,Energy (MW added),VF,124512.5,124512.5,0.0,28131512.0,4,3
+1190,Crisis,Beneficiary Category,Energy Efficiency Services,VF,0.0,0.0,0.0,7250000.0,2,2
+1191,Crisis,Beneficiary Category,Electricity Access,VF,214207.0,214207.0,0.0,7490014.0,4,3
+1192,Crisis,Beneficiary Category,Small Enterprises,VF,0.0,0.0,0.0,900000.0,1,1
+1193,Crisis,Beneficiary Category,Health Services,VF,23.0,0.0,23.0,900000.0,1,1
+1194,Crisis,Beneficiary Category,Policy or Regulatory Framework,VF,0.0,0.0,0.0,3187669.0,1,1
+1195,Crisis,All,All,Non-VF,42530112.47,30097495.67,12432616.8,2345621305.712,33,12
+1196,Crisis,Economy,Lower middle income,Non-VF,12485733.629999999,10662363.83,1823369.7999999998,151614104.812,13,4
+1197,Crisis,Economy,Low income,Non-VF,26078851.84,16469604.84,9609247.0,2098175273.8999999,15,7
+1198,Crisis,Economy,Upper middle income,Non-VF,3965527.0,2965527.0,1000000.0,95831927.0,5,1
+1199,Crisis,HDI,Low,Non-VF,27623620.799999997,16774234.2,10849386.6,776557139.9,20,6
+1200,Crisis,HDI,Medium,Non-VF,2904619.48,2324841.88,579777.6,1445535163.0,6,3
+1201,Crisis,HDI,High,Non-VF,11607176.35,10603723.75,1003452.6,114876406.812,6,2
+1202,Crisis,Beneficiary Tier,Access to Energy,Non-VF,30097495.67,30097495.67,0.0,2275688376.912,29,12
+1203,Crisis,Beneficiary Tier,Productive Use of Energy,Non-VF,12432616.8,0.0,12432616.8,769859804.322,17,9
+1204,Crisis,Beneficiary Tier,Market Development,Non-VF,0.0,0.0,0.0,26863823.0,3,3
+1205,Crisis,Beneficiary Tier,Capacity Building,Non-VF,0.0,0.0,0.0,40790512.0,4,3
+1206,Crisis,Beneficiary Tier,Policy and Regulator Frameworks,Non-VF,0.0,0.0,0.0,52598960.0,3,3
+1207,Crisis,Beneficiary Tier,Other,Non-VF,0.0,0.0,0.0,64600000.0,1,1
+1208,Crisis,Beneficiary Category,Electricity Access,Non-VF,24356812.98,24356812.98,0.0,847921995.35,23,11
+1209,Crisis,Beneficiary Category,Agriculture and Food System,Non-VF,326168.2,0.0,326168.2,69983297.71000001,7,4
+1210,Crisis,Beneficiary Category,Education Services,Non-VF,149229.6,0.0,149229.6,648402439.0,5,4
+1211,Crisis,Beneficiary Category,Small Enterprises,Non-VF,0.0,0.0,0.0,25609943.0,2,2
+1212,Crisis,Beneficiary Category,Water Services,Non-VF,5032211.0,0.0,5032211.0,684917985.0,7,6
+1213,Crisis,Beneficiary Category,Health Services,Non-VF,5690000.0,0.0,5690000.0,715010042.8,7,5
+1214,Crisis,Beneficiary Category,Capacity Building Training,Non-VF,0.0,0.0,0.0,61860703.0,3,3
+1215,Crisis,Beneficiary Category,Energy (MW added),Non-VF,3814392.75,3814392.75,0.0,1518819890.562,11,7
+1216,Crisis,Beneficiary Category,Entrepreneurship Training,Non-VF,0.0,0.0,0.0,40790512.0,4,3
+1217,Crisis,Beneficiary Category,Health services,Non-VF,0.0,0.0,0.0,64600000.0,1,1
+1218,Crisis,Beneficiary Category,Other,Non-VF,0.0,0.0,0.0,64600000.0,1,1
+1219,Crisis,Beneficiary Category,Energy Infrastructure Services,Non-VF,1235008.0,0.0,1235008.0,43264169.812,2,2
+1220,Crisis,Beneficiary Category,Policy or Regulatory Framework,Non-VF,0.0,0.0,0.0,52598960.0,3,3
+1221,Crisis,Beneficiary Category,Clean Cooking,Non-VF,1926289.94,1926289.94,0.0,38612596.0,5,4
+1222,Crisis,Beneficiary Category,Energy access,Non-VF,0.0,0.0,0.0,200000.0,1,1
+1223,Crisis,Beneficiary Category,water services,Non-VF,0.0,0.0,0.0,200000.0,1,1
+1224,Crisis,Beneficiary Category,nan,Non-VF,0.0,0.0,0.0,39199091.0,3,3
+1225,Crisis,Beneficiary Category,Capacity Training,Non-VF,0.0,0.0,0.0,36250760.0,1,1
+1226,Crisis,Beneficiary Category,Medium Enterprises,Non-VF,0.0,0.0,0.0,1253880.0,1,1
+1227,Crisis,Beneficiary Category,GHG Emissions Reduction,Non-VF,0.0,0.0,0.0,4934228.0,1,1
+1228,Crisis,Beneficiary Category,Other energy services,Non-VF,0.0,0.0,0.0,1348200.0,1,1
+1229,Crisis,Beneficiary Category,Campaign Participant,Non-VF,0.0,0.0,0.0,1348200.0,1,1

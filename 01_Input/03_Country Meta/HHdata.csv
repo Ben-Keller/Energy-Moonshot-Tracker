@@ -541,8 +541,8 @@ Kyrgyzstan,4.66,DYB,1/7/09
 Kyrgyzstan,4.82,MICS,1/7/05
 Kyrgyzstan,4.41,IPUMS,1/7/99
 Kyrgyzstan,4.65,DHS,28/09/1997
-Kosovo (under UNSC res. 1244),4.9,MICS,1/7/19
-Kosovo (under UNSC res. 1244),5.43,MICS,1/7/13
+Kosovo,4.9,MICS,1/7/19
+Kosovo,5.43,MICS,1/7/13
 Kiribati,5.9,MICS,1/7/18
 Kenya,3.75,DHS,1/12/20
 Kenya,..,DYB,1/7/19
@@ -1057,4 +1057,3 @@ Albania,4,MICS,1/7/05
 Albania,4.35,MICS,1/7/00
 Afghanistan,8.04,DHS,19/10/2015
 Afghanistan,7.75,MICS,1/7/10
-,,,
