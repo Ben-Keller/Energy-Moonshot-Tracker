@@ -35,7 +35,7 @@ Cote d'Ivoire,CIV,RBA,Lower middle income,,,,Medium,CO Update-3
 Cuba,CUB,RBLAC,Upper middle income,,SIDS,,High,Clean Up-2
 Cyprus,CYP,RBEC,High income,,,,Very High,Done
 Dem. Rep. of the Congo,COD,RBA,Low income,LDC,,,Low,Clean Up
-Djibouti,DJI,RBA,Lower middle income,LDC,,,Low,Clean Up
+Djibouti,DJI,RBAS,Lower middle income,LDC,,,Low,Clean Up
 Dominican Republic,DOM,RBLAC,Upper middle income,,SIDS,,High,Clean Up-2
 Ecuador,ECU,RBLAC,Upper middle income,,,,High,Clean Up
 Egypt,EGY,RBAS,Lower middle income,,,,High,Updated-2
@@ -64,7 +64,7 @@ Jordan,JOR,RBAS,Upper middle income,,,,High,Clean Up
 Kazakhstan,KAZ,RBEC,Upper middle income,,,LLDC,Very High,Clean Up
 Kenya,KEN,RBA,Lower middle income,,,,Medium,Clean Up
 "Korea, DPR",KOR,RBAP,High income,,,,,Assumed no projects
-Kosovo,XXK,RBEC,Upper middle income,,,,,Clean Up
+Kosovo,XKX,RBEC,Upper middle income,,,,,Clean Up
 Kuwait,KWT,RBAS,High income,,,,Very High,Assumed no projects
 Kyrgyzstan,KGZ,RBEC,Lower middle income,,,,Medium,Assumed no projects
 Lao PDR,LAO,RBAP,Lower middle income,LDC,,LLDC,Medium,Clean Up-2
