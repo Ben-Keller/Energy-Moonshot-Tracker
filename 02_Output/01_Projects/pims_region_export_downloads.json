@@ -1,0 +1,48 @@
+[
+  {
+    "label": "Global",
+    "found": {
+      "path": "/Users/ben/Downloads/simple_projects_export_2026-08-10_22-01-21.xlsx"
+    }
+  },
+  {
+    "label": "RBA",
+    "found": {
+      "path": "/Users/ben/Downloads/simple_projects_export_2026-08-10_22-05-34.xlsx"
+    }
+  },
+  {
+    "label": "RBAS",
+    "summary": "Showing 1-100 of 438 items.",
+    "unchecked": [],
+    "found": {
+      "name": "simple_projects_export_2026-08-10_22-06-47.xlsx",
+      "path": "/Users/ben/Downloads/simple_projects_export_2026-08-10_22-06-47.xlsx",
+      "mtimeMs": 1786399616434.823,
+      "size": 74597
+    }
+  },
+  {
+    "label": "RBAP",
+    "summary": "Showing 1-100 of 1,283 items.",
+    "unchecked": [],
+    "found": null
+  },
+  {
+    "label": "RBEC",
+    "summary": "Showing 1-100 of 868 items.",
+    "unchecked": [],
+    "found": null
+  },
+  {
+    "label": "RBLAC",
+    "summary": "Showing 1-100 of 1,081 items.",
+    "unchecked": [],
+    "found": {
+      "name": "simple_projects_export_2026-08-10_22-12-08.xlsx",
+      "path": "/Users/ben/Downloads/simple_projects_export_2026-08-10_22-12-08.xlsx",
+      "mtimeMs": 1786399948055.3967,
+      "size": 169366
+    }
+  }
+]

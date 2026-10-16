@@ -16,12 +16,13 @@ from pathlib import Path
 from typing import Iterable
 
 import openpyxl
+from openpyxl.comments import Comment
 from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.styles import Alignment, Font, PatternFill
 
 
-DEFAULT_INPUT_DIR = Path("01_Input/00_CO Validation")
-DEFAULT_OUTPUT_DIR = Path("01_Input/co validation updated")
+DEFAULT_INPUT_DIR = Path("01_Input/00_CO Validation - raw")
+DEFAULT_OUTPUT_DIR = Path("01_Input/00_CO Validation")
 
 PROJECT_INFO_HEADERS_AFTER_BUDGET = ["Start Year", "End Year", "Status", "VF or Non-VF"]
 PROJECT_INFO_HEADERS = [
@@ -307,6 +308,13 @@ def copy_column_style(ws, source_col: int, target_col: int) -> None:
             target.alignment = copy.copy(source.alignment)
 
 
+def unmerge_sheet_cells(ws) -> int:
+    merged_ranges = list(ws.merged_cells.ranges)
+    for merged_range in merged_ranges:
+        ws.unmerge_cells(str(merged_range))
+    return len(merged_ranges)
+
+
 def ensure_project_info_columns(ws, header_row: int) -> list[str]:
     headers = normalized_header_map(ws, header_row)
     budget_col = budget_col_from_headers(headers)
@@ -522,6 +530,12 @@ def fill_cells(ws, row: int, cols: Iterable[int], fill: PatternFill) -> None:
             ws.cell(row, col).fill = copy.copy(fill)
 
 
+def add_cell_comments(ws, row: int, cols: Iterable[int], text: str) -> None:
+    for col in cols:
+        if col is not None:
+            ws.cell(row, col).comment = Comment(text, "CO validation update")
+
+
 def highlight_project_date_status_cells(ws, header_row: int) -> int:
     headers = normalized_header_map(ws, header_row)
     project_col = headers.get("Project ID")
@@ -635,6 +649,18 @@ def add_or_mark_mw_rows(ws, header_row: int) -> tuple[int, int]:
     indicator_col = headers.get("Indicator") or headers.get("Objective Indicator")
     baseline_col = headers.get("Baseline")
     reported_cols = reported_number_columns(headers)
+    project_info_cols = [
+        headers[header]
+        for header in PROJECT_INFO_HEADERS
+        if header in headers
+    ]
+    metadata_cols = [
+        col
+        for header in ("Notes", "Comments", "Comment", "Donor", "Donors", "Gender (% female)")
+        if (col := headers.get(header)) is not None
+    ]
+    placeholder_blank_cols = sorted(set([*project_info_cols, *metadata_cols]))
+    mw_issue_cols = [col for col in (baseline_col, target_col) if col is not None]
 
     groups_to_add: list[list[int]] = []
     mw_rows_to_mark: list[int] = []
@@ -674,10 +700,8 @@ def add_or_mark_mw_rows(ws, header_row: int) -> tuple[int, int]:
 
     marked_count = 0
     for row in sorted(set(mw_rows_to_mark)):
-        mw_issue_cols = [col for col in (target_col, notes_col) if col is not None]
-        if notes_col:
-            ws.cell(row, notes_col).value = append_note(ws.cell(row, notes_col).value, AUTO_NOTE)
         fill_cells(ws, row, mw_issue_cols, ACTION_NEEDED_FILL)
+        add_cell_comments(ws, row, mw_issue_cols, AUTO_NOTE)
         marked_count += 1
 
     added_count = 0
@@ -686,7 +710,7 @@ def add_or_mark_mw_rows(ws, header_row: int) -> tuple[int, int]:
         source_row = group[-1]
         ws.insert_rows(insert_at)
         copy_row_style(ws, source_row, insert_at)
-        clear_cells(ws, insert_at, [*range(1, 9), 14, 16])
+        clear_cells(ws, insert_at, placeholder_blank_cols)
 
         ws.cell(insert_at, category_col).value = "Energy (MW added)"
         if indicator_col:
@@ -697,11 +721,9 @@ def add_or_mark_mw_rows(ws, header_row: int) -> tuple[int, int]:
             ws.cell(insert_at, baseline_col).value = 0
         if target_col:
             ws.cell(insert_at, target_col).value = None
-        if notes_col:
-            ws.cell(insert_at, notes_col).value = AUTO_NOTE
 
-        mw_issue_cols = [col for col in (target_col, notes_col) if col is not None]
         fill_cells(ws, insert_at, mw_issue_cols, ACTION_NEEDED_FILL)
+        add_cell_comments(ws, insert_at, mw_issue_cols, AUTO_NOTE)
         added_count += 1
 
     return added_count, marked_count
@@ -716,7 +738,7 @@ def should_update_sheet(ws, sheet_name: str, all_project_sheets: bool) -> bool:
 def update_workbook(
     path: Path, sheet_name: str, all_project_sheets: bool
 ) -> tuple[bool, list[SheetChange], openpyxl.Workbook]:
-    workbook = openpyxl.load_workbook(path)
+    workbook = openpyxl.load_workbook(path, data_only=True)
     changes: list[SheetChange] = []
 
     if update_beneficiary_categories_sheet(workbook):
@@ -736,6 +758,7 @@ def update_workbook(
             continue
 
         change = SheetChange(workbook=path, sheet=ws.title)
+        unmerge_sheet_cells(ws)
         change.columns_added = ensure_project_info_columns(ws, header_row)
         added, marked = add_or_mark_mw_rows(ws, header_row)
         change.placeholder_rows_added = added
