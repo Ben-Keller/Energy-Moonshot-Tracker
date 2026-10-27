@@ -171,3 +171,20 @@ If using AI description generation:
 ---
 
 
+
+
+## Firebase export authentication
+
+The optional `00_Code/Firebase download.ipynb` uses your Google account through Application Default Credentials. Before running that notebook, sign in from your own terminal:
+
+```sh
+gcloud auth application-default login
+```
+
+Use an account authorized to read Firestore in `energy-moonshot-tracker`. The notebook pins that project explicitly. This is separate from `gcloud auth login`, which signs in the administration CLI. Keep the resulting local Google credentials outside the repository. Do not paste them into the notebook, agent chat, or an environment file.
+
+The previously committed Firebase service-account key was automatically disabled by Google on 2026-01-08 after exposure and permanently deleted on 2026-10-27. Its value may remain in Git history, but that key can no longer authenticate. No replacement service-account key was created. The notebook now uses Google sign-in credentials instead.
+
+For unattended exports, use the hosting platform's attached service account or Workload Identity Federation with only the required Firestore access. Configure that identity for the specific deployment before running exports; the local account login is for interactive development.
+
+Running the notebook exports collection data. Credential maintenance does not execute the export or validate access to application records.
