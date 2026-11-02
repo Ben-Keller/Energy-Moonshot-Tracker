@@ -175,3 +175,10 @@ Adobe Premiere Pro */
 
 # Service-account keys
 *-firebase-adminsdk-*.json
+
+# Private environment variants; commit value-free examples only.
+.env
+.env.*
+!.env.example
+!.env.template
+!.env.sample
